@@ -19,10 +19,11 @@ tidy:
 	(cd ../data/udhr; rm -f *~)
 	(cd ../data/notes; rm -f *~)
 	(cd xsl; rm -f *~)
-	rm java/org/unicode/publication/*.class
 
 clean: tidy
 	rm -fr staging
+	rm -fr java/org/unicode/publication/*.class
+	rm -fr .ignore
 
 java/org/unicode/publication/CharCounter.class: java/org/unicode/publication/CharCounter.java
 	@echo ---- compile CharCounter
@@ -68,7 +69,7 @@ status:
 	@echo ---- status
 	@$(XSLT) -s:../data/udhr/index.xml -xsl:xsl/udhrs2status-multiple.xsl \
 		targetdir=$S/s/ root-dir=../ \
-		-o:/dev/null
+		-o:.ignore
 	cp ../data/status/status_kdh_* $S/s
 
 xml:
@@ -123,7 +124,7 @@ txt:
 	@echo ---- txt, individual versions
 	@$(XSLT) -s:../data/udhr/index.xml -xsl:xsl/udhrs2txt.xsl \
 		split-into=$S/d/ \
-		-o:ignore
+		-o:.ignore
 
 html:
 	@echo ---- html, first article, subset
@@ -150,7 +151,7 @@ html:
 	@echo ---- html, individual versions
 	@$(XSLT) -s:../data/udhr/index.xml -xsl:xsl/udhrs2html.xsl \
 		split-into=$S/d/ full=yes subset=no \
-		-o:ignore
+		-o:.ignore
 
 archives:
 	@echo ---- archive, xml
