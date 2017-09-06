@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for ibo</title>
+
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>The document contains many occurrences of U+0027 &#x0027;
+APOSTROPHE, apparently all after &#x201C;n&#x201D;. According to
+<ulink url='http://www.motherlandnigeria.com/languages.html'/>,
+apostrophe is not used, but &lt;n, U+0304 &#x25CC;&#x0304; COMBINING
+MACRON> is; &lt;n, U+0303 &#x25CC;&#x0303; COMBINING TILDE> according
+to <ulink url='http://ilc.igbonet.com/'/>; and &lt;n, U+0307
+&#x25CC;&#x0307; COMBINING DOT ABOVE> according to <ulink
+url='http://uwandiigbo.com/'/>. In any case, there is no combining
+sequence with n in the document, so it seems that those apostrophes
+should really be some combining mark on the preceding
+&#x201C;n&#x201D;. </para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='September 7, 2006'>[Eric Muller] In addition to
+  the problem resolved by Andrew, the document contains occurrences
+  of a mark below b, h, s, t and space; the mark has been moved below
+  the following vowel if there is one, removed otherwise. Also
+  replaced all the occurrences of U+002D &#x002D; HYPHEN-MINUS by
+  U+2010 &#x2010; HYPHEN.</history-entry>
+
+  <history-entry date='September 7, 2006'>[Andrew Cunningham] The
+  original document uses U+031F &#x25CC;&#x031F; COMBINING PLUS SIGN
+  BELOW and U+031D &#x25CC;&#x031D; COMBINING UP TACK BELOW, while the
+  standard orthography is to use U+0323 &#x25CC;&#x0323; COMBINING DOT
+  BELOW. This has been fixed, as well are removing erroneous
+  sequences of multiple combining marks (probably hidden by incomplete
+  layout engines).</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for guj</title>
+
+
+<bridgehead id='status'>Status</bridgehead>
+
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>Problems</bridgehead>
+
+<para>Is it true that it is common (65 occurrences in this document) to
+find a vowel LETTER in the middle of a word?</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead>History</bridgehead>
+
+<history>
+
+  <history-entry date='January 29, 2016'>Corrections in the first article: દષ્ટિએ replaced by દૃષ્ટિએ, વિચારશકિત replaced by વિચારશક્તિ. Thanks to Rocky Malaviya, Dave Crossland and Sascha Brawer.</history-entry>
+
+  <history-entry date='September 7, 2006'>[Eric Muller] the document
+  provided has 65 occurrences of U+200C ZERO WIDTH NON-JOINER, all
+  after some cluster and before a VOWEL LETTER. Removed those, since
+  they are useless there.</history-entry>
+
+  <history-entry date='September 7, 2006'>stage 4: provided by Kumari Co Ltd
+  via the Language Observatory.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 3: OHCHR identified as
+  the source, partial XML contributed by Adobe Systems (from the
+  partial data at <ulink
+  url='http://ominiglot.com'/>).</history-entry>
+
+</history>
+
+</article>
+  

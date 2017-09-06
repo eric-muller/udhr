@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Which characters?</title>
+
+  <para>In general, there is no ambiguity in the selection of Unicode
+  characters to represent a given text. However, there are few
+  situations which are a bit more delicate. Below are the generally
+  applicable rules we follow; for rules which are specific to a
+  language, see the notes for that language (accessible the
+  translation lists).</para>
+
+  <para>The rules we follow are not necessarily universal: they are
+  designed to work well for the text of the UDHR, which is entirely
+  ordinary text (no math, etc).</para>
+
+  <para>We use U+0020 &#x2018;&#x0020;&#x2019; SPACE ambiguously for
+  all spaces, and do not use U+00A0 &#x2018;&#x00A0;&#x2019; NO-BREAK
+  SPACE or U+202F &#x2018;&#x202F;&#x2019; NARROW NO-BREAK SPACE.</para>
+
+  <para>We prefer to not use U+002D &#x002D; HYPHEN-MINUS because it
+  is an ambiguous character. Instead, we use U+2010 &#x2010; HYPHEN or
+  U+2013 &#x2013; EN DASH as appropriate. Another related character is
+  U+2212 &#x2212; MINUS SIGN, but there is no need for it in the
+  UDHR. (Note: not all translations have been updated to follow this
+  rule).</para>
+
+  <para>The texts are in no particular normal form.</para>
+</article>
+

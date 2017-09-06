@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for afr</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>The document contains <emphasis>ho&#x2019;r</emphasis> and
+<emphasis>materi&#x2019;le</emphasis>. Should these be
+<emphasis>ho&#x00EB;r</emphasis> and
+<emphasis>materi&#x00EB;le</emphasis>?</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+ <history-entry date='June 2, 2008'>missing space after a period</history-entry>
+
+  <history-entry date='September 18, 2006'>[Eric Muller] created some
+  notes, to document the representation of
+  <emphasis>&#x2019;n</emphasis>; replaced the occurrences of U+0149
+  by &lt;2019, 006E>, as well as the occurrences of U+2018 by
+  &lt;2019>.</history-entry>
+
+  <history-entry date='September 10, 2006'>[Eric Muller] replaced the
+  occurrences of &lt;', n> by U+0149 &#x0149; LATIN SMALL LETTER N
+  PRECEDED BY APOSTROPHE (according the CLDR 1.4 examplar character
+  set).</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

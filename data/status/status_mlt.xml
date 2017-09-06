@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for Maltese</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='March 12, 2010'>Many corrections, thanks to
+  Thomas Pace and the National Council for the Maltese Language
+  (<ulink
+  url='www.kunsilltalmalti.gov.mt'>www.kunsilltalmalti.gov.mt</ulink>).</history-entry>
+
+  <history-entry date='March 6, 2010'>Albrecht Dreiheller signals some
+  obvious problems (e.g. the use of &#x0155; and
+  &#x016F;).</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

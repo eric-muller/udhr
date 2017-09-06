@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for pan</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>The first clause of article 17 is missing.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='August 11, 2008'>stage 4: converted to XML.</history-entry>
+
+  <history-entry date='August 5, 2008'>stage 3: the OHCHR site now has
+  the full text. First article retyped from it.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 1: entered in the
+  index, no know source (PDF produced from the partial data at <ulink
+  url='http://ominiglot.com'/>).</history-entry>
+
+</history>
+
+</article>
+  

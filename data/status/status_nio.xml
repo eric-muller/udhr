@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for Nganasan</title>
+
+<!--_______________________________________________________________________-->
+
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problem at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry date='September 10, 2016'>Replaced occurrences of U+00E7 ç LATIN SMALL LETTER C WITH CEDILLA with U+04AB &#x04ab; CYRILLIC SMALL LETTER ES WITH DESCENDER.</history-entry>
+
+  <history-entry date='June 20, 2015'>stage 4: conversion to Unicode, thanks to Eric Muller.</history-entry>
+  <history-entry date='February 22, 2010'>stage 2: OHCHR identified as
+  the source.</history-entry>
+</history>
+
+</article>

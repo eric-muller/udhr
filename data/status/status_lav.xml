@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for lav</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='February 23, 2015'>Corrected a markup error (tag of title for article 25), thanks to Lane Schwartz.</history-entry>
+
+  <history-entry date='November 7, 2006'>it seems that between the
+  original source and the OHCHR, the data was misinterpreted along the
+  way (probably from some less common 8 bit encoding to a Windows code
+  page), so many &#x201C;high ASCII&#x201D; characters were
+  damaged. Thanks to Arthur Reutenauer for providing a repaired
+  version.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

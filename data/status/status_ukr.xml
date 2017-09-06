@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for ukr</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='June 30, 2007'>Corrections thanks to &#x0404;&#x0432;&#x0433;&#x0435;&#x043D;&#x0456;&#x0439; &#x041C;&#x0435;&#x0449;&#x0435;&#x0440;&#x044F;&#x043A;&#x043E;&#x0432; (Eugeniy Meshcheryakov).</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

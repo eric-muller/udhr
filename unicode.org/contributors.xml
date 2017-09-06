@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Contributors</title>
+
+  <para>This project would not be possible without the help of many 
+  individuals and institutions.</para>
+
+  <bridgehead id='ohchr'>OHCHR</bridgehead>
+
+  <para>First and foremost, many thanks to the United Nations and the
+  <ulink url='http://www.ohchr.org/EN/UDHR/'>Office of the High
+  Commissioner for Human Rights</ulink> for gathering so many
+  translations and inspiring this project.</para>
+
+  <bridgehead id='translations'>Translations</bridgehead>
+
+  <para>Many thanks to all the folks who helped with the translations; in no particular order:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>Elango Cheran, for the (new) Tamil [tam] and Tamil (Sri Lanka) [tam_LK] translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Sascha Brawer, for corrections to many translations and for facilitating new translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Marek Z Jeziorek, for corrections to the Amharic [amh] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Martin Jansche, for corrections to the Mon [mnw] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Steve White, for corrections to the Ossetin [oss], Krio [kri], Hindi [hin], Kannada [kan], Bengali [ben], Bhojpuri [bho] and Magahi [mag] translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Yin May Oo, for the Mon [mnw] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Christopher Lwein, for the Manx [glv] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para><ulink url='http://www.globalbility.org'>Globalbility Togo</ulink>, for the Tem [kdh] translation (see the <ulink url='s/status_kdh.html'>status and history</ulink> for a detailed report of the translation process).</para>
+    </listitem>
+
+    <listitem>
+      <para>Denis Moyogo Jacquerye for help with many translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Bivuti Chakma, for the Chakma [ccp] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Daan van Esch and Theresa Breiner, for corrections to multiple translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Jim Brase, for the Tai Dam [blt] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Khun Lein (Sai La Minn), for the Shan [shn] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Sai Zin Di Di Zone, for the Shan [shn] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Yin May Oo, for corrections to the Burmese [mya] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Matthias Bethke, for corrections to the Lao [lao] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>The Dzongkha Development Commission of Bhutan, for the Dzongkha [dzo] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Audun Lona, for the Saami, North [sme] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Doug Felt, for corrections to many translations.</para>
+    </listitem>
+
+    <listitem>
+      <para><ulink url='liarumantscha.ch'>Lia Rumantscha</ulink> for the Romansch translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>John Ross for the Cherokee translations [chr_cased] and [char_uppercase].</para>
+    </listitem>
+
+    <listitem>
+      <para>lorjungkoo for the Khün [kkh_lana] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Saadat Mateen, for corrections to the Urdu [urd] translation, and an improved translation Urdu (2) [urd_2].</para>
+    </listitem>
+
+    <listitem>
+      <para>Michael Cysouw, for the identification of a few languages.</para>
+    </listitem>
+
+    <listitem>
+      <para>Philippe Verdy, for suggestions on the site and for the identification of a few languages.</para>
+    </listitem>
+
+    <listitem>
+      <para>Armin Hoenen, for corrections to the Chokwe [cjk] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Adolfo Jayme Barrientos, for corrections to the Guaraní, Paraguayan [gug] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Lane Schwartz, for corrections to the Latvian [lav] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Rocky Malaviya, for corrections to the Gujarati [guj] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>David Crossland, for corrections to the Gujarati [guj] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>lemzwerg, for corrections to the Greek monotonic [ell_monotonic] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Kang Seonghoon, for corrections to the Khakas [kjh] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Theo Jayaraj Samuel and tradcom.de, for the conversion of the [tel] translation to Unicode.</para>
+    </listitem>
+
+    <listitem>
+      <para>c933103, for identifying a Vietnamese translation in the han nom script [vie_han].</para>
+    </listitem>
+
+    <listitem>
+      <para>Sungsit Sawaiwan, for identifying an alternate Thai translation [tha2].</para>
+    </listitem>
+
+    <listitem>
+      <para>Leo Broukhis, for reporting errors in the map locations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Ken Shirriff, for suggestions on the site.</para>
+    </listitem>
+
+    <listitem>
+      <para>Philip Jacobs for reporting the incorrect identification of the language of the [qud] and [qxa] translations.</para>
+    </listitem>
+      
+    <listitem>
+      <para>Shree Devi Kumar, for corrections to the Bhojpuri [bho] and Magahi [mag] translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Swarup and Atul Thakur, for corrections to the Bengali [ben] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Sriranga and Sathyanarayanarao Magadi Nanjappa, for corrections to the Kannada [kan] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Keshan Sodimana, Pasundu de Silva, for the conversion of the Sinhala [sin] translations to Unicode.</para>
+    </listitem>
+
+    <listitem>
+      <para>Kevin Scannell for reporting the incorrect identification of the language of the [rmy] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Michael Everson for help with African languages.</para>
+    </listitem>
+
+    <listitem>
+      <para>Shriramana Sharma for corrections to the Tamil translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Geetha Sambasivam for corrections to the Tamil translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Miguel Sousa for providing the Portuguese government
+      translation for Portuguese (Portugal), and the conversion of the
+      Yi and Veps translations to Unicode.</para>
+    </listitem>
+
+    <listitem>
+      <para>Jelena Prokic for corrections to both Serbian transalations.</para>
+    </listitem>
+
+    <listitem>
+      <para>M Hasan Jowher for the complete Urdu translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Werner Fröhlich for facilitating the Urdu translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>George Myers for noticing a mislabelling of the Yakut
+      translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Doug Ewell for corrections to the Seraiki and Serbian
+      (latin) translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Andrew Miller for noticing some typos in the site.</para>
+    </listitem>
+
+    <listitem>
+      <para>Thomas Pace and the National Council for the Maltese
+      Language (<ulink
+      url='www.kunsilltalmalti.gov.mt'>www.kunsilltalmalti.gov.mt</ulink>),
+      for many corrections to the Maltese translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Albrecht Dreiheller for reporting problems on the Maltese
+      translation, and noticing that the Sanskrit translation was
+      labelled with the wrong region.</para>
+    </listitem>
+
+    <listitem>
+      <para>Marion Gunn for suggesting clarifications on the use of
+      language names.</para>
+    </listitem>
+
+    <listitem>
+      <para>Arthur Reutenauer for the full Altai, Southern, Shor,
+      Evenki, Khakas, Yakut, Tuva, Ojibwa (Northwestern), Inuktitut
+      (Eastern Canadian), Kirghiz, Swampy Cree, Tatar, Ticuna,
+      Turkmen, and Uyghur (Arabic) translations; the first article for
+      the Assyrian Neo-Aramaic, Dzongha, Mongolian (Mongolian), Tamang
+      and Yi translations, the repair of the Belarusan, Bosnian
+      (Cyrillic), Bulgarian, Mongol, Latvian, Kazakh Macedonian,
+      Osetin, Siona and Serbian translations; corrections to the
+      German, Italian and Nepali translations; and help with the
+      Slovenian translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Emmanuel Vallois for the conversion of the Colorado and
+      Venda translations to Unicode.</para>
+    </listitem>
+
+    <listitem>
+      <para>Miikka-Markus Alhonen for corrections to the Tajik,
+      Finnish, Azerbaijani, North (Latin), Azerbaijani, North
+      (Cyrillic) translations, major corrections to the Uzbek
+      translations, finding and correcting the Turkmen (Latin)
+      translation, and typing the Assyrian Neo-Aramaic
+      translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>http://www.freewebs.com/turkmenweb/bmgninjarnamasy.htm for
+      the Turkmen (Latin) [tuk_latn] translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>http://gddc.pt for the (Crioulo da Guin&#x00E9;) [008],
+      (Kimbundo) [009], Makhuwa [vmw], (Tetum) [010], Umbundo [011]
+      translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>&#x0628;&#x0647;&#x0646;&#x0627;&#x0645;
+      &#x0627;&#x0633;&#x0641;&#x0647;&#x0628;&#x062F; (Behnam
+      Esfahbod) for major corrections to the Farsi, Western
+      translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Wunna Ko Ko for corrections to the Myanmar translation, and for
+      conversion to the Unicode 5.1 format.</para>
+    </listitem>
+
+    <listitem>
+      <para>User "transtic" on the Asia Finest Discussion Forum.</para>
+    </listitem>
+
+
+    <listitem>
+      <para>Roey Horns for noticing typos in the German translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Dr. Ramanand Jha 'Raman' for translating the UDHR in Maithili</para>
+    </listitem>
+
+    <listitem>
+      <para>Pandit Govinda Jha for reviewing the Maithili translation</para>
+    </listitem>
+
+    <listitem>
+      <para>Anshuman Pandey for facilitating the Maithili translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Tombekai V. Sherman for translating the UDHR in Vai and providing
+      the XML representation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Charles Riley, for facilitating the Vai translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Marcin Kowalczyk for corrections to the Polish translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Mojca Miklavec for help with the Slovenian translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Sahak Petrosyan for a major review of the Armenian
+      translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Otto Stolz for corrections to the German translation (1901
+      orthography) and for providing a translation following the 1996
+      orthography.</para>
+    </listitem>
+
+    <listitem>
+      <para>Asmus Freytag for help with the German translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Dan Alexandru for corrections to the Romanian translations
+      (1953 and 1993 orthographies) and providing a translation
+      following the 2006 orthography.</para>
+    </listitem>
+
+    <listitem>
+      <para>Henning Brunzel for noticing the mislabeling of the 
+      Cashinahua translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>&#x0404;&#x0432;&#x0433;&#x0435;&#x043D;&#x0456;&#x0439;
+      &#x041C;&#x0435;&#x0449;&#x0435;&#x0440;&#x044F;&#x043A;&#x043E;&#x0432;
+      (Eugeniy Meshcheryakov) for corrections to the Ukrainian
+      translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Sholem Berger and Raphael Finkel for providing the Yiddish
+      translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Benjamin Titze for noticing small differences between the
+      official record of the Declaration and our English version.</para>
+    </listitem>
+
+    <listitem>
+      <para>Mihai Ni&#x021B;&#x0103; for correcting the Romanian
+      translation (1953 orthography) and providing a translation
+      following the 1993 orthography.</para>
+    </listitem>
+
+    <listitem>
+      <para>Daniel Yacob for providing the Amharic translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Martin Hosken for help with the Myanmar translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Don Osborn, <ulink url='bisharat.net'/>, for providing a
+      vastly improved Hausa translation, in both Niger and Nigeria
+      orthographies.</para>
+    </listitem>
+
+    <listitem>
+      <para>Zden&#x011B;k Wagner for proofreading and correcting many
+      spelling mistakes in the Czech translation and in the Hindi
+      translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>António Martins for pointing out the <ulink
+      url='http://linguarium.iling-ran.ru'>Linguarium</ulink>
+      project.</para>
+    </listitem>
+
+    <listitem>
+      <para>Leandro Reis for proofreading and correcting the
+      Portuguese (Portugal) translation, pointing at a source for the
+      Portuguese (Brazil) translation, and proofreading it.</para>
+    </listitem>
+
+    <listitem>
+      <para>Na&#x00E7;&#x00F5;es Unidas no Brazil for providing the
+      text of the Portuguese (Brazil) translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Yannis Haralambous, <ulink
+      url='http://www.polytoniko.gr/'/>, for providing the Greek
+      (polytonic) version.</para>
+    </listitem>
+
+    <listitem>
+      <para>Aung for the full Burmese version, and Craig
+      Rublee for facilitating that.</para>
+    </listitem>
+
+    <listitem>
+      <para>Dirk Meyer for help with the German translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Patrick Andries, John Hudson, Kent Karlsson, Jonathan Kew,
+      Erik van der Poel for comments on the representation of
+      <emphasis>&#x2019;n</emphasis> in Afrikaans.</para>
+    </listitem>
+
+    <listitem>
+      <para>Patrick Hall for suggesting to create plain text and html
+      versions of the &#x201C;first article&#x201D;-only documents,
+      and for help with the Themne translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Valaxay Dalaloy via the Language
+      Observatory for the full Lao translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Allen Bailochan Tuladhar via the Language Observatory for
+      a good chunck of the Nepali translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Kumari Co Ltd. via the Language Observatory for the full
+      Marathi, Gujarati, Seraiki, Bengali, Kannada and Western Panjabi
+      translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Chuluun Erdenebat and Ulziibat Batbaatar via the Language
+      Observatory for the full Mongolian (Cyrillic) translation.</para>
+    </listitem>
+
+    <listitem>
+       <para>Jun Sugawara via the Language Observatory for the full
+       Uighur (Latin).</para>
+    </listitem>
+
+    <listitem>
+      <para>the <ulink
+      url='http://gii2.nagaokaut.ac.jp/gii/blog/lopdiary.php'>Language
+      Observatory</ulink> for having initiated an effort similar to ours.</para>
+    </listitem>
+
+    <listitem>
+      <para>Andrew Cunningham for pointing out the existence of the
+      <ulink
+      url='http://gii2.nagaokaut.ac.jp/gii/blog/lopdiary.php'>Language
+      Observatory</ulink> and its conversion of some translations of the
+      UDHR; for working on the Igbo translation.</para>
+    </listitem>
+
+    <listitem>
+      <para>Andrew West for pointing out the presence of the Yi, Sichuan on
+      the OHCHR web site.</para>
+    </listitem>
+
+    <listitem>
+      <para>Sukhjinder Sidhu for pointing out the mixing of Panjabi,
+      Eastern and Panjabi, Western.</para>
+    </listitem>
+
+    <listitem>
+      <para>Jyothis Edathoot at Jyothis.net for typing the Malayalam
+      translation from the OHCHR source.</para>
+    </listitem>
+
+    <listitem>
+      <para>K. Kalyanasundaram for typing the Tamil translation from the
+      OHCHR source.</para>
+    </listitem>
+
+    <listitem>
+      <para>Jony Rosenne helped with the proper HTML usage for
+      right-to-left texts.</para>
+    </listitem>
+
+    <listitem>
+      <para>Niti Hantaweepant (&#x0E19;&#x0E34;&#x0E18;&#x0E34;
+      &#x0E2B;&#x0E32;&#x0E0D;&#x0E17;&#x0E27;&#x0E35;&#x0E1E;&#x0E31;&#x0E19;&#x0E18;&#x0E38;&#x0E4C;)
+      and Ornnida Muneepeerakul
+      (&#x0E2D;&#x0E23;&#x0E19;&#x0E34;&#x0E14;&#x0E32;
+      &#x0E21;&#x0E38;&#x0E19;&#x0E35;&#x0E1E;&#x0E35;&#x0E23;&#x0E30;&#x0E01;&#x0E38;&#x0E25;)
+      for typing the Thai translation from the OHCHR source.</para>
+    </listitem>
+    
+    <listitem>
+      <para>Rani Mahapatra for (partially) deciphering the Bengali image provided
+      by the OHCHR site.</para>
+    </listitem>
+    
+    <listitem>
+      <para>Simon Ager at <ulink
+      url='http://www.omniglot.com'>omniglot.com</ulink> for gathering
+      a few translations of the first article of the UDHR.</para>
+    </listitem>
+    
+    <listitem>
+      <para>Adobe Systems, for providing the XML files for 280
+      languages (pre-review); for corrections to the
+      Catalan-Valencian-Balear [cat] and Vietnamese [vie]
+      translations.</para>
+    </listitem>
+
+    <listitem>
+      <para>Eric Muller, for initiating and coordinating this
+      project.</para>
+    </listitem>
+  </itemizedlist>
+
+<!--
+  <bridgehead id='fonts'>Fonts</bridgehead>
+
+  <para>Many thanks to the font designers and foundries who made fonts
+  available on generous terms. We believe that all the fonts we use
+  are available without a fee for everyone working on this project; if
+  we misinterpreted a license, please let us know and accept our
+  apologies. See <ulink url='tech_files.html#pdf'>here</ulink> for
+  a list of the fonts we use.</para>
+
+-->
+
+  <bridgehead id='corrections'>Corrections</bridgehead>
+
+  <para>If we did not record your contribution (sorry!), or
+  you would like a different wording, please <ulink
+  url='contacts.html'>let us know</ulink>.</para>
+  
+</article>
+

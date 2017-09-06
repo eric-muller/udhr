@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for tgk</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='December 31, 2007'><para>The OHCHR data seems to suffer from encoding problems, using characters which are not normally part of the Tajik orthography. The following replacements were made:</para>
+<literallayout>
+040A &#x2192; 04B2
+0403 &#x2192; 0492
+0453 &#x2192; 0493
+045C &#x2192; 049B
+045E &#x2192; 04EF
+0457 &#x2192; 04E3
+0459 &#x2192; 04B7
+045A &#x2192; 04B3
+</literallayout>
+<para>Thanks to Miikka-Markus Alhonen for pointing out the problems
+and providing the replacements.</para></history-entry>
+
+
+
+  <history-entry date='April 22, 2007'>stage 4: text recovered from the PDF</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 2: entered in the index, OHCHR identified as the source.</history-entry>
+
+</history>
+
+</article>
+  

@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>News</title>
+
+  <bridgehead id='y2017'>2017</bridgehead>
+
+  <para><emphasis>September 4, 2017:</emphasis> Major overhaul of the Tamil [tam] translation; addition of the Tamil (Sri Lanka) [tam_LK] translation; thanks for Elango Cheran.</para>
+
+  <para><emphasis>September 4, 2017:</emphasis> Corrections to the Welsh [cym] translation.</para>
+
+  <para><emphasis>August 8, 2017:</emphasis> Fix inconsistencies between the attributes in index.xml and the XML version of the translations. Affected: [ami], [chr_uppercase], [flm], [fri], [glv], [hus], [hva], [lnc], [mly_arab], [mly_latn], [nep], [orh], [roh_sursilv], [tzc], [urd_2].</para>
+
+  <para><emphasis>August 7, 2017:</emphasis> The Amis [ami] translation is available for review.</para>
+
+  <para><emphasis>August 6, 2017:</emphasis> The Chinese, Jinyu [cjy], Chinese, Gan [gan], Chinese, Hakka [hak], Chinese, Min Nan [nan] and Chinese, Wu [wuu] translations are available for review.</para>
+
+  <para><emphasis>August 6, 2017:</emphasis> New translations at stage 2, from OHCHR: [021], [022], [023], [024], [025], [ami], [ayo], [cas], [cjy], [cmn_hans_beijing], [cmn_hans_guiyang], [cmn_hans_harbin], [cmn_hans_nanjing], [cmn_hans_tianjin], [ese], [gan], [gnw], [hak], [jpn_tokyo], [jpn_osaka], [mtp], [nan], [qul], [slr], [srq], [tji], [tna], [trn], [wuu], [yuz].</para>
+
+ <para><emphasis>August 5, 2017:</emphasis> Corrections to the Mon [mnw] translation, thanks to Martin Jansche and Yin-May Oo.</para>
+
+  <para><emphasis>August 5, 2017:</emphasis> Correction to the Ossetin [oss] translation, thanks to Steve White.</para>
+
+  <para><emphasis>August 5, 2017:</emphasis> The Kursish, Northern [kmr], Nanai [gld], Tsonga (Zimbabwe) [tso_ZW], Bamun [bax], Orogen [orh] and Orok [oaa] translations are available for review.</para>
+
+  <para><emphasis>August 5, 2017:</emphasis> The &lt;udhr:udhr&gt; elements in the translations and the &lt;udhr&gt; elements in the index now have a dir and an iso15924 attribute.</para>
+
+  <para><emphasis>July 24, 2017:</emphasis> Corrections to the Amharic [amh] translations, thanks to Marek Z Jeziorek.</para>
+
+  <para><emphasis>June 10, 2017:</emphasis> The [aka_akuapem] translation is now ISO 639-3: twi, BCP 47: tw-akuapem; the [aka_asante] translation is now ISO 639-3: twi, BCP 47: tw-asante; the [aka_fante] translation is now ISO 639-3: fat, BCP 47: fat. All three were previously ISO 639-3: ak, BCP 47: ak.</para>
+
+  <para><emphasis>May 28, 2017:</emphasis> The Mon [mwn] full translation is available for review, thanks to Yin May Oo, via Sascha Brawer.</para>
+
+  <para><emphasis>May 23, 2017:</emphasis> The Manx [glv] full translation is available for review, thanks to Christopher Lewin, via Sascha Brawer.</para>
+
+  <para><emphasis>May 13, 2017:</emphasis> The Tem [kdh] full translation is available for review, thanks to <ulink url='http://www.globalbility.org'>Globalbility Togo</ulink>.</para>
+
+  <para><emphasis>May 13, 2017:</emphasis> Corrections to the Czech [ces] translation, thanks to Denis Jacquerye.</para>
+
+  <para><emphasis>May 3, 2017:</emphasis> Corrections to the Kituba [ktu], Panjabi, Western [png] translations, thanks to Daan van Esch and Theresa Breiner.</para>
+
+  <para><emphasis>May 3, 2017:</emphasis> The Chakma [ccp] full translation is available for review, thanks to Bivuti Chakma, via Sascha Brawer.</para>
+
+  <para><emphasis>May 3, 2017:</emphasis> The language of the [020] translation has been identified as Drung, 639-3 duu.</para>
+
+  <para><emphasis>February 9, 2017:</emphasis>The Tai Dam [blt] full translation is available for review, thanks to Jim Brase, via Sascha Brawer.</para>
+
+  <para><emphasis>February 9, 2017:</emphasis>The Shan [shn] full translation is available for review, thanks to Khun Lein (Sai La Minn) and Sai Zin Di Di Zone, via Sascha Brawer.</para>
+
+  <para><emphasis>February 9, 2017:</emphasis> Corrections to the Burmese [mya] translation, thanks to Yin May Oo, via Sascha Brawer.</para>
+
+  <para><emphasis>February 9, 2017:</emphasis> Corrections to the Lao [lao] translation, thanks Matthias Bethke.</para>
+
+  <bridgehead id='y2016'>2016</bridgehead>
+
+  <para><emphasis>September 10, 2016:</emphasis> The Dzongkha [dzo] full translation is available for review, thanks to the Dzongkha Development Commission of Bhutan.</para>
+
+  <para><emphasis>September 10, 2016:</emphasis> New Saami, North [sme] translation, thanks to Audun Lona.</para>
+
+  <para><emphasis>September 10, 2016:</emphasis> Corrections to the Lingala [lin] translation, thanks Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>September 10, 2016:</emphasis> Replaced occurrences of latin charaters by the appropriate cyrillic charaters in the Kabardian [kbd], Nganasan [nio] and Yakut [sha] translations; thanks to Doug Felt for noticing those.</para>
+
+  <para><emphasis>July 12, 2016:</emphasis> The Romansch (Grischun) translation is available for review.</para>
+
+  <para><emphasis>July 9, 2016:</emphasis> The Romansch (Puter), Romansch (Surmiran), Romansch (Sursilvan), Romansch (Sutsilvan) and Romansch (Vallader) translations are available for review, thanks to <ulink url='liarumantscha.ch'>Lia Rumantscha</ulink> (via Sascha Brawer).</para>
+
+  <para><emphasis>July 4, 2016:</emphasis> The Cherokee (uppercase) [chr_uppercase] and the Cherokee (cased) [chr_cased] translations are available for review, thanks to John Ross (via Sascha Brawer).</para>
+
+  <para><emphasis>June 27, 2016:</emphasis> The Khün translation [kkh_lana] is available for review, thanks to lorjungkoo (via Sascha Brawer).</para>
+
+  <para><emphasis>June 25, 2016:</emphasis> Corrections to Urdu [urd] translation, and alternate translation [urd_2], thanks to Saadat Mateen.</para>
+
+  <para><emphasis>June 25, 2016:</emphasis> Conversion to Unicode: (Bizisa) [012], (Mijisa) [013], (Maiunan) [014], (Minjiang, spoken) [016], (Minjiang, written)[017], (Tyrung) [020], by Eric Muller.</para>
+
+  <para><emphasis>June 25, 2016:</emphasis> Correction of the Maithili [mai] translation, thanks to Eric Muller.</para>
+
+  <para><emphasis>June 19, 2016:</emphasis> Assigment of a likely language to the translations [007], [008], [009], [010], [011]. Thanks to Michael Cysouw and Philippe Verdy.</para>
+
+  <para><emphasis>June 19, 2016:</emphasis> Corrections to the Chokwe [cjk] translation, thanks to Armin Hoenen.</para>
+
+  <para><emphasis>June 18, 2016:</emphasis> Corrections to the Guaraní, Paraguayan [gug] translation, thanks to Adolfo Jayme Barrientos.</para>
+
+  <para><emphasis>June 18, 2016:</emphasis> The Pintupi-Luritja [piu], Comorian, Ngazidja [zdj], Chinese, Yue [yue], Okiek [oki], Bushi [buc] translations are available for review, thanks to Eric Muller.</para>
+
+  <para><emphasis>June 18, 2016:</emphasis> New translations at stage 2, from OHCHR: [012], [013], [014], [015], [016], [017], [018], [019], [020], [bap], [bmj], [brd], [brx_deva], [byh], [cdm], [chx], [dhi], [dry], [kfx_deva], [kgg_deva], [kra], [lep_deva], [mvf_mong], [orh], [rab], [rji], [sjk_deva], [vay], [suz_1], [vay].</para>
+
+  <para><emphasis>March 27, 2016:</emphasis> Correction to the Tzotzil, Chamula [tzc] translation, thanks to Sascha Brawer.</para>
+
+  <para><emphasis>February 23, 2016:</emphasis> Corrections to the Latvian [lav] translation, thanks to Lane Schwartz.</para>
+
+  <para><emphasis>February 23, 2016:</emphasis> Corrections to the Quichua, Chimborazo Highland [qug] translation, thanks to Sascha Brawer.</para>
+
+  <para><emphasis>January 29, 2016:</emphasis> Corrections to the Gujarati [guj] translation, thanks to Rocky Malaviya, Dave Crossland and Sascha Brawer.</para>
+
+  <para><emphasis>January 29, 2016:</emphasis> Corrections to the Greek monotonic [ell_monotonic] translation, thanks to lemzwerg and Sascha Brawer.</para>
+
+  <para><emphasis>January 29, 2016:</emphasis> Corrections to the Khakas [kjh] translation, thanks to Kang Seonghoon.</para>
+
+  <para><emphasis>January 29, 2016:</emphasis> Corrections to the Maithili [mai] translation, thanks to lemzwerg, Anshuman Pandey and Doug Felt.</para>
+
+
+  <bridgehead id='y2015'>2015</bridgehead>
+
+  <para><emphasis>November 7, 2015:</emphasis> Correction to the Krio [kri] translation, thanks to Steve White.</para>
+
+  <para><emphasis>November 5, 2015:</emphasis> The [tel] translation is available for review, thanks to Theo Jayaraj Samuel and tradcom.de.</para>
+
+  <para><emphasis>November 5, 2015:</emphasis> Changed the language of the [iii] translation to “Nuosu”, to align with the Ethnologue name.</para>
+
+  <para><emphasis>November 5, 2015:</emphasis> Corrections to the [cbi] translation.</para>
+
+  <para><emphasis>September 19, 2015:</emphasis> Corrections to the [nku] and [koi] translations, thanks to Doug Felt.</para>
+
+  <para><emphasis>September 19, 2015:</emphasis> new translation a stage 2: [ybh].</para>
+
+  <para><emphasis>August 25, 2015:</emphasis> Vietnamese translation in the Han nom script [vie_han], from <ulink url="http://www.hannom-rcv.org/wi/index.php?title=%E5%BC%B5%E6%AD%A3">韋那威箕</ulink>, thanks to c933103.</para>
+
+  <para><emphasis>August 25, 2015:</emphasis> additional Thai tranlation [tha2] from the Ministry of Foreign Affairs of The Kingdom of Thailand, thanks to Sungsit Sawaiwan.</para>
+
+  <para><emphasis>August 25, 2015:</emphasis> the [pes_2] translation is now idendified as Dari, 639-3 prs, BCP47 fa-AF, thanks to Shervin Afshar.</para>
+
+  <para><emphasis>August 25, 2015:</emphasis> correction to [sin] Sinhala translation, thanks to Keshan Sodimana and Sascha Brawer; advanced to stage 5.</para>
+
+  <para><emphasis>June 27, 2015:</emphasis> aligned with changes to ISO 639-3. This affects those translations: [auv], [blu], [btb], [ccx], [flm], [fri], [hsf], [hva], [lnc], [mly_latn], [mly_arab], [nep], [raj], [tzc]. See their status and history for details.</para>
+
+  <para><emphasis>June 27, 2015:</emphasis> the language of the [qud] translation is actually “Unified Quichua”, in the old Hispanic orthography. This language does not have an ISO 639-3 code, but is covered by the macrolanguage ISO 639-3 que, BCP 47 qu. Thanks to Philip Jacobs for reporting this error.</para>
+
+  <para><emphasis>June 27, 2015:</emphasis> the language of the [qxa] translation is actually “Quechua, South Bolivian”, ISO 639-3 quh, BCP 47 quh. Thanks to Phillip Jacobs for reporting this error.</para>
+
+  <para><emphasis>June 27, 2015:</emphasis> corrections to the Bhojpuri [bho] and Magahi [mag] translations, thanks to Shree Devi Kumar and Steve White.</para>
+
+  <para><emphasis>June 27, 2015:</emphasis> corrections to the Bengali [ben] translation, thanks to Swarup, Atul Thakur and Steve White.</para>
+
+  <para><emphasis>June 26, 2015:</emphasis> corrections to the Kannada [kan] translation, thanks to Sriranga, Sathyanarayanarao Magadi Nanjappa, and Steve White.</para>
+
+  <para><emphasis>June 25, 2015:</emphasis> the Sinhala [sin] translation is available for review, thanks to Keshan Sodimana, Pasundu de Silva and Sascha Brawer.</para>
+
+  <para><emphasis>June 21, 2015:</emphasis> the language of the [rmy] translation was incorrectly identified as “Romani, Vlax”. It is in fact “Aromanian”, ISO 639-3 rup, BCP 47 rup. Thanks to Kevin Scannell for reporting this error.</para>
+
+  <para><emphasis>June 20, 2015:</emphasis> new translations at stage 4: [ady], [dyu], [fuv], [hns], [kbd], [koi], [lij], [lld], [lob], [mto], [nio], [nku], [oci_4], [oci_3], [oci_2], [oci_1], [pap], [swb], [tly], [zgh].</para>
+
+  <para><emphasis>June 20, 2015:</emphasis> new translations at stage 2: [dhw], [fuf], [gvr], [hoc], [jul], [kxl], [lhm], [lif], [mgp], [mjz], [new], [rjs], [sck], [scp], [thf], [thl], [ths], [xsr].</para>
+
+  <bridgehead id='y2014'>2014</bridgehead>
+
+  <para><emphasis>May 6, 2014:</emphasis> corrections to the Tamil translation [tam], thanks to Shriramana Sharma and Geetha Sambasivam.</para>
+
+  <para><emphasis>May 6, 2014:</emphasis> corrections to the Hindi translation [hin], thanks to Steve White.</para>
+
+  <bridgehead id='y2013'>2013</bridgehead>
+
+  <para><emphasis>September 29, 2013:</emphasis> new translations via the OHCHR site, stage 2: Bushi [buc], Bishnupriya [bpy], Okiek [oki], Rajasthani [raj], Santhali [sat], Comorian, Maore [swb], Sunwar [suz], Tamasheg [taq], Tamashep (Tifinagh) [taq-tfng]</para>
+
+  <bridgehead id='y2012'>2012</bridgehead>
+
+  <para><emphasis>December 12, 2012:</emphasis> the Bari [bfa] and Venetian [vec] translations are available for review, thanks to Eric Muller.</para>
+
+  <para><emphasis>December 11, 2012:</emphasis> the Huastec, Southeastern [hsf], Nga La [hlt], Khasi [kha], Mizo [lus], Saxon, Low [nds], and Naga, Ao [njo]  translations are available for review, thanks to Eric Muller.</para>
+
+  <para><emphasis>December 11, 2012:</emphasis> new translations via the OHCHR site, stage 2: Awadhi [awa], Kanauji [bjj], Chiquitano [cafx], Garhwali [gbm], Gondi, Northern [gno], Nga La [hlt], Chhattisgarhi [hne], Hoc [hoc], Huastec, Southeastern [hsf], Kodava [kfa], Khasi [kha], Kharia [khr], Mizo [lus], Maithili [mai_2], Saxon, Low [nds], Naga, Ao [njo], Orok [oaa], Mundari [unr], Venetian [vec].</para>
+
+  <para><emphasis>February 18, 2012:</emphasis> the Veps [vep] translation
+  is available for review, thanks to Miguel Sousa.</para>
+
+  <para><emphasis>February 18, 2012:</emphasis> the Yi, Sichuan [iii] translation
+  is available for review, thanks to Miguel Sousa.</para>
+
+  <para><emphasis>February 18, 2012:</emphasis> new translations via the
+  OHCHR site, stage 2: Gilyak [niv].</para>
+
+
+
+  <bridgehead id='y2011'>2011</bridgehead>
+
+  <para><emphasis>December 29, 2011:</emphasis> new translations via the
+  OHCHR site, stage 4: Yanomamö [guu], Ladino [lad].</para>
+
+  <para><emphasis>April 5, 2011:</emphasis> new translations via the
+  OHCHR site, stage 2: Jula [dyu], Komi-Permyak [koi], Lobi [lob],
+  Kulango, Bouna [nku].</para>
+
+  <para><emphasis>April 5, 2011:</emphasis> corrections to the Serbian
+  translations [srp_cyrl and srp_latn], thanks to Jelena
+  Prokic.</para>
+
+  <para><emphasis>April 5, 2011:</emphasis> the Urdu [urd] translation
+  is available for review, thanks to M Hasan Jowher and Werner Fröhlich.</para>
+
+  <para><emphasis>March 1, 2011:</emphasis> fix to the
+  Serbian (Latin) translation, thanks to Doug Ewell.</para>
+
+  <para><emphasis>March 1, 2011:</emphasis> Minor corrections to the
+  French translation.</para>
+
+
+
+  <bridgehead id='y2010'>2010</bridgehead>
+
+  <para><emphasis>July 16, 2010:</emphasis> many fixes to the
+  Portuguese (Portugal) translation, thanks to Miguel Sousa.</para>
+
+  <para><emphasis>July 16, 2010:</emphasis> fix to the
+  Serbian (Latin) translation, thanks to Doug Ewell.</para>
+
+  <para><emphasis>April 25, 2010:</emphasis> the Chachi [cbi],
+  Awa-Cuaiquer [kwi], Quichua, Chimborazo Highland [qug],
+  Achuar-Shiwiar (1) [acu_1], Karelian [krl] and Otuho [lot]
+  translations are available for review, thanks to Eric Muller.</para>
+
+  <para><emphasis>April 24, 2010:</emphasis> the Z&#x00E1;paro [zro],
+  Waorani [auc], Siona [snn], Shuar [jiv], Shilluk [shk] and Secoya
+  [sey] translations are available for review, thanks to Eric
+  Muller.</para>
+
+  <para><emphasis>April 22, 2010:</emphasis> the Shilluk [shk] translation
+  is available for review, thanks to Eric Muller.</para>
+
+  <para><emphasis>April 22, 2010:</emphasis> new translation via
+  the OHCHR site, stage 2: Bari [bfa].</para>
+
+  <para><emphasis>March 12, 2010:</emphasis> many corrections to the
+  Maltese translation, thanks to Thomas Pace and the National Council
+  for the Maltese Language (<ulink
+  url='www.kunsilltalmalti.gov.mt'>www.kunsilltalmalti.gov.mt</ulink>).</para>
+
+  <para><emphasis>February 25, 2010:</emphasis> the Altai, Southern,
+  Shor, Evenki, Khakas, Yakut and Tuva translations are ready for
+  review, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>February 22, 2010:</emphasis> the first article of
+  the Siona translation is available for
+  review, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>February 22, 2010:</emphasis> 
+  (Bai Coca) [001] identified as Siona [snn];
+  (Chaa&#x0027;pala) [002] identified as Chachi [cbi]; 
+  (Pai Koka) [003] identified as Secoya [sey]; 
+  (Sapara Atupama) [004] identified as Z&#x00E1;paro [zro];
+  (Shuar Chicham) [005] identified as Shuar [jiv];
+  (Sia Pedee) [006] identified as Epena [sja];
+  (Achuar Chicham) [jiv] identified as Achuar-Shiwiar [acu_1];
+  </para>
+
+  <para><emphasis>February 22, 2010:</emphasis> new translations via
+  the OHCHR site, stage 2: Altai, Southern [alt], Belanda Viri [bvi],
+  Shor [cjs], Evenki [evn], Khakas [kjh], Kurdish, Northern [kmr],
+  Karelian [krl], Otuho [lot], Nganasan [nio], Nuer [nus], Yakut
+  [sah], Shilluk [shk], Tuva [tyv], Veps [vep], Nenets [yrk].</para>
+
+  <bridgehead id='y2009'>2009</bridgehead>
+
+  <para><emphasis>August 31, 2009</emphasis> minor corrections to the
+  Seraiki translation, thanks to Doug Ewell.</para>
+
+  <para><emphasis>August 17, 2009</emphasis> the Venda and Colorado
+  translations are ready for review, thanks to Emmanuel
+  Vallois.</para>
+
+  <para><emphasis>May 17, 2009</emphasis> the Maldivian translation is
+  ready for review, thanks to Eric Muller.</para>
+
+  <para><emphasis>March 27, 2009:</emphasis> the Assyrian Neo-Aramaic
+  translation is ready for review, thanks to Miikka-Markus
+  Alhonen.</para>
+
+  <para><emphasis>March 27, 2009:</emphasis> fixes to the Finnish,
+  Azerbaijani, North (Latin), Azerbaijani, North (Cyrillic)
+  translations, thanks to Miikka-Markus Alhonen.</para>
+
+  <para><emphasis>March 27, 2009:</emphasis> fixes to the Linguala
+  (with tones), Serer-Sine and Tamazight translations, thanks to Denis
+  Moyogo Jacquerye.</para>
+
+
+
+  <para><emphasis>January 30, 2009:</emphasis> more fixes to the Uzbek
+  translations, still thanks to Miikka-Markus Alhonen.</para>
+
+  <para><emphasis>January 30, 2009:</emphasis> a few corrections to
+  the Turkmen (Cyrillic) [tuk_latn] translation, thanks to Miikka-Markus
+  Alhonen.</para>
+
+  <para><emphasis>January 30, 2009:</emphasis> new translation:
+  Turkmen (Latin), from
+  http://www.freewebs.com/turkmenweb/bmgninjarnamasy.htm, found by
+  Miikka-Markus Alhonen, who also provided some corrections. Code for
+  the Turkmen (Cyrillic) translation changed from [tuk] to
+  [tuk_cyrl].</para>
+
+  <para><emphasis>January 30, 2009:</emphasis> a few corrections to
+  the Catalan-Valencian-Balear [cat] and Vietnamese [vie]
+  translations, thanks to Adobe Systems.</para>
+
+  <para><emphasis>January 29, 2009:</emphasis> new translations via
+  http://gddc.pt, ready for review: (Crioulo da Guin&#x00E9;) [008],
+  (Kimbundo) [009], Makhuwa [vmw], (Tetum) [010], Umbundo
+  [011].</para>
+
+  <para><emphasis>January 29, 2009:</emphasis> new translations via
+  the OHCHR site, ready for review: Proven&#x00E7;al [prv], (Forro)
+  [007], Chokwe (Angola) [cjk_AO], Kabuverdianu [kea], Koongo (Angola)
+  [kng_AO], Scots [sco], Tsonga (Mozambique) [tso_MZ], Venda
+  [ven].</para>
+
+  <para><emphasis>January 29, 2009:</emphasis> new translations via
+  the OHCHR site, stage 2: (Bai Coca) [001], (Chaa'pala) [002], (Pai
+  Koka) [003], (Sapara Atupama) [004], (Shuar Chicham) [005], (Sia
+  Pedee) [006], Waorani [auc], Colorado [cof], Cof&#x00E1;n [con],
+  Shuar [jiv], Awa-Cuaiquer [kwi], Quichua, Chimborazo Highland
+  [qug].</para>
+
+
+  <para><emphasis>January 24, 2009:</emphasis> major fixes in both
+  Uzbek translations, thanks to Miikka-Markus Alhonen.</para>
+
+  <para><emphasis>January 24, 2009:</emphasis> the two translations
+  previously identified as Parsi-Dari and Farsi, Eastern are now
+  identified as two Farsi, Western translations, with variant tags 1
+  and 2. Both are now at stage 4, after numerous corrections, thanks
+  to &#x0628;&#x0647;&#x0646;&#x0627;&#x0645;
+  &#x0627;&#x0633;&#x0641;&#x0647;&#x0628;&#x062F; (Behnam
+  Esfahbod).</para>
+
+  <bridgehead id='y2008'>2008</bridgehead>
+
+  <para><emphasis>September 20, 2008:</emphasis> fixes in the Mende
+  and Dagbani translations, thanks to Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>September 20, 2008:</emphasis> in the lists of
+  translation, the RFC4646bis column has been replaced by two columns,
+  BCP 47 and ULI.</para>
+
+  <para><emphasis>August 11, 2008:</emphasis> the Panjabi, Eastern
+  translation is ready for review.</para>
+
+  <para><emphasis>August 8, 2008:</emphasis> the Crioulo, Upper Guinea 
+  translation is ready for review.</para>
+
+  <para><emphasis>August 5, 2008:</emphasis> OHCHR has switched their
+  pnj1 document from a translation using the Arabic script to a
+  translation using the Gurmukhi script. We assume this goes with a
+  change of actual language, from Panjabi, Western to Panjabi,
+  Eastern. As a result, the Panjabi, Eastern translation is now at
+  stage 3.</para>
+
+  <para><emphasis>August 4, 2008:</emphasis> a number of translations
+  have appeared on the OHCHR site, and are available for review:
+  Dinka, Northeastern; Chin, Falam; Chin, Haka; Chin, Tedim; Guarayu;
+  Mozarabic. In addition, the OHCHR site provides a translation for
+  Crioulo, Upper Guinea (not yet converted to XML).</para>
+
+  <para><emphasis>June 2, 2008:</emphasis> repaired a major misalignment of the 
+  element contents in the Ash&#x00E1;ninca translation.</para>
+
+  <para><emphasis>June 2, 2008:</emphasis> fixed some minor problems,
+  mostly missing spaces after periods, in many translations.</para>
+
+  <para><emphasis>May 22, 2008:</emphasis> account for the UTC
+  decision in the notes about Abkhaz.</para>
+
+  <para><emphasis>May 22, 2008:</emphasis> inserted a space before
+  &#x201C;:&#x201D; in the French translation, and documented the
+  situation in the notes.</para>
+
+  <para><emphasis>May 18, 2008:</emphasis> replaced U+0251 &#x0251;
+  LATIN SMALL LETTER ALPHA by U+0061 &#x0061; LATIN SMALL LETTER A in
+  the Akan (Akuapem) and Akan (Fante) translations; thanks to Denis
+  Moyogo Jacquerye.</para>
+
+  <para><emphasis>May 15, 2008:</emphasis> the Burmese translation now uses
+  the representation defined by Unicode 5.1, thanks to Wunna Ko Ko.</para>
+
+  <para><emphasis>February 20, 2008:</emphasis> the first article of
+  the Tamazight translation in the Tifinagh script is available for
+  review, thanks to Simon Ager.</para>
+
+  <para><emphasis>February 20, 2008:</emphasis> the first article of
+  the Tagalog translation in the Tagalog script is available for review, thanks
+  to user "transtic" on the Asia Finest Discussion Forum.</para>
+
+  <para><emphasis>February 15, 2008:</emphasis> the first article of
+  the Maldivian translation is available for review, thanks
+  to www.geonames.de.</para>
+
+  <para><emphasis>January 21, 2008:</emphasis> the first article of 
+  the Assyrian Neo-Aramaic translation is available for review,
+  thanks to Arthur Reutenauer.</para>
+
+  <bridgehead id='y2007'>2007</bridgehead>
+
+  <para><emphasis>December 31, 2007:</emphasis> corrections to the
+  Tajik translation, thanks to Miikka-Markus Alhonen.</para>
+
+  <para><emphasis>December 31, 2007:</emphasis> the Nepali translation
+  is now complete and available for review, thanks to Arthrur
+  Reutenauer.</para>
+
+  <para><emphasis>December 31, 2007:</emphasis> the first article of
+  the Tamang translation is available for review, thanks to Arthur
+  Reutenauer.</para>
+
+  <para><emphasis>December 31, 2007:</emphasis> the first article of
+  the Dzongha translation is available for review, thanks to Arthur
+  Reutenauer.</para>
+
+  <para><emphasis>December 31, 2007:</emphasis> corrections to the
+  Tatar translation, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>December 26, 2007:</emphasis> minor corrections to the
+  German translations thanks to Roey Horns and Otto Stolz.</para>
+
+  <para><emphasis>November 4, 2007:</emphasis> a brand new translation
+  in Maithili is available for review, thanks to Dr. Ramanand Jha
+  'Raman', Pandit Govinda Jha and Anshuman Pandey.</para>
+
+  <para><emphasis>November 4, 2007:</emphasis> the Khmer translation
+  is available for review.</para>
+
+  <para><emphasis>July 29, 2007:</emphasis> a brand new translation in
+  Vai is available for review, thanks to Tombekai V. Sherman and
+  Charles Riley.</para>
+
+  <para><emphasis>July 22, 2007:</emphasis> the Ojibwa (Northwestern)
+  translation is available for review, thanks to Arthur
+  Reutenauer.</para>
+
+  <para><emphasis>July 21, 2007:</emphasis> the first article of the
+  Mongolian translation in the Mongolian script is available thanks to
+  Arthur Reutenauer.</para>
+
+  <para><emphasis>July 21, 2007:</emphasis> the Swampy Cree translation 
+  is available for review, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>July 21, 2007:</emphasis> the Ticuna translation 
+  is available for review, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>July 18, 2007:</emphasis> the Uyghur (Arabic) translation 
+  is available for review, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>July 18, 2007:</emphasis> the Tatar translation 
+  is available for review, thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>July 16, 2007:</emphasis> corrections in the Polish
+  translations, thanks to Marcin Kowalczyk.</para>
+
+  <para><emphasis>July 13, 2007:</emphasis> switched to the other
+  Slovenian translation at the OHCHR site, as the one originally used
+  is full of mistakes. Thanks to Mojca Miklavec and Arthur
+  Reutenauer.</para>
+
+  <para><emphasis>July 10, 2007:</emphasis> major revision of the
+  Armenian translation, thanks to Sahak Petrosyan.</para>
+
+  <para><emphasis>July 10, 2007:</emphasis> correction in the German
+  translations; thanks to Asmus Freytag, with help from Otto
+  Stolz.</para>
+
+  <para><emphasis>July 8, 2007:</emphasis> correction in the German
+  translation (1901 orthography); translation in the 1996 orthography;
+  thanks to Otto Stolz, with help from Asmus Freytag.</para>
+
+  <para><emphasis>July 8, 2007:</emphasis> typos in the Romanian
+  translations (1953 and 1993 orthography) and a translation following
+  the 2006 orthography, thanks to Dan Alexandru.</para>
+
+  <para><emphasis>July 3, 2007:</emphasis> fix casing problem in
+  Limba translation, thanks to  Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>July 3, 2007:</emphasis> a small typo fix in the 
+  Lingala translation, thanks to  Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>July 2, 2007:</emphasis> the UDHR In Unicode project
+  is transferred to the Unicode Consortium. See the <ulink
+  url='http://www.unicode.org/press/pr-udhr.html'>press
+  release</ulink>.</para>
+
+  <para><emphasis>June 30, 2007:</emphasis> corrections ot the
+  Ukrainian translation, thanks to
+  &#x0404;&#x0432;&#x0433;&#x0435;&#x043D;&#x0456;&#x0439;
+  &#x041C;&#x0435;&#x0449;&#x0435;&#x0440;&#x044F;&#x043A;&#x043E;&#x0432;
+  (Eugeniy Meshcheryakov).</para>
+
+  <para><emphasis>June 30, 2007:</emphasis> a Lingala translation with tones 
+  is available for review thanks to Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>April 24, 2007:</emphasis> the Malay (Arabic)
+  translation is available for review.</para>
+
+  <para><emphasis>April 24, 2007:</emphasis> the (almost) full
+  Yukaghir, Northern translation is available for review.</para>
+
+  <para><emphasis>April 24, 2007:</emphasis> the (almost) full Even
+  translation is available for review.</para>
+
+  <para><emphasis>April 24, 2007:</emphasis> the full Chinese
+  (Traditional) translation is available for review.</para>
+
+  <para><emphasis>April 24, 2007:</emphasis> the full Farsi, Eastern  translation
+  is available for review.</para>
+
+  <para><emphasis>April 22, 2007:</emphasis> the full Yiddish translation
+  is available for review thanks to Sholem Berger and Raphael Finkel.</para>
+
+  <para><emphasis>April 22, 2007:</emphasis> the full Tajiki translation
+  is available for review.</para>
+
+  <para><emphasis>April 22, 2007:</emphasis> small correction to the
+  Yoruba version thanks to Denis Jacquerye.</para>
+
+  <para><emphasis>April 22, 2007:</emphasis> small corrections to the
+  Greek (polytonic) translation thanks to Yannis Haralambous.</para>
+
+  <para><emphasis>March 26, 2007:</emphasis> the official record of
+  the Declaration (in English and French) is available from the UN
+  site, and the English version at the UNHCHR site contains a
+  couple of small differences; there is also a small difference in the
+  French version. Our texts have been corrected to accurately reflect
+  the official record. Thanks to Benjamin Titze for pointing this
+  out.</para>
+
+  <para><emphasis>March 26, 2007:</emphasis> small number of
+  corrections to the Hindi version thanks to Zden&#x011B;k
+  Wagner.</para>
+
+  <para><emphasis>March 25, 2007:</emphasis> updated the Themne
+  version to use the orthography described in <emphasis>Alphabets de
+  languages africaines</emphasis>; thanks to Denis Moyogo Jacquerye for 
+  pointing this out.</para>
+
+  <para><emphasis>January 21, 2007:</emphasis> many corrections to the 
+  Romanian translation (1953 orthography) and a translation following the
+  1993 orthography, thanks to Mihai Ni&#x021B;&#x0103;.</para>
+
+  <bridgehead id='y2006'>2006</bridgehead>
+
+  <para><emphasis>December 26, 2006:</emphasis> many corrections to the 
+  Hindi translation thanks to Zden&#x011B;k Wagner.</para>
+
+  <para><emphasis>December 26, 2006:</emphasis> the full Amharic
+  translation is available for review thanks to Daniel Yacob.</para>
+
+  <para><emphasis>November 21, 2006:</emphasis> serious data
+  corruption in the Hausa (Nigeria) translation corrected, as well as
+  a new Hause (Niger) translation, thanks to Don Osborn.</para>
+
+  <para><emphasis>November 21, 2006:</emphasis> the full Portuguese
+  (Brazil) translation has been proofread by Leandro
+  Reis, and is promoted to stage 7.</para>
+
+  <para><emphasis>November 21, 2006:</emphasis> many corrections to
+  the Czech translation thanks to Zden&#x011B;k Wagner.</para>
+
+  <para><emphasis>November 20, 2006:</emphasis> the full Portuguese
+  (Brazil) translation is available for review; thanks to
+  Na&#x00E7;&#x00F5;es Unidas no Brazil (for the text) and to Leandro
+  Reis (for pointing out the existence of this translation).</para>
+
+  <para><emphasis>November 20, 2006:</emphasis> the full Portuguese
+  (Portugal) translation has been proofread by Leandro
+  Reis, and is promoted to stage 7.</para>
+
+  <para><emphasis>November 18, 2006:</emphasis> the full Greek
+  (polytonic) version is available for review thanks to Yannis
+  Haralambous. This represents two milestones: this is the first
+  version which is not present in any form on the OHCHR site; it is
+  also the 300th version we now have!</para>
+
+  <para><emphasis>November 17, 2006:</emphasis> the full Burmese
+  version is available for review thanks to Aung and Craig
+  Rublee.</para>
+
+  <para><emphasis>November 7, 2006:</emphasis> first article of the Yi
+  version available thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>November 7, 2006:</emphasis> data corruption in the
+  Belarusan, Bosnian (Cyrillic), Bulgarian, Mongol, Latvian,
+  Macedonian, Osetin and Serbian versions repaired, thanks to Arthur
+  Reutenauer.</para>
+
+  <para><emphasis>November 5, 2006:</emphasis> the full Ash&#x00E9;ninka
+  Peren&#x201C;, Cashinahua, Navajo, Nyemba and Waama versions are available
+  for review thanks to Eric Muller.</para>
+
+  <para><emphasis>November 4, 2006:</emphasis> the Kazakh version
+  suffered from some confusion of encoding; this is now repaired
+  thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>November 4, 2006:</emphasis> the full Inuktitut
+  (Eastern Canadian), Kirghiz and Turkmen versions are available for
+  review thanks to Arthur Reutenauer.</para>
+
+  <para><emphasis>September 14, 2006:</emphasis> added the region in the
+  indices; Walloon is now properly it's own language (rather than 
+  a dialect of French).</para>
+
+  <para><emphasis>September 9, 2006:</emphasis> English and French 
+  reviewed, promoted to stage 7.</para>
+
+  <para><emphasis>September 8, 2006:</emphasis> the full Lao
+  version is available for review, thanks to Valaxay Dalaloy  via the
+  Language Observatory.</para>
+
+  <para><emphasis>September 8, 2006:</emphasis> the full Kannada,
+  Bengali and Seraiki versions are available for review, thanks to
+  Kumari Co Ltd.  via the Language Observatory.</para>
+
+  <para><emphasis>September 7, 2006:</emphasis> a good chunk of the Nepali 
+  version is available for review, thanks to Allen
+  Bailochan Tuladhar  via the
+  Language Observatory.</para>
+
+  <para><emphasis>September 7, 2006:</emphasis> the full Gujarati,
+  Marathi and Panjabi, Western versions are available for review,
+  thanks to Kumari Co Ltd.  via the Language Observatory.</para>
+
+  <para><emphasis>September 6, 2006:</emphasis> the full Mongolian
+  (Cyrillic) version is available for review, thanks to Chuluun
+  Erdenebat and Ulziibat Batbaatar via the Language
+  Observatory.</para>
+
+  <para><emphasis>September 6, 2006:</emphasis> the full Uighur
+  (Latin) version is available for review, thanks to Jun Sugawara via
+  the Language Observatory.</para>
+
+  <para><emphasis>September 6, 2006:</emphasis> addition of a status and
+  history page for each language, to track all the changes, and record 
+  the potential problems.</para>
+
+  <para><emphasis>September 6, 2006:</emphasis> confusion between
+  Eastern and Western Panjabi sorted out (thanks to Sukhjinder Sidhu)
+  and Yi added to the index at stage 2 (thanks to Andrew West).</para>
+
+  <para><emphasis>September 5, 2006:</emphasis> the full Malayalam version
+  is available for review; many thanks to Jyothis Edathoot at Jyothis.net.</para>
+
+  <para><emphasis>September 5, 2006:</emphasis> the full Tamil version
+  is available for review; many thanks to K. Kalyanasundaram.</para>
+
+  <para><emphasis>September 4, 2006:</emphasis> the web site for this
+  project is up and running, with ~280 languages in stage 4 (thanks to
+  Adobe for providing those).</para>
+
+</article>
+

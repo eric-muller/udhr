@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for mya</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='February 9, 2017'>Typo correction thanks to Yin
+  May Oo.</history-entry>
+
+  <history-entry date='May 15, 2008'>Fixed many typos, and changed to
+  the representation of Unicode 5.1. Thanks to Wunna Ko
+  Ko.</history-entry>
+
+  <history-entry date='November 21, 2006'>Fixed a number of
+  representation problems. The order of the characters in a cluster
+  now follows the order prescribed by Table 11-3 (Myanmar Syllabic
+  Structure) in TUS 5.0. Thanks to Martin Hosken for his
+  help.</history-entry>
+
+  <history-entry date='November 17, 2006'>stage 4, text provided by
+  Aung and Craig Rublee.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 2: entered in the
+  index, OHCHR identified as the source.</history-entry>
+
+</history>
+
+</article>
+    

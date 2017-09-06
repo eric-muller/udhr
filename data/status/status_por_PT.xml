@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for por_PT</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='July 16, 2010'>Replaced the text with that of Portuguese government (at <a href="http://www.portugal.gov.pt/pt/GC18/Portugal/SistemaPolitico/dudh/Pages/DeclaracaoUniversaldosDireitosHumanos.aspx">http://www.portugal.gov.pt/pt/GC18/Portugal/SistemaPolitico/dudh/Pages/DeclaracaoUniversaldosDireitosHumanos.aspx</a>); thanks to Miguel Sousa for providing it.</history-entry>
+
+  <history-entry date='November 20, 2006'>spelling correction:
+  replaced "Homen" by "Homem"; promotion to stage 7. Thanks to Leandro
+  Reis for the proofreading.</history-entry>
+
+  <history-entry date='November 20, 2006'>renamed to port_PT, to make
+  room for the por_BR translation.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

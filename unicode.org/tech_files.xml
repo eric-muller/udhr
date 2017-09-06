@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Files</title>
+
+  <bridgehead id='shema'>XML files</bridgehead>
+
+  <para>The source form of our translations is XML.  We have
+  designed a simple set of &#x201C;tags&#x201D; to capture the
+  organization of UDHR. We have a Relax-NG schema: in <ulink
+  url='d/schema.rnc'>rnc</ulink> syntax and in <ulink
+  url='d/schema.rng'>rng</ulink> syntax.</para>
+
+  <para>The encoding of our files is UTF-8, with or without numeric
+  character entities.</para>
+
+  <bridgehead id='charcount'>Charcount files</bridgehead>
+
+  <para>The &#x201C;charcount&#x201D; files help ensure
+  that no strange character makes it in the data, and help spot easily
+  the presence of ambiguous characters. We do not count characters,
+  but rather clusters of characters, which are more or less combining
+  sequences.</para>
+
+  <bridgehead id='plaintext'>Plain text files</bridgehead>
+
+  <para>The plain text files are encoded in UTF-8, and produced from
+  the XML files by applying <ulink url='assemblies/udhrs2txt.xsl'>this
+  XSLT stylesheet</ulink>.</para>
+
+  <bridgehead id='html'>HTML files</bridgehead>
+
+  <para>The HTML files are encoded in UTF-8, and produced from
+  the XML files by applying <ulink url='assemblies/udhrs2html.xsl'>this
+  XSLT stylesheet</ulink>.</para>
+
+
+</article>
+

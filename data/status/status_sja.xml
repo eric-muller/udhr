@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for Epena</title>
+
+<!--_______________________________________________________________________-->
+
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problem at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry date='February 22, 2010'>identified as Epena [sja]</history-entry>
+
+  <history-entry date='January 25, 2009'>stage 2: OHCHR identified as
+  the source.</history-entry>
+</history>
+
+</article>

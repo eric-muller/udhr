@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for oci_3</title>
+
+<!--_______________________________________________________________________-->
+
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problem at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry date='June 20, 2015'>stage 4: conversion to Unicode, thanks to Eric Muller.</history-entry>
+  <history-entry date='June 20, 2015'>stage 2: OHCHR identified as
+  the source.</history-entry>
+</history>
+
+</article>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for uig_latn</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='September 7, 2006'>stage 4: provided by Jun
+  Sugawara via the Language Observatory. This is reputed to be based
+  on the original from the OHCHR, but the OHCHR currently has only an
+  Arabic version.</history-entry>
+</history>
+
+</article>
+  

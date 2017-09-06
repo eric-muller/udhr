@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+  <navigation>
+    <navtitle>Translations</navtitle>
+    <navitem><ulink url='translations.html'>Translations</ulink></navitem>
+    <navitem><ulink url='aggregates.html'>Aggregates</ulink></navitem>
+    <navitem><ulink url='downloads.html'>Bulk downloads</ulink></navitem>
+    <navitem><ulink url='news.html'>News</ulink></navitem>
+
+    <navtitle>Contributing</navtitle>
+    <navitem><ulink url='contributing.html'>How can I help?</ulink></navitem>
+    <navitem><ulink url='contributors.html'>Contributors</ulink></navitem>
+    <navitem><ulink url='contacts.html'>Contact us</ulink></navitem>
+
+    <navtitle>Technical Details</navtitle>
+    <navitem><ulink url='tech_whichtext.html'>Which text?</ulink></navitem>
+    <navitem><ulink url='tech_whichcharacter.html'>Which characters?</ulink></navitem>
+    <navitem><ulink url='tech_langid.html'>Language identification</ulink></navitem>
+    <navitem><ulink url='tech_files.html'>Files</ulink></navitem>
+
+    <navtitle>The UDHR</navtitle>
+    <navitem><ulink url='http://www.ohchr.org/EN/UDHR/'>@ OHCHR</ulink></navitem>
+    <navitem><ulink url='http://ccnmtl.columbia.edu/projects/mmt/udhr/'>@ Columbia</ulink></navitem>
+    <navitem><ulink url='http://udhr.video/'>@ udhr.video</ulink></navitem>
+  </navigation>

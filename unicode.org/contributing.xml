@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>How can I help?</title>
+  
+  <para>If you want to help with a language, your first task is to
+  read these guidelines, identify what needs to be done for that
+  language, and what you are willing to do. If the task is sizeable,
+  please send us an email, so that we can coordinate and avoid
+  duplication of effort; we&#x2019;ll get you in touch with other
+  folks who have volunteered for that language.</para>
+
+  <para>If you want to help with the overall project, please send us
+  an email. At this point, we do not anticipate that there will be a
+  lot of general work, but we&#x2019;ll let you know if that turns out
+  not to be the case.</para>
+
+  <para>While the effort is highly cooperative, we have deliberately
+  not deployed fancy cooperative technologies. This is mostly because we
+  believe that the best way to get high quality results is to keep a
+  very small editorial team, e.g. to ensure that the deliverables are
+  homogeneous.</para>
+
+  <bridgehead>I am confused!</bridgehead>
+
+  <para>Don&#x2019;t hesitate to <ulink url='contacts.html'>contact
+  us</ulink> for help.</para>
+
+  <bridgehead>My language is not listed, or it is in stage 1.</bridgehead>
+  
+  <para>This means that we do not have an existing translation, from
+  any source, in any form. Your task is to find an authoritative
+  translation, which will presumably be on paper. You should provide a
+  copy to this project (a good scan by email, a good photocopy or an
+  original by mail), as well as a precise description of your
+  source. If there is no known translation, then you can provide one,
+  but again make sure that you identify the translator as clearly as
+  possible. In both cases, you also want to identify the language
+  using the <ulink url='http://www.ethnologue.com'>Ethnologue
+  codes</ulink>, as well as the dialect if that is relevant. As soon
+  as we get a submission, we will forward it to the OHCHR right away,
+  unless you tell us that you will do that directly.</para>
+
+  <bridgehead>My language is in stage 2 or 3.</bridgehead>
+
+  <para>This means that we have a source document, but it has not been
+  turned into Unicode, or only partially. Your task is to type it in a
+  computer. Ideally, you would provide the XML form, using one of the
+  Unicode UTFs (numeric character entities are fine). However, if you
+  do not feel comfortable with XML, a simple plain text version will
+  do just as well, as long as there are enough traces of the preamble,
+  articles, etc., so that we can add the XML markup; please use one of
+  the UTFs or an encoding that can be converted reliably and easily
+  to Unicode (e.g. ISO 8859-x is ok, but ISCII is out).</para>
+
+  <para>If you believe that the source has a typo, please type both
+  what the source has and your suggested correction like this:
+  &#x201C;miskate [mistake]&#x201D;. The goal of this stage is
+  primarily to represent the source accurately, and only secondarily
+  to correct it.</para>
+
+  <bridgehead>My language is in stage 4.</bridgehead>
+
+  <para>We have an XML version, but it needs to be reviewed for
+  accurate content, i.e. that it correctly reflects the source. You
+  can perfom this review on whatever form (XML, text, PDF) you
+  prefer. If you make such a review, please tell us the result (even
+  if everything is fine) and whether in your opinion it&#x2019;s time
+  to move to the next stage. When enough reviews are in, we will
+  advance the language to stage 5.</para>
+
+  <para>One aspect is to replace the ambiguous characters such as
+  U+0027 &#x0027; APOSTROPHE or U+002D &#x002D; HYPHEN-MINUS by less
+  ambiguous alternatives (for U+0027, U+02BC &#x02BC; MODIFIER LETTER
+  APOSTROPHE or U+2019 &#x2019; RIGHT SINGLE QUOTATION MARK). This is
+  actually a bit more tricky than it sounds, because we need to find a
+  balance between using the &#x201C;best&#x201D; character and
+  actually reflecting the common practice. For example, it could be
+  that a language&#x2019;s orthography uses an apostrophe-like symbol
+  to write a global stop, in which case U+02BC &#x02BC; MODIFIER
+  LETTER APOSTROPHE is the &#x201C;best&#x201D; character; but if the
+  orthography does not use an apostrophe-like symbol for another
+  purpose, it may very well be that the common practice is to use
+  U+0027 &#x0027; APOSTROPHE. Considerations such as these are worth
+  documenting, and that is why we keep notes on the side of the
+  documents.</para>
+
+  <para>You may find the charcount files helpful for this stage, to
+  spot suspicious characters or character sequences.</para>
+
+  <bridgehead>Audio and Video recording</bridgehead>
+
+  <para>You may also consider helping with a <ulink url='http://udhr.video/'>video or audio recording</ulink>.</para>
+
+</article>
+

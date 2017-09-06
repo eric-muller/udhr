@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Notes on Burmese (Unicode 6)</title>
+
+  <para>This version uses the proposed representation of Myanmar which
+  is currently under consideration by Unicode (and ISO) for adoption
+  in a future version of the standard; the label &#x201C;Unicode
+  6&#x201D; is to be understood as &#x201C;a future
+  version&#x201D;.</para>
+
+  <para>The version &#x201C;Burmese (Unicode 5)&#x201D; uses the
+  representation currently specified in Unicode.</para>
+</article>
+

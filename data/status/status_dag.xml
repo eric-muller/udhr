@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for dag</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+
+  <para>Denis Moyogo Jacquerye writes:</para>
+
+  <blockquote>
+    <para>From what I gathered from Rhonda Hartell&#x2019;s <ulink
+    url="http://www.rosettaproject.org/archive/dag/ortho-1?page_view=image_view">Alphabets
+    of Africa</ulink> and the documents referenced or linked to on the
+    <ulink
+    url="http://en.wikipedia.org/wiki/Dagbani_language#References">Wikipedia
+    article about the Dagbani language</ulink>, especially <ulink
+    url="http://rogerblench.info/Ethnoscience%20data/Dagbani%20plant%20names.pdf">Dagbani
+    Plant Names</ulink> or <ulink
+    url="http://user.phil-fak.uni-duesseldorf.de/~olawsky/hp-dgfs.htm">Interaction
+    of tone and morphology in Dagbani</ulink>, there is no evidence of
+    the use of the letter X. However the letter Latin Gamma (&#x0194;
+    &#x0263;) is used in some orthographies to transcribe a contextual
+    allophone of g. I&#x2019;m guessing X should be replaced by as it
+    was probably used as a substitute by the translator.</para>
+
+    <para>See the word "bi&#x025B;&#x0263;u" (transcribed biEGu) in
+    "Interaction of tone and morphology in Dagbani and "bi&#x025B;xu"
+    in UDHR. "Dagbani Plant Names" clearly states "Most orthographies
+    mark /&#x0263;/ the velar fricative as a separate consonant. This
+    appears to be unnecessary as /&#x0263;/ is simply a positional
+    allophone of /g/ between vowels. Nonetheless, it is marked in the
+    present text as Dagbani speakers are familiar with it."  This
+    agrees with Aphabets of Africa which gives &#x0263; and g for
+    /&#x0263;/.</para>
+
+  </blockquote>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='September 20, 2008'>Following Denis Moyogo Jacquerye&#x2019;s observation above, replaced x by U+0263 &#x0263; LATIN SMALL LETTER GAMMA.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

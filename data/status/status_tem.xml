@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for tem</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='March 25, 2007'>Replaced U+00E5 &#x00E5; LATIN
+  SMALL LETTER A WITH RING ABOVE by U+028C &#x028C; LATIN SMALL LETTER
+  TURNED V (and U+00C5 &#x00C5; LATIN CAPITAL LETTER A WITH RING ABOVE
+  by U+0245 &#x0245; LATIN CAPITAL LETTER TURNED V), to align with the
+  orthography described in [Hartell].</history-entry>
+
+  <history-entry date='September 26, 2006'>Patrick Hall observed that
+  most of the occurrences of &#x025B;, &#x0254; and &#x0259; are
+  actually the uppercase forms, when they should probably be
+  lowercase; this is now fixed.</history-entry>
+
+  <history-entry date='September 26, 2006'>[Eric Muller] Replaced U+002D &#x002D;
+  HYPHEN-MINUS by U+2010 &#x2010; HYPHEN.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

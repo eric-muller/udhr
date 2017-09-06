@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for men</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='September 20, 2008'>Replaced all the occurrences of U+0186 Ɔ LATIN CAPITAL LETTER OPEN O by U+0254 ɔ LATIN SMALL LETTER OPEN O and all the occurences of U+0190 Ɛ LATIN CAPITAL LETTER OPEN E by U+025B ɛ LATIN SMALL LETTER OPEN E. Replaced all the occurrences of U+002D - HYPHEN-MINUS by U+2010 ‐ HYPHEN. Thanks to Denis Moyogo Jacquerye for pointing out the mistake.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for Karelian</title>
+
+<!--_______________________________________________________________________-->
+
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problem at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry date='April 25, 2010'>stage 4: conversion to XML by Eric Muller.</history-entry>
+
+  <history-entry date='February 22, 2010'>stage 2: OHCHR identified as
+  the source.</history-entry>
+</history>
+
+</article>

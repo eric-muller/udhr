@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for qxa</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='June 27, 2015'>The language of this translation is in fact “Quechua, South Bolivian”, ISO 639-3 quh, BCP 47 quh. Thanks to Philip Jacobs for reporting this error.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

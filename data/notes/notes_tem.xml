@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Notes on Themne</title>
+
+  <bridgehead id='biblio'>Bibliography</bridgehead>
+
+  <itemizedlist>
+    <listitem>
+      <!-- Stanford, PL8007.A47 1993 F, Green, Information Center: non circulating-->
+      <para>Hartell, Rhonda L. 1993. <emphasis>Alphabets de langues
+      africaines</emphasis>. Dakar, Senegal: Unesco, Bureau R&#x00E9;gional de
+      Dakar. ISBN 9290910197. Interactive version at http://sumale.vjf.cnrs.fr/phono/.</para>
+    </listitem>
+    <listitem>
+      <para>Chanard, Christian. 2006. <emphasis>Syst&#x00E8;mes
+      alphab&#x00E9;tiques des langues africaines</emphasis>, <ulink
+      url='http://sumale.vjf.cnrs.fr/phono/index.htm'/> (an online
+      interactive subset of Hartell).</para>
+    </listitem>
+    <listitem>
+      <para>UCC and UMC. 1980. <emphasis>A Themne Orthography Workshop, Ministry of Education, Fretown, February 18-22, 1980 / sponsored by the U.C.C. Provincial Literature Bureau and the United Methodist Literacy Programme.</emphasis></para>
+    </listitem>
+    <listitem>
+      <para><ulink url='http://www.panafril10n.org/wikidoc/pmwiki.php/PanAfrLoc/Temne'/>; contains a scan of a page of the document above.</para>
+    </listitem>
+    <listitem>
+      <para><ulink url='http://www.bisharat.net/A12N/SL-table.htm'/>,
+      for a list of characters used in Themne.</para>
+    </listitem>
+    <listitem>
+      <para><ulink
+      url='http://www.rosettaproject.org/archive/tem/ortho-1'/>
+      for a reproduction of the page of &#x201C;Alphabets of Africa&#x201D; for
+      Themne.</para>
+    </listitem>
+  </itemizedlist>
+
+  <bridgehead id='orthography'>Orthography used in this translation</bridgehead>
+  
+  <para>The only difference between the orthographies presented in
+  [UCC and UMC] and in [Hartell] seems to be the use of U+1EA1
+  &#x1EA1; LATIN SMALL LETTER A WITH DOT BELOW in the former, and
+  U+028C &#x028C; LATIN SMALL LETTER TURNED V in the latter. In this
+  translation, we have used the latter, as it seems more modern. It is
+  also used, e.g., at <ulink
+  url='http://www.visitsierraleone.org/temne.asp'/>.</para>
+
+</article>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for hin</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='May 6, 2014'>correction thanks to Steve White.</history-entry>
+
+  <history-entry date='March 26, 2007'>small number of corrections thanks to
+  Zdene&#x011B;k Wagner.</history-entry>
+
+  <history-entry date='December 26, 2006'>many corrections thanks to
+  Zdene&#x011B;k Wagner.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

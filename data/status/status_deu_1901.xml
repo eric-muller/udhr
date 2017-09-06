@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for deu_1901</title>
+
+<!--_______________________________________________________________________-->
+
+ 
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='December 26, 2007'>Two typos:
+  &#x201C;Forschritt&#x201D; corrected to &#x201C;Fortschritt&#x201D;
+  and &#x201C;Staatsanghörigkeit&#x201D; corrected to
+  &#x201C;Staatsangehörigkeit&#x201D;, thanks to Roey Horns. Added two
+  missing commas, thanks to Otto Stolz.</history-entry>
+
+  <history-entry date='July 10, 2007'>&#x201C;einschließlich&#x201D;
+  requires the genitive. Thanks to Asmus Freytag.</history-entry>
+
+  <history-entry date='July 8, 2007'>Removal of an extraneous
+  &#x201C;gew&#x00E4;hrleistet&#x201D; in article 25. Thanks to Otto
+  Stolz.</history-entry>
+
+  <history-entry date='November 4, 2006'>two small corrections:
+  duplicated &#x201C;ist&#x201D; at the end of article 2;
+  &#x201C;zustehenen&#x201D; corrected to
+  &#x201C;zustehenden&#x201D;. Thanks to Arthur Reutenauer and Dirk
+  Meyer.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

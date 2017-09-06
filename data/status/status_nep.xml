@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for nep</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>Some of the text provided by Allen Bailochan Tuladhar
+(preamble, articles 1-5, 8-18) seem to differ from the OHCHR
+text.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='June 27, 2015'>ISO 639-3 nep covers a group of languages and has been changed to a macrolanguge. Switching to the most widely spoken language, npi, “Nepali”.</history-entry>
+
+  <history-entry date='December 14, 2007'>stage 4: missing articles
+  provided by Arthur Reutenauer.</history-entry>
+
+  <history-entry date='September 7, 2006'>stage 3: provided by Allen
+  Bailochan Tuladhar via the Language Observatory.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 2: entered in the
+  index, OHCHR identified as the source.</history-entry>
+
+</history>
+
+</article>
+  

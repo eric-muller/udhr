@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for skr</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='August 31, 2008'>replaced all the occurrences
+  of &lt;U+06D4 &#x06D4; ARABIC FULL STOP, U+0020
+  &#x2018;&#x0020;&#x2019; SPACE, U+06D4 &#x06D4; ARABIC FULL STOP> by
+  a single U+06D4. Removed the extra "1." and "2." in the second
+  article.</history-entry>
+
+  <history-entry date='June 2, 2008'>replaced all the occurrences of
+  U+066C ٬ ARABIC THOUSANDS SEPARATOR by U+060C ، ARABIC
+  COMMA.</history-entry>
+  
+  <history-entry date='September 8, 2006'>stage 4: full version
+  provided by Kumari Co Ltd. via the Language
+  Observatory.</history-entry>
+
+
+  <history-entry date='September 4, 2006'>stage 2: entered in the
+  index, OHCHR identified as the source.</history-entry>
+
+</history>
+
+</article>
+ 

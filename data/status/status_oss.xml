@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for oss</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>Missing articles 15.2, 16.3, 20.2, 23.4, 25.2, 26.2, 26.3, 29.3.</para>
+
+<para>There are five occurrences of U+0027 &#x0027; APOSTROPHE, but
+it's not clear how to fix them.</para>
+
+<para>There are three occurrences of U+0060 &#x0060; GRAVE ACCENT, but
+it's not clear if they should be simply removed, or if they are meant
+to be accents.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry data='August 5, 2017'>replaced U+00A2 &#x00a2; CENT SIGN by U+0027 &#x027; APOSTROPHE; thanks to Steve White for pointing out the error.</history-entry>
+
+  <history-entry date='November 7, 2006'>replaced the erroneous
+  occurrences LATIN characters with their CYRILLIC look-alike; thanks
+  to Arthur Reutenauer for providing this update.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as
+  the source, complete XML contributed by Adobe
+  Systems.</history-entry>
+
+</history>
+
+</article>
+  

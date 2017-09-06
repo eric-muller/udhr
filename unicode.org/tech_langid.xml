@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Language identification</title>
+
+  <para>We identify the languages using the Ethnologue codes, 15th
+  edition. When there are multiple translations for a single language
+  (e.g. different orthographies, or dialects), our code is the
+  Ethnologue code, followed by an underscore, followed by some
+  indication of the version (as in &#x201C;aka_akuapem&#x201D;).</para>
+
+  <para>We use only the Ethnologue primary language names, may be followed by a
+  qualifier in parenthesis: for example &#x201C;Akan
+  (Akuapem)&#x201D;.</para>
+
+  <para>We do not provide an exhaustive index by alternate
+  language names. For example, the Ethnologue uses "Gaelic, Irish" as
+  the primary language name and provides "Irish", "Erse", "Gaeilge" as
+  alternate names. In our index, the Irish translation will be found
+  only under "Gaelic, Irish". If you have difficulty finding a
+  translation by language name, you may want to use the <ulink
+  url="http://ethnologue.com">Ethnologue</ulink> to determine the
+  primary language name.</para>
+
+  <para>We have a few translations for which we could not ascertain
+  the corresponding Ethnologue language. For those, we use 3-digits
+  identifiers, and names in parenthesis. Any help in identifying the
+  language of those translations is welcome.</para>
+
+  <para>In the list of translations, we also give the code used by the
+  OHCRH, for cross-reference purposes. Those are largely based on the
+  Ethnologue codes, 14th edition, but not entirely.</para>
+
+
+</article>
+

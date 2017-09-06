@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for [009]</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<p>No known problems at this time.</p>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+  <history-entry date='June 19, 2016'>Language is likely some variant of Mbundu (iso639 kmb). Thanks to Michael Cysouw and Philippe Verdy.</history-entry>
+
+  <history-entry date='January 25, 2009'>stage 4:
+  http://gddc.pt/direitos-humanos/50anos-decl-univ-dh/kIMBUNDU.html
+  identified as the source. XML contributed by Eric
+  Muller.</history-entry>
+</history>
+
+</article>

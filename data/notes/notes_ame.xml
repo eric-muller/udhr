@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Notes on Yanesha&#x02BC;</title>
+
+  <bridgehead id='biblio'>Bibliography</bridgehead>
+    <itemizedlist>
+      <listitem>
+	<para>SIL Peru's site for Yanesha&#x02BC;: <ulink
+    url="http://www.sil.org/americas/peru/html/pubs/pub_index_list.asp?sortby=lang&amp;name=Yanesha%C2%B4%20(Amuesha)"/></para>
+      </listitem>
+      <listitem>
+	<para>Dictionary: <ulink url="http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=601"/></para>
+      </listitem>
+      <listitem>
+	<para>Grammar: <ulink url="http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=597"/></para>
+      </listitem>
+      <listitem>
+	<para>Orthography: <ulink url="http://www.sil.org/americas/peru/html/pubs/show_work.asp?id=3213"/></para>
+      </listitem>
+    </itemizedlist>
+
+    <bridgehead id='apostrophe'>Apostrophe</bridgehead>
+
+  <para>Besides the usual latin letters (some used in digraphs), the
+  Yanesha&#x02BC; orthography uses an apostrophe to write a glotal
+  stop. This is best represented using U+02BC &#x02BC; MODIFIER
+  LETTER APOSTROPHE.</para>
+
+</article>
+

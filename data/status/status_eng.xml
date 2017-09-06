@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for eng</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='March 26, 2006'>The official record of the
+  Declaration (in English and French) is available from the UN site,
+  at <ulink
+  url='http://daccessdds.un.org/doc/RESOLUTION/GEN/NR0/043/88/IMG/NR004388.pdf?OpenElement'/>,
+  and the English version at the UNHCHR site contains a couple of
+  small differences. Our text has been corrected to accurately reflect
+  the official record. Thanks to Benjamin Titze for pointing this
+  out.</history-entry>
+
+  <history-entry date='September 9, 2006'>stage 7.</history-entry>
+
+  <history-entry date='September 9, 2006'>[Eric Muller] content, characters and PDF are clean.</history-entry>
+
+  <history-entry date='September 9, 2006'>[Eric Muller] U+002D &#x002D; HYPHEN-MINUS resolved to U+2010 &#x2010; HYPHEN.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

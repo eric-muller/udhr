@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for nbl</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>The preamble title (&#x201C;Preamble&#x201D; in English) is
+missing.</para>
+
+<para>One could have expected that the title of article 1 would be
+&#x201C;Isivumelwano 1&#x201D;, but it&#x2019;s just
+&#x201C;Isivumelwano&#x201D;.</para>
+
+<para>There are two occurrences of U+002D &#x002D; HYPHEN-MINUS, both
+surrounded by space; should these be hyphens (w. or w/o. space?) or
+dashes?</para>
+
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+</history>
+
+</article>
+  

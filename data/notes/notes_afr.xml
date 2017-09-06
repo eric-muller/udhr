@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Notes on Afrikaans</title>
+
+  <bridgehead id='biblio'>Bibliography</bridgehead>
+
+    <itemizedlist>
+      <listitem>
+	<para>Afrikaanse woordelys en spelre&#x00EB;ls, Taalkommisie
+	van die Suid-Afrikaanse Akademie van Wetenskap en Kuns,
+	Pharos, Cape Town, 2002, ISBN 1868900347.</para>
+      </listitem>
+
+      <listitem>
+	<para><ulink url='http://en.wikipedia.org/wiki/Afrikaans_language'/></para>
+      </listitem>
+
+      <listitem>
+	<para><ulink url='http://hapax.iquebec.com/typo-afrikaans.htm'/></para>
+      </listitem>
+    </itemizedlist>
+
+
+  <bridgehead id='n'>Representing <emphasis>&#x2019;n</emphasis></bridgehead>
+
+  <para>Afrikaans writes the indefinite article
+  <emphasis>&#x2019;n</emphasis>, which is clearly an elision of
+  <emphasis>een</emphasis>. There are a priori multiple ways to
+  represent this using Unicode:</para>
+
+  <itemizedlist>
+    <listitem>
+      <para>&lt;U+0149 &#x0149; LATIN SMALL
+      LETTER N PRECEDED BY APOSTROPHE>. After all, this character is
+      specifically annoted &#x201C;Afrikaans&#x201D;. However, it is also
+      annoted &#x201C;legacy compatibility character for ISO/IEC
+      6937&#x201D;, and the corresponding character is deprecated (in that
+      standard, not in Unicode).</para>
+    </listitem>
+    <listitem>
+      <para>using the compatibility decomposition of U+0149, which is
+      &lt;U+02BC &#x02BC; MODIFIER LETTER APOSTROPHE, U+006E &#x006E;
+      LATIN SMALL LETTER N>. However, it seems that this decomposition is
+      a remnant of the time when U+02BC was the recommended character for
+      the representation of elision, which is no longer the case.</para>
+    </listitem>
+    <listitem>
+      <para>&lt;U+2019 &#x2019; RIGHT SINGLE QUOTATION MARK, U+006E
+      &#x006E; LATIN SMALL LETTER N>, on the basis of U+2019 being the
+      appropriate character for the apostrophe used for elision, and
+      on the basis of other similar constructs in Afrikaans. This is
+      the solution we have retained for the representation of the
+      UDHR.</para>
+    </listitem>
+  </itemizedlist>
+
+  <para>Regardless of one&#x2019;s choice, it seems that all three
+  representations, as well as the obvious &lt;U+0027 &#x0027;
+  APOSTROPHE, U+006E &#x006E; LATIN SMALL LETTER N>, can be found on
+  the web without too much difficulty. It is also likely that one can
+  find &lt;U+2018 &#x2018; LEFT SINGLE QUOTATION MARK, U+006E &#x006E;
+  LATIN SMALL LETTER N>, as a result of &#x201C;smart quotes&#x201D;
+  functionality.</para>
+
+  <para>Note that the UCD provides the following complex uppercasing
+  and titlecasing for U+0149: &lt;U+02BC &#x02BC; MODIFIER LETTER
+  APOSTROPHE, U+004E &#x004E; LATIN CAPITAL LETTER N>. However,
+  according to the Afrikaanse woordelys en spelre&#x00EB;els, when a
+  word starting with an apostrophe is capitalized, it is the first
+  letter of the next word which is capitalized; for example,
+  <emphasis>'n groot ...</emphasis> at the beginning of a sentence
+  becomes <emphasis>'n Groot ...</emphasis> (rule 9.3; see more
+  examples at <ulink
+  url='http://hapax.iquebec.com/typo-afrikaans.htm'/>).</para>
+
+</article>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Notes on Belarusan</title>
+
+  <bridgehead id='apostrophe'>Apostrophe</bridgehead>
+
+  <para>Belarusan uses an apostrophe to write the absence of
+  palatalisation. The <ulink
+  url='http://www.eki.ee/letter/chardata.cgi?lang=_byelorussian&amp;script=cyrillic'>EKI
+  letter database</ulink> suggests to use U+02BC &#x02BC; MODIFIER
+  LETTER APOSTROPHE while the <ulink
+  url='http://en.wikipedia.org/wiki/Belarusian_alphabet'>Wikipedia</ulink>
+  suggests to use U+2019 &#x2019; RIGHT SINGLE QUOTATION MARK. Here,
+  we used U+02BC.</para>
+
+  <para>Of course, the ambiguous U+0027 &#x0027; APOSTROPHE is often
+  found in actual documents.</para>
+
+</article>
+

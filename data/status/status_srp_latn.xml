@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for srp_latn</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problems at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+<history>
+
+  <history-entry date='April 5, 2011'>replaced many occurrences of “dj” with “đ”, thanks to Jelena Prokic.</history-entry>
+
+  <history-entry date='July 16, 2010'>small typo fixed (U+0435 &#x0435; CYRILLIC SMALL LETTER IE instead of U+0065 &#x0065; LATIN SMALL LETTER E), thanks to Doug Ewell.</history-entry>
+
+  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+
+
+</history>
+
+</article>
+ 

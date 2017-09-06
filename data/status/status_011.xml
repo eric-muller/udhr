@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<article>
+  <title>Status and history for [011]</title>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='status'>Status</bridgehead>
+
+<para>No known problem at this time.</para>
+
+<!--_______________________________________________________________________-->
+
+<bridgehead id='history'>History</bridgehead>
+
+  <history-entry date='June 19, 2016'>Language is likely some variant of Umbundu (iso639 umb). Thanks to Michael Cysouw and Philippe Verdy.</history-entry>
+
+<history>
+  <history-entry date='January 25, 2009'>stage 4:
+  http://gddc.pt/direitos-humanos/50anos-decl-univ-dh/UMBUNDO.html
+  identified as the source. XML contributed by Eric
+  Muller.</history-entry>
+</history>
+
+</article>
