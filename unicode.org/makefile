@@ -60,7 +60,7 @@ notes:
 	@for l in $(NOTES); do \
 	  echo ---- notes, $$l; \
 	  $(XSLT) -s:../data/notes/notes_$$l.xml -xsl:xsl/pages.xsl \
-	    root-dir='./' -o:$S/n/notes_$$l.html; \
+	    root-dir='../' -o:$S/n/notes_$$l.html; \
 	done
 	mkdir $S/n/abk
 	cp ../data/notes/abk/* $S/n/abk
