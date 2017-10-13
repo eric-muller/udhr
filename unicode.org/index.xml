@@ -34,25 +34,7 @@
 
   <bridgehead>Recent updates</bridgehead>
 
-  <para><emphasis>September 4, 2017:</emphasis> Major overhaul of the Tamil [tam] translation; addition of the Tamil (Sri Lanka) [tam_LK] translation; thanks for Elango Cheran.</para>
-
-  <para><emphasis>September 4, 2017:</emphasis> Corrections to the Welsh [cym] translation.</para>
-
-  <para><emphasis>August 8, 2017:</emphasis> Fix inconsistencies between the attributes in index.xml and the XML version of the translations. Affected: [ami], [chr_uppercase], [flm], [fri], [glv], [hus], [hva], [lnc], [mly_arab], [mly_latn], [nep], [orh], [roh_sursilv], [tzc], [urd_2].</para>
-
-  <para><emphasis>August 7, 2017:</emphasis> The Amis [ami] translation is available for review.</para>
-
-  <para><emphasis>August 6, 2017:</emphasis> The Chinese, Jinyu [cjy], Chinese, Gan [gan], Chinese, Hakka [hak], Chinese, Min Nan [nan] and Chinese, Wu [wuu] translations are available for review.</para>
-
-  <para><emphasis>August 6, 2017:</emphasis> New translations at stage 2, from OHCHR: [021], [022], [023], [024], [025], [ami], [ayo], [cas], [cjy], [cmn_hans_beijing], [cmn_hans_guiyang], [cmn_hans_harbin], [cmn_hans_nanjing], [cmn_hans_tianjin], [ese], [gan], [gnw], [hak], [jpn_tokyo], [jpn_osaka], [mtp], [nan], [qul], [slr], [srq], [tji], [tna], [trn], [wuu], [yuz].</para>
-
-  <para><emphasis>August 5, 2017:</emphasis> Corrections to the Mon [mnw] translation, thanks to Martin Jansche and Yin-May Oo.</para>
-
-  <para><emphasis>August 5, 2017:</emphasis> Correction to the Ossetin [oss] translation, thanks to Steve White.</para>
-
-  <para><emphasis>August 5, 2017:</emphasis> The Kursish, Northern [kmr], Nanai [gld], Tsonga (Zimbabwe) [tso_ZW], Bamun [bax], Orogen [orh] and Orok [oaa] translations are available for review.</para>
-
-  <para><emphasis>August 5, 2017:</emphasis> The &lt;udhr:udhr&gt; elements in the translations and the &lt;udhr&gt; elements in the index now have a dir and an iso15924 attribute.</para>
+  <para><emphasis>October 13, 2017:</emphasis> The Pular [fuf] and Pular (Adlam) [fuf_adlm] translations available for review; thanks to Ibrahima Barry and Abdoulaye Barry.</para>
 
   <para>[<ulink url='news.html'>Older news</ulink>]</para>
 
