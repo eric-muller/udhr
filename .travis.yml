@@ -1,0 +1,30 @@
+language: generic
+sudo: false
+
+matrix:
+  fast_finish: true
+
+notifications:
+  email:
+    on_success: never
+
+cache:
+  directories:
+    # Cache pip install ghp-import, for faster deploys
+    - $HOME/.local/bin/
+
+before_install:
+  # Reduce stdout noise (`Picked up _JAVA_OPTIONS`)
+  - unset _JAVA_OPTIONS
+
+script:
+  - make -C "unicode.org"
+
+after_success: |
+  # Deploy if running the master branch
+  [ "$TRAVIS_BRANCH" = master ] &&
+  [ "$TRAVIS_PULL_REQUEST" = false ] &&
+  [ "$(uname -s)" = Linux ] &&
+  ( ghp-import --help || pip install ghp-import --user ) &&
+  $HOME/.local/bin/ghp-import -n "unicode.org/staging" &&
+  git push -qf "https://${GH_TOKEN}@github.com/${TRAVIS_REPO_SLUG}.git" gh-pages 2>&1 >/dev/null
