@@ -15,6 +15,8 @@
 
 <history>
 
+  <history-entry date='October 29, 2017'>Replaced an erroneous occurrence of U+003A COLON by U+0903 DEVANAGARI SIGN VISARGA, thanks to Sridatta A.</history-entry>
+
   <history-entry date='May 6, 2014'>correction thanks to Steve White.</history-entry>
 
   <history-entry date='March 26, 2007'>small number of corrections thanks to

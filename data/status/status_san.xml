@@ -15,6 +15,8 @@
 
 <history>
 
+  <history-entry date='October 29, 2017'>Fixed a number of issues reported by Sridatta A. See Github issue 8.</history-entry>
+
   <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
 
 </history>
