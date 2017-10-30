@@ -67,7 +67,7 @@
   <xsl:text>
 &#x00A9; 1996 &#x2013; 2009 The Office of the High Commissioner for Human Rights
 This plain text version prepared by the &#x201C;UDHR in Unicode&#x201D;
-project, http://www.unicode.org/udhr.
+project, https://www.unicode.org/udhr.
 ---
 
 </xsl:text>
@@ -109,7 +109,7 @@ project, http://www.unicode.org/udhr.
 &#x00A9; 1996 &#x2013; 2009 The Office of the High Commissioner for Human Rights
 
 This plain text version prepared by the "UDHR in Unicode" project,
-http://www.unicode.org/udhr.
+https://www.unicode.org/udhr.
 
 ------
 </xsl:text>
