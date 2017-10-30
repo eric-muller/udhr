@@ -95,7 +95,7 @@
 
       <p>This HTML version prepared by the <i>UDHR in Unicode</i>
 	project, <a
-	href='http://www.unicode.org/udhr'>http://www.unicode.org/udhr</a>.</p>
+	href='https://www.unicode.org/udhr'>http://www.unicode.org/udhr</a>.</p>
 
       <hr/>
 
@@ -153,7 +153,7 @@
 
       <p>This HTML version prepared by the <i>UDHR in Unicode</i>
       project, <a
-      href='http://www.unicode.org/udhr'>http://www.unicode.org/udhr</a>.</p>
+      href='https://www.unicode.org/udhr'>http://www.unicode.org/udhr</a>.</p>
 
       <hr/>
 
