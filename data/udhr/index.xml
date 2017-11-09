@@ -166,7 +166,7 @@
   <udhr f='fra'                iso639-3='fra' iso15924='Latn'  bcp47='fr'             dir='ltr' ohchr='frn'         stage='5' notes='y' loc='48.00,2.00'      demo='n' n='French'/>
   <udhr f='fri'                iso639-3='fry' iso15924='Latn'  bcp47='fy'             dir='ltr' ohchr='fri'         stage='4' notes='n' loc='53.14,5.86'      demo='n' n='Frisian, Western'/>
   <udhr f='fuf'                iso639-3='fuf' iso15924='Latn'  bcp47='fuf'            dir='ltr' ohchr='fuf'         stage='4' notes='n' loc='12.18,-12.73'    demo='n' n='Pular'/>
-  <udhr f='fuf_adlm'           iso639-3='fuf' iso15924='Adlm'  bcp47='fuf-Adlm'       dir='rtl' ohchr=''            stage='4' notes='n' loc='12.18,-12.73'    demo='n' n='Pular (Adlam)'/>
+  <udhr f='fuf_adlm'           iso639-3='fuf' iso15924='Adlm'  bcp47='fuf-Adlm'       dir='rtl' ohchr=''            stage='4' notes='n' loc='12.18,-12.73'    demo='y' n='Pular (Adlam)'/>
   <udhr f='fur'                iso639-3='fur' iso15924='Latn'  bcp47='fur'            dir='ltr' ohchr='frl'         stage='4' notes='n' loc='46.15,13.05'     demo='n' n='Friulian'/>
   <udhr f='fuv'                iso639-3='fuv' iso15924='Latn'  bcp47='fuv'            dir='ltr' ohchr='fum'         stage='4' notes='n' loc='11.00,11.12'     demo='n' n='Fulfulde, Nigerian'/>
   <udhr f='gaa'                iso639-3='gaa' iso15924='Latn'  bcp47='gaa'            dir='ltr' ohchr='gac2'        stage='4' notes='n' loc='5.65,-0.19'      demo='n' n='Ga'/>
@@ -464,7 +464,7 @@
   <udhr f='tah'                iso639-3='tah' iso15924='Latn'  bcp47='ty'             dir='ltr' ohchr='tht'         stage='4' notes='n' loc='-17.65,-149.45'  demo='n' n='Tahitian'/>
   <udhr f='taj'                iso639-3='taj' iso15924='Deva'  bcp47='taj'            dir='ltr' ohchr='taj'         stage='3' notes='n' loc='27.32, 87.08'    demo='n' n='Tamang, Eastern'/>           <!-- deva image good -->
   <udhr f='tam'                iso639-3='tam' iso15924='Taml'  bcp47='ta'             dir='ltr' ohchr='tcv'         stage='4' notes='n' loc='10.52,78.83'     demo='y' n='Tamil'/>
-  <udhr f='tam_LK'             iso639-3='tam' iso15924='Taml'  bcp47='ta-LK'          dir='ltr' ohchr=''            stage='4' notes='n' loc='9.00,80.00'      demo='y' n='Tamil (Sri Lanka)'/>
+  <udhr f='tam_LK'             iso639-3='tam' iso15924='Taml'  bcp47='ta-LK'          dir='ltr' ohchr=''            stage='4' notes='n' loc='9.00,80.00'      demo='n' n='Tamil (Sri Lanka)'/>
   <udhr f='taq'                iso639-3='taq' iso15924='Latn'  bcp47='taq'            dir='ltr' ohchr='taq'         stage='2' notes='n' loc='14.20,-2.41'     demo='n' n='Tamasheq'/>
   <udhr f='taq_tfng'           iso639-3='taq' iso15924='Tfng'  bcp47='taq-Tfng'       dir='ltr' ohchr='taq'         stage='2' notes='n' loc='14.20,-2.41'     demo='n' n='Tamasheq (Tifinagh)'/>
   <udhr f='tat'                iso639-3='tat' iso15924='Cyrl'  bcp47='tt'             dir='ltr' ohchr='ttr'         stage='4' notes='n' loc='55.00,50.00'     demo='n' n='Tatar'/>
