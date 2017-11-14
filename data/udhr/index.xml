@@ -367,7 +367,7 @@
   <udhr f='pap'                iso639-3='pap' iso15924='Latn'  bcp47='pap'            dir='ltr' ohchr='pap'         stage='4' notes='n' loc='12.48,-69.94'    demo='n' n='Papiamentu'/>
   <udhr f='pau'                iso639-3='pau' iso15924='Latn'  bcp47='pau'            dir='ltr' ohchr='plu'         stage='4' notes='n' loc='7.17,134.50'     demo='n' n='Palauan'/>
   <udhr f='pbb'                iso639-3='pbb' iso15924='Latn'  bcp47='pbb'            dir='ltr' ohchr='pbb'         stage='4' notes='n' loc='2.62,-76.31'     demo='n' n='Páez'/>
-  <udhr f='pbu'                iso639-3='pbu' iso15924='Arab'  bcp47='ps'             dir='rtl' ohchr='pbu'         stage='3' notes='n' loc='35.00,71.33'     demo='n' n='Pashto, Northern'/>            <!-- image, low -->
+  <udhr f='pbu'                iso639-3='pbu' iso15924='Arab'  bcp47='ps'             dir='rtl' ohchr='pbu'         stage='4' notes='n' loc='35.00,71.33'     demo='n' n='Pashto, Northern'/>            <!-- image, low -->
   <udhr f='pcd'                iso639-3='pcd' iso15924='Latn'  bcp47='pcd'            dir='ltr' ohchr='frn2'        stage='4' notes='n' loc='50.28,3.25'      demo='n' n='Picard'/>
   <udhr f='pcm'                iso639-3='pcm' iso15924='Latn'  bcp47='pcm'            dir='ltr' ohchr='pcm'         stage='4' notes='n' loc='9.66,4.21'       demo='n' n='Pidgin, Nigerian'/>
   <udhr f='pes_1'              iso639-3='pes' iso15924='Arab'  bcp47='fa'             dir='rtl' ohchr='prs'         stage='4' notes='n' loc='28.66,55.16'     demo='n' n='Farsi, Western'/>
