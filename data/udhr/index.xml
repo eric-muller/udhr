@@ -367,7 +367,7 @@
   <udhr f='pap'                iso639-3='pap' iso15924='Latn'  bcp47='pap'            dir='ltr' ohchr='pap'         stage='4' notes='n' loc='12.48,-69.94'    demo='n' n='Papiamentu'/>
   <udhr f='pau'                iso639-3='pau' iso15924='Latn'  bcp47='pau'            dir='ltr' ohchr='plu'         stage='4' notes='n' loc='7.17,134.50'     demo='n' n='Palauan'/>
   <udhr f='pbb'                iso639-3='pbb' iso15924='Latn'  bcp47='pbb'            dir='ltr' ohchr='pbb'         stage='4' notes='n' loc='2.62,-76.31'     demo='n' n='Páez'/>
-  <udhr f='pbu'                iso639-3='pbu' iso15924='Arab'  bcp47='ps'             dir='rtl' ohchr='pbu'         stage='4' notes='n' loc='35.00,71.33'     demo='n' n='Pashto, Northern'/>            <!-- image, low -->
+  <udhr f='pbu'                iso639-3='pbu' iso15924='Arab'  bcp47='ps'             dir='rtl' ohchr='pbu'         stage='4' notes='n' loc='35.00,71.33'     demo='n' n='Pashto, Northern'/>
   <udhr f='pcd'                iso639-3='pcd' iso15924='Latn'  bcp47='pcd'            dir='ltr' ohchr='frn2'        stage='4' notes='n' loc='50.28,3.25'      demo='n' n='Picard'/>
   <udhr f='pcm'                iso639-3='pcm' iso15924='Latn'  bcp47='pcm'            dir='ltr' ohchr='pcm'         stage='4' notes='n' loc='9.66,4.21'       demo='n' n='Pidgin, Nigerian'/>
   <udhr f='pes_1'              iso639-3='pes' iso15924='Arab'  bcp47='fa'             dir='rtl' ohchr='prs'         stage='4' notes='n' loc='28.66,55.16'     demo='n' n='Farsi, Western'/>
@@ -423,6 +423,7 @@
   <udhr f='sag'                iso639-3='sag' iso15924='Latn'  bcp47='sg'             dir='ltr' ohchr='saj'         stage='4' notes='n' loc='6.79,20.17'      demo='n' n='Sango'/>
   <udhr f='sah'                iso639-3='sah' iso15924='Cyrl'  bcp47='sah'            dir='ltr' ohchr='sah'         stage='4' notes='n' loc='61.70,133.98'    demo='n' n='Yakut'/>
   <udhr f='san'                iso639-3='san' iso15924='Deva'  bcp47='sa'             dir='ltr' ohchr='skt'         stage='4' notes='n' loc='20.00,77.00'     demo='n' n='Sanskrit'/>
+  <udhr f='san_gran'           iso639-3='san' iso15924='Gran'  bcp47='sa-Gran'        dir='ltr' ohchr=''            stage='4' notes='n' loc='20.00,77.00'     demo='y' n='Sanskrit (Grantha)'/>
   <udhr f='sat'                iso639-3='sat' iso15924='Deva'  bcp47='sat'            dir='ltr' ohchr='sat'         stage='2' notes='n' loc='25.03,87.82'     demo='n' n='Santhali'/>
   <udhr f='sck'                iso639-3='sck' iso15924='Deva'  bcp47='sck'            dir='ltr' ohchr='kis'         stage='2' notes='n' loc='23.66,84.81'     demo='n' n='Sadri'/>
   <udhr f='sco'                iso639-3='sco' iso15924='Latn'  bcp47='sco'            dir='ltr' ohchr='sco'         stage='4' notes='n' loc='55.54,-6.00'     demo='n' n='Scots'/>
