@@ -34,15 +34,11 @@
 
   <bridgehead>Recent updates</bridgehead>
 
+  <para><emphasis>December 5, 2017:</emphasis> Corrections to the Kannada [kan] translation, thanks to Srinidhi A.</para>
+
   <para><emphasis>November 14, 2017:</emphasis> The Sanskrit (Grantha) [san_gran] translation is available for review; thanks to Shriramana Sharma.</para>
 
   <para><emphasis>November 14, 2017:</emphasis> The Pashto, Northern [pbu] translation is available for review; thanks to Saadat Mateen, Rabee and Riaz Ahmad.</para>
-
-  <para><emphasis>October 29, 2017:</emphasis> Fixes to the Hindi [hin], Marathi [mar]  and Sanskrit [san] translations, thanks to Sridatta A.</para>
-
-  <para><emphasis>October 29, 2017:</emphasis> Fixed a few iso639-3 and bcp47 tags. See Github commit <ulink url='https://github.com/unicode-org/udhr/commit/ea9bb16a70bf343d8abde6c9235af3a3e51d1fe3'>ea9bb16</ulink> for the details.</para>
-
-  <para><emphasis>October 13, 2017:</emphasis> The Pular [fuf] and Pular (Adlam) [fuf_adlm] translations available for review; thanks to Ibrahima Barry and Abdoulaye Barry.</para>
 
   <para>[<ulink url='news.html'>Older news</ulink>]</para>
 
