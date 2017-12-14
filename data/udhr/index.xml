@@ -224,7 +224,8 @@
   <udhr f='ind'                iso639-3='ind' iso15924='Latn'  bcp47='id'             dir='ltr' ohchr='inz'         stage='4' notes='n' loc='-7.33,109.72'    demo='n' n='Indonesian'/>
   <udhr f='isl'                iso639-3='isl' iso15924='Latn'  bcp47='is'             dir='ltr' ohchr='ice'         stage='4' notes='n' loc='63.48,-19.02'    demo='n' n='Icelandic'/>
   <udhr f='ita'                iso639-3='ita' iso15924='Latn'  bcp47='it'             dir='ltr' ohchr='itn'         stage='4' notes='n' loc='43.05,12.65'     demo='n' n='Italian'/>
-  <udhr f='jav'                iso639-3='jav' iso15924='Latn'  bcp47='jv'             dir='ltr' ohchr='jan'         stage='4' notes='n' loc='-0.57,110.89'    demo='n' n='Javanese'/>
+  <udhr f='jav'                iso639-3='jav' iso15924='Latn'  bcp47='jv'             dir='ltr' ohchr='jan'         stage='4' notes='n' loc='-0.57,110.89'    demo='n' n='Javanese (Latin)'/>
+  <udhr f='jav_java'           iso639-3='jav' iso15924='Java'  bcp47='jv-Java'        dir='ltr' ohchr=''            stage='4' notes='n' loc='-0.57,110.89'    demo='y' n='Javanese (Javanese)'/>
   <udhr f='jiv'                iso639-3='jiv' iso15924='Latn'  bcp47='jiv'            dir='ltr' ohchr='1125'        stage='4' notes='n' loc='-3.45,-78.19'    demo='n' n='Shuar'/>
   <udhr f='jpn'                iso639-3='jpn' iso15924='Jpan'  bcp47='ja'             dir='ltr' ohchr='jpn'         stage='4' notes='n' loc='35.00,135.00'    demo='y' n='Japanese'/>
   <udhr f='jpn_tokyo'          iso639-3='jpn' iso15924='Jpan'  bcp47='ja'             dir='ltr' ohchr='to1'         stage='2' notes='n' loc='35.68,139.68'    demo='n' n='Japanese (Tokyo)'/>
