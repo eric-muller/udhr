@@ -16,6 +16,11 @@
 
 <history>
 
+  <history-entry date='May 24, 2018'>Removed an inserted comma that is not
+  obligatory. Moved &#x201C;gewährleistet&#x201D; so that its position
+  corresponds to the OHCHR translation in the PDF version. Thanks to Ivan
+  Panchenko.</history-entry>
+
   <history-entry date='December 26, 2007'>Two typos:
   &#x201C;Forschritt&#x201D; corrected to &#x201C;Fortschritt&#x201D;
   and &#x201C;Staatsanghörigkeit&#x201D; corrected to
