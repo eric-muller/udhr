@@ -15,6 +15,9 @@
 
 <history>
 
+  <history-entry date='June 19, 2018'>U+002D - HYPHEN-MINUS resolved to
+  U+2010 ‐ HYPHEN.</history-entry>
+
   <history-entry date='May 24, 2018'>
   &#x201C;des weiteren&#x201D; corrected to &#x201C;des Weiteren&#x201D;
   and &#x201C;zuteil werden&#x201D; corrected to
