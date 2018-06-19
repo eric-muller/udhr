@@ -16,6 +16,9 @@
 
 <history>
 
+  <history-entry date='June 19, 2018'>U+002D - HYPHEN-MINUS resolved to
+  U+2010 ‐ HYPHEN.</history-entry>
+
   <history-entry date='May 24, 2018'>Removed an inserted comma that is not
   obligatory. Moved &#x201C;gewährleistet&#x201D; so that its position
   corresponds to the OHCHR translation in the PDF version. Thanks to Ivan
