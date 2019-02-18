@@ -106,6 +106,7 @@
   <udhr f='chk'                iso639-3='chk' iso15924='Latn'  bcp47='chk'            dir='ltr' ohchr='tru1'        stage='4' notes='n' loc='7.34,151.60'     demo='n' n='Chuukese'/>
   <udhr f='chr_cased'          iso639-3='chr' iso15924='Cher'  bcp47='chr'            dir='ltr' ohchr=''            stage='4' notes='n' loc='35.47,-83.16'    demo='y' n='Cherokee (cased)'/>
   <udhr f='chr_uppercase'      iso639-3='chr' iso15924='Cher'  bcp47='chr'            dir='ltr' ohchr=''            stage='4' notes='n' loc='35.47,-83.16'    demo='n' n='Cherokee (uppercase)'/>
+  <udhr f='chv'                iso639-3='chv' iso15924='Cyrl'  bcp47='cv'             dir='ltr' ohchr='chv'         stage='2' notes='n' loc='55,47'           demo='n' n='Chuvash'/>               <!-- pdf but characters are wrong-->
   <udhr f='chx'                iso639-3='chx' iso15924='Deva'  bcp47='chx'            dir='ltr' ohchr='chx'         stage='2' notes='n' loc='28.7,83.5'       demo='n' n='Chantyal'/>               <!-- deva medium image-->
   <udhr f='cic'                iso639-3='cic' iso15924='Latn'  bcp47='cic'            dir='ltr' ohchr='cic'         stage='4' notes='n' loc='33.95,-97.13'    demo='n' n='Chickasaw'/>
   <udhr f='cjk'                iso639-3='cjk' iso15924='Latn'  bcp47='cjk'            dir='ltr' ohchr='cjk'         stage='4' notes='n' loc='-9.66,21.40'     demo='n' n='Chokwe'/>
@@ -122,6 +123,7 @@
   <udhr f='cmn_hant'           iso639-3='cmn' iso15924='Hant'  bcp47='zh-Hant'        dir='ltr' ohchr=''            stage='4' notes='n' loc='40.02,116.23'    demo='y' n='Chinese, Mandarin (Traditional)'/>
   <udhr f='cnh'                iso639-3='cnh' iso15924='Latn'  bcp47='cnh'            dir='ltr' ohchr='hak'         stage='4' notes='n' loc='22.87,92.82'     demo='n' n='Chin, Haka'/>
   <udhr f='cni'                iso639-3='cni' iso15924='Latn'  bcp47='cni'            dir='ltr' ohchr='cni'         stage='4' notes='n' loc='-11.93,-73.91'   demo='n' n='Asháninka'/>
+  <udhr f='cnr'                iso639-3='cnr' iso15924='Latn'  bcp47='cnr'            dir='ltr' ohchr='cnr'         stage='2' notes='n' loc='42.78,19.47'     demo='n' n='Montenegrin'/>
   <udhr f='cof'                iso639-3='cof' iso15924='Latn'  bcp47='cof'            dir='ltr' ohchr='cof'         stage='4' notes='n' loc='-0.21,-79.23'    demo='n' n='Colorado'/>
   <udhr f='con'                iso639-3='con' iso15924='Latn'  bcp47='con'            dir='ltr' ohchr='ccc'         stage='2' notes='n' loc='0.28,-77.06'     demo='n' n='Cof&#x00E1;n'/>           <!-- latn medium image-->
   <udhr f='cos'                iso639-3='cos' iso15924='Latn'  bcp47='co'             dir='ltr' ohchr='coi'         stage='4' notes='n' loc='41.70,9.26'      demo='n' n='Corsican'/>
@@ -161,6 +163,7 @@
   <udhr f='fao'                iso639-3='fao' iso15924='Latn'  bcp47='fo'             dir='ltr' ohchr='fae'         stage='4' notes='n' loc='62.07,-6.88'     demo='n' n='Faroese'/>
   <udhr f='fij'                iso639-3='fij' iso15924='Latn'  bcp47='fj'             dir='ltr' ohchr='fji'         stage='4' notes='n' loc='-18.00,178.33'   demo='n' n='Fijian'/>
   <udhr f='fin'                iso639-3='fin' iso15924='Latn'  bcp47='fi'             dir='ltr' ohchr='fin'         stage='4' notes='n' loc='64.76,25.56'     demo='n' n='Finnish'/>
+  <udhr f='fkv'                iso639-3='fkv' iso15924='Latn'  bcp47='fkv'            dir='ltr' ohchr='fkv'         stage='2' notes='n' loc='69.70,21.21'     demo='n' n='Finnish, Kven'/>
   <udhr f='flm'                iso639-3='cfm' iso15924='Latn'  bcp47='cfm'            dir='ltr' ohchr='fal'         stage='4' notes='n' loc='23.79,92.33'     demo='n' n='Chin, Falam'/>
   <udhr f='fon'                iso639-3='fon' iso15924='Latn'  bcp47='fon'            dir='ltr' ohchr='foa'         stage='4' notes='n' loc='7.15,1.66'       demo='n' n='Fon'/>
   <udhr f='fra'                iso639-3='fra' iso15924='Latn'  bcp47='fr'             dir='ltr' ohchr='frn'         stage='5' notes='y' loc='48.00,2.00'      demo='n' n='French'/>
@@ -194,6 +197,7 @@
   <udhr f='hat_popular'        iso639-3='hat' iso15924='Latn'  bcp47='ht'             dir='ltr' ohchr='hat1'        stage='4' notes='n' loc='19.00,-73.33'    demo='n' n='Haitian Creole French (Popular)'/>
   <udhr f='hau_NE'             iso639-3='hau' iso15924='Latn'  bcp47='ha-NE'          dir='ltr' ohchr='gej'         stage='4' notes='n' loc='11.15,8.78'      demo='n' n='Hausa (Niger)'/>
   <udhr f='hau_NG'             iso639-3='hau' iso15924='Latn'  bcp47='ha-NG'          dir='ltr' ohchr='gej'         stage='4' notes='n' loc='11.15,8.78'      demo='n' n='Hausa (Nigeria)'/>
+  <udhr f='hau_3'              iso639-3='hau' iso15924='Latn'  bcp47='ha'             dir='ltr' ohchr='hau'         stage='2' notes='n' loc='11.15,8.78'      demo='n' n='Hausa'/>
   <udhr f='haw'                iso639-3='haw' iso15924='Latn'  bcp47='haw'            dir='ltr' ohchr='hwi'         stage='4' notes='n' loc='19.63,-155.43'   demo='n' n='Hawaiian'/>
   <udhr f='hea'                iso639-3='hea' iso15924='Latn'  bcp47='hmn'            dir='ltr' ohchr='hea'         stage='4' notes='n' loc='26.63,108.16'    demo='n' n='Hmong, Northern Qiandong'/>
   <udhr f='heb'                iso639-3='heb' iso15924='Hebr'  bcp47='he'             dir='rtl' ohchr='hbr'         stage='4' notes='n' loc='31.11,35.02'     demo='y' n='Hebrew'/>
@@ -209,6 +213,7 @@
   <udhr f='hrv'                iso639-3='hrv' iso15924='Latn'  bcp47='hr'             dir='ltr' ohchr='src2'        stage='4' notes='n' loc='45.20,16.83'     demo='n' n='Croatian'/>
   <udhr f='hsb'                iso639-3='hsb' iso15924='Latn'  bcp47='hsb'            dir='ltr' ohchr='wee'         stage='4' notes='n' loc='51.24,14.41'     demo='n' n='Sorbian, Upper'/>
   <udhr f='hsf'                iso639-3='hus' iso15924='Latn'  bcp47='hus'            dir='ltr' ohchr='hus'         stage='4' notes='n' loc='21.62,-98.50'    demo='n' n='Huastec (Sierra de Otontepec)'/>
+  <udhr f='hsn'                iso639-3='hsn' iso15924='Hans'  bcp47='hsn'            dir='ltr' ohchr='hsn'         stage='2' notes='n' loc='28.11,112.98'    demo='n' n='Chinese, Xiang'/>
   <udhr f='hun'                iso639-3='hun' iso15924='Latn'  bcp47='hu'             dir='ltr' ohchr='hng'         stage='4' notes='n' loc='46.91,19.66'     demo='n' n='Hungarian'/>
   <udhr f='hus'                iso639-3='hus' iso15924='Latn'  bcp47='hus'            dir='ltr' ohchr='1118'        stage='4' notes='n' loc='21.62,-98.50'    demo='n' n='Huastec (Veracruz)'/>
   <udhr f='huu'                iso639-3='huu' iso15924='Latn'  bcp47='huu'            dir='ltr' ohchr='huu'         stage='4' notes='n' loc='-1.14,-73.83'    demo='n' n='Huitoto, Murui'/>
@@ -217,7 +222,9 @@
   <udhr f='ibb'                iso639-3='ibb' iso15924='Latn'  bcp47='ibb'            dir='ltr' ohchr='ibb'         stage='4' notes='n' loc='5.15,7.87'       demo='n' n='Ibibio'/>
   <udhr f='ibo'                iso639-3='ibo' iso15924='Latn'  bcp47='ig'             dir='ltr' ohchr='igr'         stage='4' notes='n' loc='4.63,7.23'       demo='n' n='Igbo'/>
   <udhr f='ido'                iso639-3='ido' iso15924='Latn'  bcp47='io'             dir='ltr' ohchr='1120'        stage='4' notes='n' loc='-75,20'          demo='n' n='Ido'/>
+  <udhr f='idu'                iso639-3='idu' iso15924='Latn'  bcp47='idu'            dir='ltr' ohchr='idu'         stage='2' notes='n' loc='7.19,8.15'       demo='n' n='Idoma'/>
   <udhr f='iii'                iso639-3='iii' iso15924='Yiii'  bcp47='ii'             dir='ltr' ohchr='iii'         stage='4' notes='n' loc='28.19,102.12'    demo='y' n='Nuosu'/>
+  <udhr f='ijs'                iso639-3='ijs' iso15924='Latn'  bcp47='ijs'            dir='ltr' ohchr='ijs'         stage='2' notes='n' loc='5.03,6.33'       demo='n' n='Ijo, Southeast'/>
   <udhr f='ike'                iso639-3='ike' iso15924='Cans'  bcp47='iu'             dir='ltr' ohchr='esb'         stage='4' notes='n' loc='62.17,-75.61'    demo='n' n='Inuktitut, Eastern Canadian'/>
   <udhr f='ilo'                iso639-3='ilo' iso15924='Latn'  bcp47='ilo'            dir='ltr' ohchr='ilo'         stage='4' notes='n' loc='15.94,120.99'    demo='n' n='Ilocano'/>
   <udhr f='ina'                iso639-3='ina' iso15924='Latn'  bcp47='ia'             dir='ltr' ohchr='1119'        stage='4' notes='n' loc='48.20,2.62'      demo='n' n='Interlingua'/>
@@ -231,6 +238,7 @@
   <udhr f='jpn_tokyo'          iso639-3='jpn' iso15924='Jpan'  bcp47='ja'             dir='ltr' ohchr='to1'         stage='2' notes='n' loc='35.68,139.68'    demo='n' n='Japanese (Tokyo)'/>
   <udhr f='jpn_osaka'          iso639-3='jpn' iso15924='Jpan'  bcp47='ja'             dir='ltr' ohchr='obe'         stage='2' notes='n' loc='34.69,135.50'    demo='n' n='Japanese (Osaka)'/>
   <udhr f='jul'                iso639-3='jul' iso15924='Deva'  bcp47='jul'            dir='ltr' ohchr='jul'         stage='2' notes='n' loc='27.69,86.32'     demo='n' n='Jirel'/>
+  <udhr f='kaa'                iso639-3='kaa' iso15924='Cyrl'  bcp47='kaa'            dir='ltr' ohchr='kaa'         stage='2' notes='n' loc='42.47,59.6'      demo='n' n='Karakalpak'/>
   <udhr f='kal'                iso639-3='kal' iso15924='Latn'  bcp47='kl'             dir='ltr' ohchr='esg'         stage='4' notes='n' loc='69.38,-52.86'    demo='n' n='Inuktitut, Greenlandic'/>
   <udhr f='kan'                iso639-3='kan' iso15924='Knda'  bcp47='kn'             dir='ltr' ohchr='kjv'         stage='4' notes='n' loc='13.59,76.12'     demo='y' n='Kannada'/>
   <udhr f='kas'                iso639-3='kas' iso15924='Arab'  bcp47='ks'             dir='rtl' ohchr='ksh'         stage='2' notes='n' loc='34.17,74.33'     demo='n' n='Kashmiri'/>
@@ -308,6 +316,7 @@
   <udhr f='mcd'                iso639-3='mcd' iso15924='Latn'  bcp47='mcd'            dir='ltr' ohchr='mcd'         stage='4' notes='n' loc='-9.86,-71.12'    demo='n' n='Sharanahua'/>
   <udhr f='mcf'                iso639-3='mcf' iso15924='Latn'  bcp47='mcf'            dir='ltr' ohchr='mcf'         stage='4' notes='n' loc='-5.74,-72.63'    demo='n' n='Matsés'/>
   <udhr f='men'                iso639-3='men' iso15924='Latn'  bcp47='men'            dir='ltr' ohchr='mfy'         stage='4' notes='n' loc='7.91,-10.99'     demo='n' n='Mende'/>
+  <udhr f='mfq'                iso639-3='mfq' iso15924='Latn'  bcp47='mfq'            dir='ltr' ohchr='mfq'         stage='4' notes='n' loc='8.00,1.00'            region='Africa'      demo='n' n='Moba'/>
   <udhr f='mgp'                iso639-3='mgp' iso15924='Deva'  bcp47='mgp'            dir='ltr' ohchr='mag'         stage='2' notes='n' loc='27.41,87.06'     demo='n' n='Maga, Eastern'/>
   <udhr f='mic'                iso639-3='mic' iso15924='Latn'  bcp47='mic'            dir='ltr' ohchr='mic'         stage='4' notes='n' loc='45.99,-65.58'    demo='n' n='Micmac'/>
   <udhr f='min'                iso639-3='min' iso15924='Latn'  bcp47='min'            dir='ltr' ohchr='mpu'         stage='4' notes='n' loc='4.17,96.25'      demo='n' n='Minangkabau'/>
@@ -338,6 +347,7 @@
   <udhr f='new'                iso639-3='new' iso15924='Deva'  bcp47='new'            dir='ltr' ohchr='new'         stage='2' notes='n' loc='27.26,84.96'     demo='n' n='Newar'/>
   <udhr f='nhn'                iso639-3='nhn' iso15924='Latn'  bcp47='nhn'            dir='ltr' ohchr='nhn'         stage='4' notes='n' loc='19.12,-98.30'    demo='n' n='Nahuatl, Central'/>
   <udhr f='nio'                iso639-3='nio' iso15924='Cyrl'  bcp47='nio'            dir='ltr' ohchr='nio'         stage='4' notes='n' loc='73.14,86.21'     demo='n' n='Nganasan'/>
+  <udhr f='niu'                iso639-3='niu' iso15924='Latn'  bcp47='niu'            dir='ltr' ohchr='niu'         stage='2' notes='n' loc='-19.05,-169.92'  demo='n' n='Niue'/>
   <udhr f='niv'                iso639-3='niv' iso15924='Cyrl'  bcp47='niv'            dir='ltr' ohchr='Nivkh'       stage='2' notes='n' loc='52.59,140.68'    demo='n' n='Gilyak'/>
   <udhr f='njo'                iso639-3='njo' iso15924='Latn'  bcp47='njo'            dir='ltr' ohchr='njo'         stage='4' notes='n' loc='26.32,94.38'     demo='n' n='Naga, Ao'/>
   <udhr f='nku'                iso639-3='nku' iso15924='Latn'  bcp47='nku'            dir='ltr' ohchr='kou'         stage='4' notes='n' loc='8.46,-2.75'      demo='n' n='Kulango, Bouna'/>
