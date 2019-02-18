@@ -1,9 +1,10 @@
 S=staging
 A=$S/assemblies
 
-JARS=../external/saxon9h3.jar:../external/jing.jar:../external/icu4j-4_8_1_1.jar:./java
+JING_JAR=../external/jing.jar
+TRANG_JAR=../external/trang.jar
 
-JAVA="java" -Xmx384M -cp "$(JARS)"
+JARS=../external/saxon9h3.jar;$(JING_JAR);../external/icu4j-4_8_1_1.jar;./java
 
 XSLT=java -cp ../external/saxon9he.jar net.sf.saxon.Transform --suppressXsltNamespaceCheck:on
 
@@ -79,13 +80,13 @@ xml:
 	done
 
 d/schema.rng: ../data/udhr/schema.rnc
-	$(JAVA) -jar "${TRANG_JAR}" d/schema.rnc d/schema.rng
+	java -jar "${TRANG_JAR}" d/schema.rnc d/schema.rng
 
 validate: d/schema.rng
 	@echo ---- validate
 	@for f in d/udhr_$(ONLY)*.xml; do \
 	  echo ====== $$f; \
-	  $(JAVA) -Xmx384M -jar "${JING_JAR}" d/schema.rng $$f; \
+	  java -Xmx384M -jar "${JING_JAR}" d/schema.rng $$f; \
 	done
 
 check_index:
@@ -95,7 +96,7 @@ check_index:
 charcount: java/org/unicode/publication/CharCounter.class
 	@echo ---- charcount
 	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do\
-	  $(JAVA) org.unicode.publication.CharCounter $$f \
+	  java -cp "$(JARS)" org.unicode.publication.CharCounter $$f \
 		> $S/d/`basename $$f .xml`.charcount; \
 	done
 
