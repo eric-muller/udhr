@@ -154,7 +154,7 @@
   <udhr f='eml'                iso639-3='rgn' iso15924='Latn'  bcp47='rgn'            dir='ltr' ohchr='eml'         stage='4' notes='n' loc='44.23,11.72'     demo='n' n='Romagnolo'/>
   <udhr f='eng'                iso639-3='eng' iso15924='Latn'  bcp47='en'             dir='ltr' ohchr='eng'         stage='5' notes='n' loc='53.00,-1.00'     demo='y' n='English'/>
   <udhr f='epo'                iso639-3='epo' iso15924='Latn'  bcp47='eo'             dir='ltr' ohchr='1115'        stage='4' notes='n' loc='49.33,2.81'      demo='n' n='Esperanto'/>
-  <udhr f='ese'                iso639-3='ese' iso15924='Latn'  bcp47='ese'            dir='ltr' ohchr='ese'         stage='2' notes='n' loc='-11.00,-66.00'   demo='n' n='Ese Ejja'/>
+  <udhr f='ese'                iso639-3='ese' iso15924='Latn'  bcp47='ese'            dir='ltr' ohchr='ese'         stage='4' notes='n' loc='-11.00,-66.00'   demo='n' n='Ese Ejja'/>
   <udhr f='est'                iso639-3='ekk' iso15924='Latn'  bcp47='et'             dir='ltr' ohchr='est'         stage='4' notes='n' loc='58.55,25.82'     demo='n' n='Estonian'/>
   <udhr f='eus'                iso639-3='eus' iso15924='Latn'  bcp47='eu'             dir='ltr' ohchr='bsq'         stage='4' notes='n' loc='43.28,-1.32'     demo='n' n='Basque'/>
   <udhr f='eve'                iso639-3='eve' iso15924='Cyrl'  bcp47='eve'            dir='ltr' ohchr='eve'         stage='4' notes='n' loc='70.67,130.91'    demo='n' n='Even'/>
@@ -272,6 +272,7 @@
   <udhr f='koo'                iso639-3='koo' iso15924='Latn'  bcp47='koo'            dir='ltr' ohchr='koo1'        stage='4' notes='n' loc='0.32,29.87'      demo='n' n='Konjo'/>
   <udhr f='kor'                iso639-3='kor' iso15924='Hang'  bcp47='ko'             dir='ltr' ohchr='kkn'         stage='4' notes='n' loc='37.50,128.00'    demo='y' n='Korean'/>
   <udhr f='kqn'                iso639-3='kqn' iso15924='Latn'  bcp47='kqn'            dir='ltr' ohchr='kqn'         stage='4' notes='n' loc='-12.41,25.76'    demo='n' n='Kaonde'/>
+  <udhr f='kqs'                iso639-3='kqs' iso15924='Latn'  bcp47='kqs'            dir='ltr' ohchr='kqs'         stage='4' notes='n' loc='9.183333, -10.1' demo='n' n='Kissi, Northern'/>
   <udhr f='kra'                iso639-3='kra' iso15924='Deva'  bcp47='kra'            dir='ltr' ohchr='kra'         stage='2' notes='n' loc='27.8,84.1'       demo='n' n='Kumhali'/>
   <udhr f='kri'                iso639-3='kri' iso15924='Latn'  bcp47='kri'            dir='ltr' ohchr='kri'         stage='4' notes='n' loc='10.88,-14.32'    demo='n' n='Krio'/>
   <udhr f='krl'                iso639-3='krl' iso15924='Latn'  bcp47='krl'            dir='ltr' ohchr='krl'         stage='4' notes='n' loc='65.17,30.87'     demo='n' n='Karelian'/>

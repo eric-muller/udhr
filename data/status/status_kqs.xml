@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for [ese]</title>
+  <title>Status and history for [kqs]</title>
 
 <!--_______________________________________________________________________-->
 
 <bridgehead id='status'>Status</bridgehead>
 
-<para>Missing title and preamble.</para>
+<para>It is likely that uppercase letters in the middle of words are actually African letters.</para>
 
 <!--_______________________________________________________________________-->
 
@@ -15,9 +15,7 @@
 
 <history>
 
-  <history-entry date='September 1, 2019'>stage 4: conversion to XML by Eric Muller.</history-entry>
-
-  <history-entry date='August 6, 2017'>stage 2: entered in the index, OHCHR identified as the source.</history-entry>
+  <history-entry date='September 1, 2019'>stage 4: OHCHR identified as the source, complete XML contributed by Eric Muller.</history-entry>
 
 </history>
 
