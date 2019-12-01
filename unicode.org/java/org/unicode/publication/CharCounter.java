@@ -10,7 +10,7 @@ import org.xml.sax.helpers.DefaultHandler;
 
 import com.ibm.icu.lang.UCharacter;
 import com.ibm.icu.lang.UCharacterCategory;
-import com.ibm.icu.text.Normalizer;
+import com.ibm.icu.text.Normalizer2;
 import com.ibm.icu.text.UCharacterIterator;
 import com.ibm.icu.text.UTF16;
 
@@ -144,7 +144,7 @@ public class CharCounter {
    * @param sb
    */
   public static void printStats (StringBuffer sb) {
-    String s = Normalizer.normalize (sb.toString (), Normalizer.NFD);
+    String s = Normalizer2.getNFDInstance().normalize(sb.toString ());
     Map<String, Integer> counter = new TreeMap<String, Integer> ();
     
     UCharacterIterator it2 = UCharacterIterator.getInstance (s);
@@ -173,9 +173,9 @@ public class CharCounter {
       
       Integer count = counter.get (grapheme);
       if (count != null) {
-        count = new Integer (count.intValue () + 1); }
+        count = count.intValue () + 1; }
       else {
-        count = new Integer (1); }
+        count = 1; }
       counter.put (grapheme, count);
       i = j; }
     
