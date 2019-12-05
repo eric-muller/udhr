@@ -1,12 +1,12 @@
 S=staging
 A=$S/assemblies
 
+ICU_JAR=../external/icu4j-65_1.jar
 JING_JAR=../external/jing.jar
+SAXON_JAR=../external/saxon9he.jar
 TRANG_JAR=../external/trang.jar
 
-JARS=../external/saxon9h3.jar;$(JING_JAR);../external/icu4j-4_8_1_1.jar;./java
-
-XSLT=java -cp ../external/saxon9he.jar net.sf.saxon.Transform --suppressXsltNamespaceCheck:on
+XSLT=java -cp $(SAXON_JAR) net.sf.saxon.Transform --suppressXsltNamespaceCheck:on
 
 
 
@@ -28,7 +28,7 @@ clean: tidy
 
 java/org/unicode/publication/CharCounter.class: java/org/unicode/publication/CharCounter.java
 	@echo ---- compile CharCounter
-	@javac -cp "${JARS}" java/org/unicode/publication/CharCounter.java
+	@javac -cp "${ICU_JAR}" java/org/unicode/publication/CharCounter.java
 
 webpages::
 	@echo ---- webpages
@@ -95,8 +95,8 @@ check_index:
 
 charcount: java/org/unicode/publication/CharCounter.class
 	@echo ---- charcount
-	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do\
-	  java -cp "$(JARS)" org.unicode.publication.CharCounter $$f \
+	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do \
+		java -cp "./java:$(ICU_JAR):$(SAXON_JAR)" org.unicode.publication.CharCounter $$f \
 		> $S/d/`basename $$f .xml`.charcount; \
 	done
 
