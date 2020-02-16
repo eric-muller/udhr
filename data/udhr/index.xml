@@ -311,13 +311,14 @@
   <udhr f='mai'                iso639-3='mai' iso15924='Deva'  bcp47='mai'            dir='ltr' ohchr=''            stage='4' notes='n' loc='26.38,86.22'     demo='n' n='Maithili'/>
   <udhr f='mai_2'              iso639-3='mai' iso15924='Deva'  bcp47='mai'            dir='ltr' ohchr='mai'         stage='2' notes='n' loc='26.38,86.22'     demo='n' n='Maithili (2)'/>
   <udhr f='mal'                iso639-3='mal' iso15924='Mlym'  bcp47='ml'             dir='ltr' ohchr='mjs'         stage='4' notes='n' loc='9.59,76.77'      demo='y' n='Malayalam'/>
+  <udhr f='mal_chillus'        iso639-3='mal' iso15924='Mlym'  bcp47='ml'             dir='ltr' ohchr='mjs'         stage='4' notes='n' loc='9.59,76.77'      demo='y' n='Malayalam'/>
   <udhr f='mam'                iso639-3='mam' iso15924='Latn'  bcp47='mam'            dir='ltr' ohchr='mam'         stage='4' notes='n' loc='14.80,-91.72'    demo='n' n='Mam, Northern'/>
   <udhr f='mar'                iso639-3='mar' iso15924='Deva'  bcp47='mr'             dir='ltr' ohchr='mrt'         stage='4' notes='n' loc='17.93,76.67'     demo='n' n='Marathi'/>
   <udhr f='maz'                iso639-3='maz' iso15924='Latn'  bcp47='maz'            dir='ltr' ohchr='maz'         stage='4' notes='n' loc='19.74,-100.02'   demo='n' n='Mazahua Central'/>
   <udhr f='mcd'                iso639-3='mcd' iso15924='Latn'  bcp47='mcd'            dir='ltr' ohchr='mcd'         stage='4' notes='n' loc='-9.86,-71.12'    demo='n' n='Sharanahua'/>
   <udhr f='mcf'                iso639-3='mcf' iso15924='Latn'  bcp47='mcf'            dir='ltr' ohchr='mcf'         stage='4' notes='n' loc='-5.74,-72.63'    demo='n' n='Matsés'/>
   <udhr f='men'                iso639-3='men' iso15924='Latn'  bcp47='men'            dir='ltr' ohchr='mfy'         stage='4' notes='n' loc='7.91,-10.99'     demo='n' n='Mende'/>
-  <udhr f='mfq'                iso639-3='mfq' iso15924='Latn'  bcp47='mfq'            dir='ltr' ohchr='mfq'         stage='4' notes='n' loc='8.00,1.00'            region='Africa'      demo='n' n='Moba'/>
+  <udhr f='mfq'                iso639-3='mfq' iso15924='Latn'  bcp47='mfq'            dir='ltr' ohchr='mfq'         stage='4' notes='n' loc='8.00,1.00'       demo='n' n='Moba'/>
   <udhr f='mgp'                iso639-3='mgp' iso15924='Deva'  bcp47='mgp'            dir='ltr' ohchr='mag'         stage='2' notes='n' loc='27.41,87.06'     demo='n' n='Maga, Eastern'/>
   <udhr f='mic'                iso639-3='mic' iso15924='Latn'  bcp47='mic'            dir='ltr' ohchr='mic'         stage='4' notes='n' loc='45.99,-65.58'    demo='n' n='Micmac'/>
   <udhr f='min'                iso639-3='min' iso15924='Latn'  bcp47='min'            dir='ltr' ohchr='mpu'         stage='4' notes='n' loc='4.17,96.25'      demo='n' n='Minangkabau'/>
