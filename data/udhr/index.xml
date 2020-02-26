@@ -242,7 +242,7 @@
   <udhr f='kal'                iso639-3='kal' iso15924='Latn'  bcp47='kl'             dir='ltr' ohchr='esg'         stage='4' notes='n' loc='69.38,-52.86'    demo='n' n='Inuktitut, Greenlandic'/>
   <udhr f='kan'                iso639-3='kan' iso15924='Knda'  bcp47='kn'             dir='ltr' ohchr='kjv'         stage='4' notes='n' loc='13.59,76.12'     demo='y' n='Kannada'/>
   <udhr f='kas'                iso639-3='kas' iso15924='Arab'  bcp47='ks'             dir='rtl' ohchr='ksh'         stage='2' notes='n' loc='34.17,74.33'     demo='n' n='Kashmiri'/>
-  <udhr f='kat'                iso639-3='kat' iso15924='Geor'  bcp47='ka'             dir='ltr' ohchr='geo'         stage='4' notes='n' loc='39.37,45.81'     demo='y' n='Georgian'/>
+  <udhr f='kat'                iso639-3='kat' iso15924='Geor'  bcp47='ka'             dir='ltr' ohchr='geo'         stage='5' notes='n' loc='39.37,45.81'     demo='y' n='Georgian'/>
   <udhr f='kaz'                iso639-3='kaz' iso15924='Cyrl'  bcp47='kk'             dir='ltr' ohchr='kaz'         stage='4' notes='n' loc='41.87,65.77'     demo='n' n='Kazakh'/>
   <udhr f='kbd'                iso639-3='kbd' iso15924='Cyrl'  bcp47='kbd'            dir='ltr' ohchr='kbd'         stage='4' notes='n' loc='43.51,43.39'     demo='n' n='Kabardian'/>
   <udhr f='kbp'                iso639-3='kbp' iso15924='Latn'  bcp47='kbp'            dir='ltr' ohchr='kbp'         stage='4' notes='n' loc='8.97,0.50'       demo='n' n='Kabiyé'/>
