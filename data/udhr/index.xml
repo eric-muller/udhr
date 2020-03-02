@@ -536,6 +536,7 @@
   <udhr f='vay'                iso639-3='vay' iso15924='Deva'  bcp47='vay'            dir='ltr' ohchr='vay'         stage='2' notes='n' loc='27.5,85'         demo='n' n='Wayu'/>
   <udhr f='vec'                iso639-3='vec' iso15924='Latn'  bcp47='vec'            dir='ltr' ohchr='vec'         stage='4' notes='n' loc='45.41,13.03'     demo='n' n='Venetian'/>
   <udhr f='ven'                iso639-3='ven' iso15924='Latn'  bcp47='ve'             dir='ltr' ohchr='tsh'         stage='4' notes='n' loc='-22.19,29.95'    demo='n' n='Venda'/>
+  <udhr f='ven2'               iso639-3='ven' iso15924='Latn'  bcp47='ve'             dir='ltr' ohchr='ven'         stage='4' notes='n' loc='-22.19,29.95'    demo='n' n='Venda'/>
   <udhr f='vep'                iso639-3='vep' iso15924='Latn'  bcp47='vep'            dir='ltr' ohchr='vep'         stage='4' notes='n' loc='60.34,34.79'     demo='n' n='Veps'/>
   <udhr f='vie'                iso639-3='vie' iso15924='Latn'  bcp47='vi'             dir='ltr' ohchr='vie'         stage='4' notes='n' loc='18.39,106.76'    demo='n' n='Vietnamese'/>
   <udhr f='vie_han'            iso639-3='vie' iso15924='Hani'  bcp47='vi-Hani'        dir='ltr' ohchr=''            stage='4' notes='n' loc='18.39,106.76'    demo='n' n='Vietnamese (Han nom)'/>
