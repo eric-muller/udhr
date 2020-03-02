@@ -9,12 +9,19 @@ udhr =
     attribute iso15924 { text },
     attribute dir { "ltr" | "rtl" },
     attribute key { text },
-    attribute language { text },
+    attribute n { text },
 
     note?, title, note?, preamble, articles, note?}
 
+inline =
+  (  text
+   | element sup { text } )*
+
 title =
-  element title { text }
+  element title { inline }
+
+para = 
+  element para { inline }
 
 note =
   element note {
@@ -242,6 +249,3 @@ four-clauses =
     element listitem {
       attribute tag { text }?,
       para }}
-
-para = 
-  element para { text }

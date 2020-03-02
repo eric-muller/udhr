@@ -21,6 +21,7 @@
   <udhr f='023'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='ji1'         stage='2' notes='n' loc='-75,30'          demo='n' n='(Jinan)'/>
   <udhr f='024'                iso639-3='und' iso15924='Deva'  bcp47='und'            dir='ltr' ohchr='Ta1'         stage='2' notes='n' loc='-75,30'          demo='n' n='(Tajpuriya)'/>
   <udhr f='025'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='Bz1'         stage='2' notes='n' loc='-75,30'          demo='n' n='(Bizisa)'/>
+  <udhr f='aar'                iso639-3='aar' iso15924='Latn'  bcp47='aa'             dir='ltr' ohchr='aar'         stage='4' notes='n' loc='12.23,41.81'     demo='n' n='Afar'/>
   <udhr f='abk'                iso639-3='abk' iso15924='Cyrl'  bcp47='ab'             dir='ltr' ohchr='abk'         stage='4' notes='y' loc='42.23,41.30'     demo='n' n='Abkhaz'/>
   <udhr f='ace'                iso639-3='ace' iso15924='Latn'  bcp47='ace'            dir='ltr' ohchr='atj'         stage='4' notes='n' loc='3.91,96.60'      demo='n' n='Aceh'/>
   <udhr f='acu'                iso639-3='acu' iso15924='Latn'  bcp47='acu'            dir='ltr' ohchr='acu'         stage='4' notes='y' loc='-2.83,-77.26'    demo='n' n='Achuar-Shiwiar'/>

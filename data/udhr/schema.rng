@@ -5,8 +5,17 @@
   </start>
   <define name="udhr">
     <element name="udhr">
-      <attribute name="lang"/>
-      <attribute name="language"/>
+      <attribute name="xml:lang"/>
+      <attribute name="iso639-3"/>
+      <attribute name="iso15924"/>
+      <attribute name="dir">
+        <choice>
+          <value>ltr</value>
+          <value>rtl</value>
+        </choice>
+      </attribute>
+      <attribute name="key"/>
+      <attribute name="n"/>
       <optional>
         <ref name="note"/>
       </optional>
@@ -21,9 +30,24 @@
       </optional>
     </element>
   </define>
+  <define name="inline">
+    <zeroOrMore>
+      <choice>
+        <text/>
+        <element name="sup">
+          <text/>
+        </element>
+      </choice>
+    </zeroOrMore>
+  </define>
   <define name="title">
     <element name="title">
-      <text/>
+      <ref name="inline"/>
+    </element>
+  </define>
+  <define name="para">
+    <element name="para">
+      <ref name="inline"/>
     </element>
   </define>
   <define name="note">
@@ -379,11 +403,6 @@
         </optional>
         <ref name="para"/>
       </element>
-    </element>
-  </define>
-  <define name="para">
-    <element name="para">
-      <text/>
     </element>
   </define>
 </grammar>
