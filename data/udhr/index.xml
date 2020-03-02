@@ -130,6 +130,7 @@
   <udhr f='cos'                iso639-3='cos' iso15924='Latn'  bcp47='co'             dir='ltr' ohchr='coi'         stage='4' notes='n' loc='41.70,9.26'      demo='n' n='Corsican'/>
   <udhr f='cot'                iso639-3='cot' iso15924='Latn'  bcp47='cot'            dir='ltr' ohchr='cot'         stage='4' notes='n' loc='-11.48,-73.45'   demo='n' n='Caquinte'/>
   <udhr f='cpu'                iso639-3='cpu' iso15924='Latn'  bcp47='cpu'            dir='ltr' ohchr='cpu'         stage='4' notes='n' loc='-10.47,-74.60'   demo='n' n='Ashéninka, Pichis'/>
+  <udhr f='crh'                iso639-3='crh' iso15924='Latn'  bcp47='crh'            dir='ltr' ohchr='crh'         stage='4' notes='n' loc='45.00,34.08'     demo='n' n='Crimean Tatar'/>
   <udhr f='crs'                iso639-3='crs' iso15924='Latn'  bcp47='crs'            dir='ltr' ohchr='crs'         stage='4' notes='n' loc='-4.62,55.45'     demo='n' n='Seselwa Creole French'/>
   <udhr f='csa'                iso639-3='csa' iso15924='Latn'  bcp47='csa'            dir='ltr' ohchr='csa'         stage='4' notes='n' loc='18.06,-96.22'    demo='n' n='Chinantec, Chiltepec'/>
   <udhr f='csw'                iso639-3='csw' iso15924='Cans'  bcp47='csw'            dir='ltr' ohchr='crm'         stage='4' notes='n' loc='56.00,-95.00'    demo='y' n='Cree, Swampy'/>
