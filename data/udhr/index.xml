@@ -182,7 +182,7 @@
   <udhr f='gax'                iso639-3='gaz' iso15924='Latn'  bcp47='om'             dir='ltr' ohchr='gax'         stage='4' notes='n' loc='1.06,37.88'      demo='n' n='Oromo, Borana-Arsi-Guji'/>
   <udhr f='gbm'                iso639-3='gbm' iso15924='Deva'  bcp47='gbm'            dir='ltr' ohchr='gbm'         stage='2' notes='n' loc='30.51,78.72'     demo='n' n='Garhwali'/>               <!--deva clean image-->
   <udhr f='gjn'                iso639-3='gjn' iso15924='Latn'  bcp47='gjn'            dir='ltr' ohchr='dum'         stage='4' notes='n' loc='8.49,-0.73'      demo='n' n='Gonja'/>
-  <udhr f='gkp'                iso639-3='gkp' iso15924='Latn'  bcp47='gkp'            dir='ltr' ohchr='gkp1'        stage='4' notes='n' loc='7.93,-8.99'      demo='n' n='Kpelle, Guinea'/>
+  <udhr f='gkp'                iso639-3='gkp' iso15924='Latn'  bcp47='gkp'            dir='ltr' ohchr='pke'         stage='4' notes='n' loc='7.93,-8.99'      demo='n' n='Kpelle, Guinea'/>
   <udhr f='gla'                iso639-3='gla' iso15924='Latn'  bcp47='gd'             dir='ltr' ohchr='gls'         stage='4' notes='n' loc='56.76,-5.24'     demo='n' n='Gaelic, Scottish'/>
   <udhr f='gld'                iso639-3='gld' iso15924='Cyrl'  bcp47='gld'            dir='ltr' ohchr='gld'         stage='4' notes='n' loc='48.43,134.80'    demo='n' n='Nanai'/>                  <!-- cyrl PDF text -->
   <udhr f='gle'                iso639-3='gle' iso15924='Latn'  bcp47='ga'             dir='ltr' ohchr='gli1'        stage='4' notes='n' loc='53.22,-7.62'     demo='n' n='Gaelic, Irish'/>
