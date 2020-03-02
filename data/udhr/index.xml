@@ -418,6 +418,7 @@
   <udhr f='rab'                iso639-3='rab' iso15924='Deva'  bcp47='rab'            dir='ltr' ohchr='rab'         stage='2' notes='n' loc='27.3,86.8'       demo='n' n='Chamling'/>
   <udhr f='raj'                iso639-3='mup' iso15924='Deva'  bcp47='raj'            dir='ltr' ohchr='raj'         stage='2' notes='n' loc='23.49,75.56'     demo='n' n='Malvi'/>
   <udhr f='rar'                iso639-3='rar' iso15924='Latn'  bcp47='rar'            dir='ltr' ohchr='rrt'         stage='4' notes='n' loc='-20.00,-158.00'  demo='n' n='Rarotongan'/>
+  <udhr f='rhg'                iso639-3='rhg' iso15924='Rohg'  bcp47='rhg'            dir='rtl' ohchr='rhg'         stage='2' notes='n' loc='20.83,92.39'     demo='n' n='Rohingya'/>
   <udhr f='rji'                iso639-3='rji' iso15924='Deva'  bcp47='rji'            dir='ltr' ohchr='rji'         stage='2' notes='n' loc='28.5,81.3'       demo='n' n='Raji'/>
   <udhr f='rjs'                iso639-3='rjs' iso15924='Deva'  bcp47='rjs'            dir='ltr' ohchr='rjs'         stage='2' notes='n' loc='26.38,88.45'     demo='n' n='Rajbanshi'/>
   <udhr f='rmn'                iso639-3='rmn' iso15924='Latn'  bcp47='rmn'            dir='ltr' ohchr='rmn'         stage='4' notes='n' loc='42.67,21.17'     demo='n' n='Romani, Balkan'/>
