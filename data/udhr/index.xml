@@ -190,6 +190,7 @@
   <udhr f='glv'                iso639-3='glv' iso15924='Latn'  bcp47='gv'             dir='ltr' ohchr=''            stage='4' notes='n' loc='54.23,-4.85'     demo='n' n='Manx'/>
   <udhr f='gno'                iso639-3='gno' iso15924='Deva'  bcp47='gno'            dir='ltr' ohchr='gno'         stage='2' notes='n' loc='18.16,81.38'     demo='n' n='Gondi, Northern'/>        <!-- deva PDF text -->
   <udhr f='gnw'                iso639-3='gnw' iso15924='Latn'  bcp47='gnw'            dir='ltr' ohchr='gnw'         stage='2' notes='n' loc='-18.00,-62.00'   demo='n' n='Guarani, Western Bolivian'/>
+  <udhr f='gsw1'               iso639-3='gsw' iso15924='Latn'  bcp47='gsw'            dir='ltr' ohchr='gsw'         stage='4' notes='n' loc='48.61,7.49'      demo='n' n='Alemannisch (Elsassisch)'/>
   <udhr f='guc'                iso639-3='guc' iso15924='Latn'  bcp47='guc'            dir='ltr' ohchr='guc'         stage='4' notes='n' loc='10.23,-71.81'    demo='n' n='Wayuu'/>
   <udhr f='gug'                iso639-3='gug' iso15924='Latn'  bcp47='gn'             dir='ltr' ohchr='gun'         stage='4' notes='n' loc='-25.61,-57.09'   demo='n' n='Guaraní, Paraguayan'/>
   <udhr f='guj'                iso639-3='guj' iso15924='Gujr'  bcp47='gu'             dir='ltr' ohchr='gjr'         stage='4' notes='n' loc='22.69,71.10'     demo='y' n='Gujarati'/>
