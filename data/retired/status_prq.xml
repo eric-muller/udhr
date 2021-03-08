@@ -15,6 +15,8 @@
 
 <history>
 
+  <history-entry date='March 8, 2021'>The [prq] translation is a duplicate of the [cbs] translation and is retired. Thanks to Ivan Derzhanski for the report.</history-entry>
+
   <history-entry date='November 5, 2006'>stage 4: Unicode version provided by Eric Muller.</history-entry>
 
   <history-entry date='September 4, 2006'>stage 2: entered in the index, OHCHR identified as the source.</history-entry>

@@ -34,6 +34,8 @@
 
   <bridgehead>Recent updates</bridgehead>
 
+  <para><emphasis>March 8, 2020:</emphasis> The [prq] translation is a duplicate of the [cbs] translation and is retired; thanks to Ivan Derzhanski.</para>
+
   <para><emphasis>March 8, 2020:</emphasis> Fixed the declaration and preamble title, thanks to Johannes Neumeier.</para>
 
   <para><emphasis>March 7, 2020:</emphasis> Major corrections to the Croatian [hrv] translation, thanks to <ulink url='http://rosettatype.com'>Rosetta Type</ulink>.</para>

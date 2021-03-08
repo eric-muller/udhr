@@ -400,7 +400,9 @@
   <udhr f='por_PT'             iso639-3='por' iso15924='Latn'  bcp47='pt-PT'          dir='ltr' ohchr='por'         stage='5' notes='n' loc='39.91,-8.10'     demo='n' n='Portuguese (Portugal)'/>
   <udhr f='pov'                iso639-3='pov' iso15924='Latn'  bcp47='pov'            dir='ltr' ohchr='gbc'         stage='4' notes='n' loc='13.23,-15.33'    demo='n' n='Crioulo, Upper Guinea'/>
   <udhr f='ppl'                iso639-3='ppl' iso15924='Latn'  bcp47='ppl'            dir='ltr' ohchr='ppl'         stage='4' notes='n' loc='13.89,-89.44'    demo='n' n='Pipil'/>
-  <udhr f='prq'                iso639-3='prq' iso15924='Latn'  bcp47='prq'            dir='ltr' ohchr='cpp'         stage='4' notes='n' loc='-10.98,-74.92'   demo='n' n='Ashéninka Perené'/>
+
+  <!-- retired   <udhr f='prq'                iso639-3='prq' iso15924='Latn'  bcp47='prq'            dir='ltr' ohchr='cpp'         stage='4' notes='n' loc='-10.98,-74.92'   demo='n' n='Ashéninka Perené'/> -->
+
   <udhr f='prv'                iso639-3='oci' iso15924='Latn'  bcp47='oc'             dir='ltr' ohchr='pro'         stage='4' notes='n' loc='44.14,6.83'      demo='n' n='Occitan'/>
   <udhr f='pwo'                iso639-3='pwo' iso15924='Mymr'  bcp47='pwo'            dir='ltr' ohchr='pwo'         stage='2' notes='n' loc='17.36,97.70'     demo='n' n='Karen, Pwo Western'/>
   <udhr f='quc'                iso639-3='quc' iso15924='Latn'  bcp47='quc'            dir='ltr' ohchr='1117'        stage='4' notes='n' loc='14.53,-91.17'    demo='n' n='K&apos;iche&apos;, Central'/>
