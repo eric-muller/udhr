@@ -79,14 +79,14 @@ xml:
 	  cp $$f $S/d/`basename $$f`; \
 	done
 
-d/schema.rng: ../data/udhr/schema.rnc
-	java -jar "${TRANG_JAR}" d/schema.rnc d/schema.rng
+../data/udhr/schema.rng: ../data/udhr/schema.rnc
+	java -jar "${TRANG_JAR}" ../data/udhr/schema.rnc ../data/udhr/schema.rng
 
-validate: d/schema.rng
+validate: ../data/udhr/schema.rng
 	@echo ---- validate
-	@for f in d/udhr_$(ONLY)*.xml; do \
+	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do \
 	  echo ====== $$f; \
-	  java -Xmx384M -jar "${JING_JAR}" d/schema.rng $$f; \
+	  java -Xmx384M -jar "${JING_JAR}" ../data/udhr/schema.rng $$f; \
 	done
 
 check_index:
@@ -96,7 +96,7 @@ check_index:
 charcount: java/org/unicode/publication/CharCounter.class
 	@echo ---- charcount
 	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do \
-		java -cp "./java:$(ICU_JAR):$(SAXON_JAR)" org.unicode.publication.CharCounter $$f \
+		java -cp "java;$(ICU_JAR);$(SAXON_JAR)" org.unicode.publication.CharCounter $$f \
 		> $S/d/`basename $$f .xml`.charcount; \
 	done
 

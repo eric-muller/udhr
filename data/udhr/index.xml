@@ -176,6 +176,7 @@
   <udhr f='fur'                iso639-3='fur' iso15924='Latn'  bcp47='fur'            dir='ltr' ohchr='frl'         stage='4' notes='n' loc='46.15,13.05'     demo='n' n='Friulian'/>
   <udhr f='fuv'                iso639-3='fuv' iso15924='Latn'  bcp47='fuv'            dir='ltr' ohchr='fum'         stage='4' notes='n' loc='11.00,11.12'     demo='n' n='Fulfulde, Nigerian'/>
   <udhr f='fuv2'               iso639-3='fuv' iso15924='Latn'  bcp47='fuv'            dir='ltr' ohchr='fuv'         stage='4' notes='n' loc='11.00,11.12'     demo='n' n='Fulfulde, Nigerian (2)'/>
+  <udhr f='fvr'                iso639-3='fvr' iso15924='Latn'  bcp47='fvr'            dir='ltr' ohchr='fvr'         stage='4' notes='n' loc='13.00,25.00'     demo='n' n='Fur'/>
   <udhr f='gaa'                iso639-3='gaa' iso15924='Latn'  bcp47='gaa'            dir='ltr' ohchr='gac2'        stage='4' notes='n' loc='5.65,-0.19'      demo='n' n='Ga'/>
   <udhr f='gag'                iso639-3='gag' iso15924='Latn'  bcp47='gag'            dir='ltr' ohchr='gag'         stage='4' notes='n' loc='44.60,28.03'     demo='n' n='Gagauz'/>
   <udhr f='gan'                iso639-3='gan' iso15924='Hans'  bcp47='gan'            dir='ltr' ohchr='gan'         stage='4' notes='n' loc='28.00,105.00'    demo='n' n='Chinese, Gan'/>
@@ -334,6 +335,7 @@
   <udhr f='mly_arab'           iso639-3='zlm' iso15924='Arab'  bcp47='zlm-Arab'       dir='rtl' ohchr=''            stage='4' notes='n' loc='1.86,103.00'     demo='n' n='Malay (Arabic)'/>
   <udhr f='mly_latn'           iso639-3='zlm' iso15924='Latn'  bcp47='zlm-Latn'       dir='ltr' ohchr='mli'         stage='4' notes='n' loc='1.86,103.00'     demo='n' n='Malay (Latin)'/>
   <udhr f='mnw'                iso639-3='mnw' iso15924='Mymr'  bcp47='mnw'            dir='ltr' ohchr=''            stage='4' notes='n' loc='10.0,100'        demo='n' n='Mon'/>
+  <udhr f='mor'                iso639-3='mor' iso15924='Latn'  bcp47='mor'            dir='ltr' ohchr='mor'         stage='4' notes='n' loc='11.00,30.00'     demo='n' n='Moro'/>
   <udhr f='mos'                iso639-3='mos' iso15924='Latn'  bcp47='mos'            dir='ltr' ohchr='mhm'         stage='4' notes='n' loc='10.45,-1.17'     demo='n' n='Mòoré'/>
   <udhr f='mri'                iso639-3='mri' iso15924='Latn'  bcp47='mi'             dir='ltr' ohchr='mbf'         stage='4' notes='n' loc='-38.29,176.54'   demo='n' n='Maori'/>
   <udhr f='mto'                iso639-3='mto' iso15924='Latn'  bcp47='mto'            dir='ltr' ohchr='mto'         stage='4' notes='n' loc='17.22,-96.02'    demo='n' n='Mixe, Totontepec'/>
@@ -527,6 +529,7 @@
   <udhr f='tzh'                iso639-3='tzh' iso15924='Latn'  bcp47='tzh'            dir='ltr' ohchr='tzc1'        stage='4' notes='n' loc='16.64,-92.28'    demo='n' n='Tzeltal, Oxchuc'/>
   <udhr f='tzm'                iso639-3='tzm' iso15924='Latn'  bcp47='tzm'            dir='ltr' ohchr='tzm'         stage='4' notes='n' loc='32.74,-2.41'     demo='n' n='Tamazight, Central Atlas'/>
   <udhr f='tzm_tfng'           iso639-3='tzm' iso15924='Tfng'  bcp47='tzm-Tfng'       dir='ltr' ohchr=''            stage='1' notes='n' loc='32.74,-2.41'     demo='n' n='Tamazight, Central Atlas (Tifinagh)'/>
+  <udhr f='udu'                iso639-3='udu' iso15924='Latn'  bcp47='udu'            dir='ltr' ohchr='udu'         stage='4' notes='n' loc='8.25,34.50'      demo='n' n='Uduk'/>
   <udhr f='uig_arab'           iso639-3='uig' iso15924='Arab'  bcp47='ug-Arab'        dir='rtl' ohchr='uig'         stage='4' notes='n' loc='43.67,79.75'     demo='n' n='Uyghur (Arabic)'/>
   <udhr f='uig_latn'           iso639-3='uig' iso15924='Latn'  bcp47='ug-Latn'        dir='ltr' ohchr=''            stage='4' notes='n' loc='43.67,79.75'     demo='n' n='Uyghur (Latin)'/>
   <udhr f='ukr'                iso639-3='ukr' iso15924='Cyrl'  bcp47='uk'             dir='ltr' ohchr='ukr'         stage='4' notes='n' loc='48.18,24.40'     demo='n' n='Ukrainian'/>
