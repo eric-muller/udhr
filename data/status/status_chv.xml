@@ -7,13 +7,15 @@
 
 <bridgehead id='status'>Status</bridgehead>
 
-<para>No known problems at this time.</para>
+<para>Many articles are missing.</para>
 
 <!--_______________________________________________________________________-->
 
 <bridgehead id='history'>History</bridgehead>
 
 <history>
+
+  <history-entry date='July 17, 2021'>stage 1: XML contributed by Eric Muller.</history-entry>
 
   <history-entry date='February 17, 2019'>stage 2: OHCHR identified as the source.</history-entry>
 
