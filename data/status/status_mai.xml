@@ -16,6 +16,8 @@
 
 <history>
 
+  <history-entry date='July 24, 2021'>Converted entities to plain Unicode. Thanks to Adam Twardoch.</history-entry>
+
   <history-entry date='June 22, 2016'>Removed an extra space in article 26. Thanks to Eric Muller.</history-entry>
 
   <history-entry date='January 29, 2016'>Replacement of U+0027 ' APOSTROPHE by U+02BC ' MODIFIER LETTER APOSTROPHE. Thanks to lemzwerg, Doug Felt and Anshuman Pandey.</history-entry>
@@ -27,4 +29,3 @@
 </history>
 
 </article>
-  

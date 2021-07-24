@@ -14,7 +14,7 @@
     <para>Secretary General</para>
   </note>
   <preamble>
-    <title/>
+    <title />
     <para>NGUNO Ubumanicha kubi banhu bose balin’ikujo na haki ja bulinganile hu chandyo cha kwiyagalula, kwenha haki na lubango,</para>
     <para>NGUNO ukwihugija na kuleka kulondalonga haki ja banhu huko kwenheleja mashito magakanazu ga kudacha na kumala masala banhu kukoba welelo i ya banhu bose balabi na buyegi wa kwiyagalula, kuyomba, kwinja boba na kupandika shose isho bushikobaga,</para>
     <para>NGUNO giki ulu abanhu bakasaziwagwa kuhaya basole mashilanga kuzitula bushimba, kulema kwibonelwa na bahanya ba nsi Ilagilo lya Nsi lilabade haki jabo,</para>
@@ -31,89 +31,92 @@
   <article number="1">
     <title>IGELE LYA 1</title>
     <para>Banhu bose bubyalagwa biyagalulile, n’ikujo haki zilenganelile.</para>
+    <para>Banhu bose bina masala na wiganiki, hu kuyomba ihayilwe bitogwe giti bana ba mbyazi bumo.</para>
   </article>
   <article number="2">
-    <title>Banhu bose bina masala na wiganiki, hu kuyomba ihayilwe bitogwe giti bana ba mbyazi bumo.</title>
-    <para>IGELE LYA 2</para>
-    <para>Kila munhu, bila kukomanyiwa luganda, ikoba, bubyalwa, lulimi lwakwe, dini, kitemele cha nsi yakwe nulu kiganikile kingi sh’ihanga uko afumile, wabyalilwe, busabi nulu umo ali, wina wiyagalule na haki jose ijo jandikwa u ng’w’Ihano linilo.</para>
-  </article>
-  <article number="3">
-    <title>Hangi giki, kukize kubi busolaniwa ku nzila ja butemi wa nsi yi bi yitabalile ninga yitabalilwe.</title>
-    <para>IGELE LYA 3</para>
-  </article>
-  <article number="4">
-    <title>Kila munhu wina haki ya bupanga na wa wiyagalule wa kwikala na lubango.</title>
-    <para>IGELE LYA 4</para>
-  </article>
-  <article number="5">
-    <title>Nduhu munhu kusesekwa nulu kuding’wa busese ku nguno kuguja basese nulu kuseseka kulemejiwe.</title>
-    <para>IGELE LYA 5</para>
-  </article>
-  <article number="6">
-    <title>Imelejiwe munhu kuduchiwa nulu kwingiziw’ ikujo.</title>
-    <para>IGELE LYA 6</para>
-  </article>
-  <article number="7">
-    <title>Kila munhu ng’w’Ihano lya Nsi wina haki ya kupiw’ikujo</title>
-    <para>IGELE LYA 7</para>
-  </article>
-  <article number="8">
-    <title>Banhu bose ng’w’Ihano lya Nsi bina haki ja kulabandwa bila kubagulwa. Bose bila haki ya kulabadwa, bakalumiziwe ku nguno ya kubagulwa na na kukil’Ihano nulu kusolanyiwa ulu balibagulwa.</title>
-    <para>IGELE LYA 8</para>
-  </article>
-  <article number="9">
-    <title>Kila munhu ali na haki ya kulipwa n’ibanza la nsi yakwe ulu witilwa mashito ga kung’wigij’ ikujo na haki ijo jandikwa na Ihano lya Nsi yakwe.</title>
-    <para>IGELE LYA 9</para>
-  </article>
-  <article number="10">
-    <title>Nduhu munu alenheleziwe kutungwa, kutulwa mu lganda nulu kupeziwa mu nsi yakwe.</title>
-    <para>IGELE LYA 10</para>
-  </article>
-  <article number="11">
-    <title>Kila munhu wina haki ya kudegelekwa na kuyangulwa n’Ibanza ku shito isho wanshidakilwa.</title>
+    <title>IGELE LYA 2</title>
     <orderedlist>
       <listitem>
-	<para>IGELE LYA 11</para>
+        <para>Kila munhu, bila kukomanyiwa luganda, ikoba, bubyalwa, lulimi lwakwe, dini, kitemele cha nsi yakwe nulu kiganikile kingi sh’ihanga uko afumile, wabyalilwe, busabi nulu umo ali, wina wiyagalule na haki jose ijo jandikwa u ng’w’Ihano linilo.</para>
+
       </listitem>
       <listitem>
-	<para>Kila munhu uyo washidakwa adegelekwe. Ibanza hilo lyuhaya wahuba nulu akahubile.</para>
+        <para>Hangi giki, kukize kubi busolaniwa ku nzila ja butemi wa nsi yi bi yitabalile ninga yitabalilwe.</para>
+
+
+      </listitem>
+    </orderedlist>
+  </article>
+  <article number="3">
+    <title>IGELE LYA 3</title>
+    <para>Kila munhu wina haki ya bupanga na wa wiyagalule wa kwikala na lubango.</para>
+  </article>
+  <article number="4">
+    <title>IGELE LYA 4</title>
+    <para>Nduhu munhu kusesekwa nulu kuding’wa busese ku nguno kuguja basese nulu kuseseka kulemejiwe.</para>
+  </article>
+  <article number="5">
+    <title>IGELE LYA 5</title>
+    <para>Imelejiwe munhu kuduchiwa nulu kwingiziw’ ikujo.</para>
+  </article>
+  <article number="6">
+    <title>IGELE LYA 6</title>
+    <para>Kila munhu ng’w’Ihano lya Nsi wina haki ya kupiw’ikujo</para>
+  </article>
+  <article number="7">
+    <title>IGELE LYA 7</title>
+    <para>Banhu bose ng’w’Ihano lya Nsi bina haki ja kulabandwa bila kubagulwa. Bose bila haki ya kulabadwa, bakalumiziwe ku nguno ya kubagulwa na na kukil’Ihano nulu kusolanyiwa ulu balibagulwa.</para>
+  </article>
+  <article number="8">
+    <title>IGELE LYA 8</title>
+    <para>Kila munhu ali na haki ya kulipwa n’ibanza la nsi yakwe ulu witilwa mashito ga kung’wigij’ ikujo na haki ijo jandikwa na Ihano lya Nsi yakwe.</para>
+  </article>
+  <article number="9">
+    <title>IGELE LYA 9</title>
+    <para>Nduhu munu alenheleziwe kutungwa, kutulwa mu lganda nulu kupeziwa mu nsi yakwe.</para>
+  </article>
+  <article number="10">
+    <title>IGELE LYA 10</title>
+    <para>Kila munhu wina haki ya kudegelekwa na kuyangulwa n’Ibanza ku shito isho wanshidakilwa.</para>
+  </article>
+  <article number="11">
+    <title>IGELE LYA 11</title>
+    <orderedlist>
+      <listitem>
+        <para>Kila munhu uyo washidakwa adegelekwe. Ibanza hilo lyuhaya wahuba nulu akahubile.</para>
+      </listitem>
+      <listitem>
+        <para>Nduhu munhu ubaziwagwa wahuba kufuma nisho washidakilwa nulu kwita mashito ayo gakahayilwe kubi buhubi u mu luganda lwa nsi nulu mahanga aho alihubila nulu kukenagula.</para>
       </listitem>
     </orderedlist>
   </article>
   <article number="12">
-    <title>2. Nduhu munhu ubaziwagwa wahuba kufuma nisho washidakilwa nulu kwita mashito ayo gakahayilwe kubi buhubi u mu luganda lwa nsi nulu mahanga aho alihubila nulu kukenagula.</title>
-    <para>IGELE LYA 12</para>
+    <title>IGELE LYA 12</title>
+    <para>Nduhu munhu uyo akibolile kwingililwa sagala mu wi bisilo, bugudu, kaya yakwe, abo uyombaga nabo, nulu kung’wingij’ikujo. Kila munhu wina haki ya kulabandwa na Ilagilo lya Nsi.</para>
   </article>
   <article number="13">
-    <title>Nduhu munhu uyo akibolile kwingililwa sagala mu wi bisilo, bugudu, kaya yakwe, abo uyombaga nabo, nulu kung’wingij’ikujo. Kila munhu wina haki ya kulabandwa na Ilagilo lya Nsi.</title>
+    <title>IGELE LYA 13</title>
     <orderedlist>
       <listitem>
-	<para>IGELE LYA 13</para>
+        <para>Munhu wina haki ya kuja uko alihaya mu nsi yakwe na kuzenga haho habi mu nsi yakwe</para>
       </listitem>
       <listitem>
-	<para>Munhu wina haki ya kuja uko alihaya mu nsi yakwe na kuzenga haho habi mu nsi yakwe</para>
+        <para>Muunhu wina haki ya kwinga mu nsi yoseyose ninga yakwe na kushoka mo hangi</para>
       </listitem>
     </orderedlist>
   </article>
   <article number="14">
-    <title>2. Muunhu wina haki ya kwinga mu nsi yoseyose ninga yakwe na kushoka mo hangi</title>
-    <orderedlist>
-      <listitem>
-	<para>IGELE LYA 14</para>
-      </listitem>
-      <listitem>
-	<para>Kila munhu wina haki ya kupelela nsi yingi ulu watulagwa akabulagwe.</para>
-      </listitem>
-    </orderedlist>
+    <title>IGELE LYA 14</title>
+    <para>Kila munhu wina haki ya kupelela nsi yingi ulu watulagwa akabulagwe.</para>
   </article>
   <article number="15">
     <title>IGELE LYA 15</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu wina haki ya kubi na nsi.</para>
+        <para>Kila munhu wina haki ya kubi na nsi.</para>
       </listitem>
       <listitem>
-	<para>Kudihu munhu, ku nzila ya kwibonelwa, alapenziwe mu nsi yakwe nulu alemeziwe kukaba nsi.</para>
+        <para>Kudihu munhu, ku nzila ya kwibonelwa, alapenziwe mu nsi yakwe nulu alemeziwe kukaba nsi.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -121,13 +124,13 @@
     <title>IGELE LYA 16</title>
     <orderedlist>
       <listitem>
-	<para>Bakina na bagosha ba mishimo mihanya, bila kutuliwa lubimbi lw’ikioba, dini nulu luhanga, bina haki ya kwitola na kwileka.</para>
+        <para>Bakina na bagosha ba mishimo mihanya, bila kutuliwa lubimbi lw’ikioba, dini nulu luhanga, bina haki ya kwitola na kwileka.</para>
       </listitem>
       <listitem>
-	<para>Winga bulatungwe duhu ulu bitozi bizunilija boyi basaba.</para>
+        <para>Winga bulatungwe duhu ulu bitozi bizunilija boyi basaba.</para>
       </listitem>
       <listitem>
-	<para>Kaya hu shigelo sha kwandya kutunda chalo. Kaya yiniyi ikuziwe.</para>
+        <para>Kaya hu shigelo sha kwandya kutunda chalo. Kaya yiniyi ikuziwe.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -135,10 +138,10 @@
     <title>IGELE LYA 17</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu wina haki ya kubi na nsabo yakwe ng’winikili na ya lusangi</para>
+        <para>Kila munhu wina haki ya kubi na nsabo yakwe ng’winikili na ya lusangi</para>
       </listitem>
       <listitem>
-	<para>nduhu munhu alataziwe nsabo yakwe bila nguno.</para>
+        <para>nduhu munhu alataziwe nsabo yakwe bila nguno.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -154,10 +157,10 @@
     <title>IGELE LYA 20</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu ali na haki kusanja na biye mu lubango.</para>
+        <para>Kila munhu ali na haki kusanja na biye mu lubango.</para>
       </listitem>
       <listitem>
-	<para>Nduhu munhu uyo alagaganiziwe kusanja na bangi.</para>
+        <para>Nduhu munhu uyo alagaganiziwe kusanja na bangi.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -165,13 +168,13 @@
     <title>IGELE LYA 21</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu wina haki ya kubi mu selekali ya nsi yakwe weyi msaba nulu kubitila ku bangi.</para>
+        <para>Kila munhu wina haki ya kubi mu selekali ya nsi yakwe weyi msaba nulu kubitila ku bangi.</para>
       </listitem>
       <listitem>
-	<para>Kila munhu wina haki ya kutumamilwa na nsi yakwe.</para>
+        <para>Kila munhu wina haki ya kutumamilwa na nsi yakwe.</para>
       </listitem>
       <listitem>
-	<para>U butogwi wa banhu hu ng’hingi ya selekali. Butogwi bunubu bulisombole mu nzila ya nhana ya welelo ya kusagula bakilongozi ku wibisa nulu mu nzila zingi ja wikole na yiniyo.</para>
+        <para>U butogwi wa banhu hu ng’hingi ya selekali. Butogwi bunubu bulisombole mu nzila ya nhana ya welelo ya kusagula bakilongozi ku wibisa nulu mu nzila zingi ja wikole na yiniyo.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -183,16 +186,16 @@
     <title>IGELE LYA 23</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu ali na haki ya wiyagalule wa kusagula na kutumama mlimo ugo atogilwe, na haki ya kutumamila hasoga, kupiwa mafayo gangi na kulabadwa ulu wagayiwa milimo.</para>
+        <para>Kila munhu ali na haki ya wiyagalule wa kusagula na kutumama mlimo ugo atogilwe, na haki ya kutumamila hasoga, kupiwa mafayo gangi na kulabadwa ulu wagayiwa milimo.</para>
       </listitem>
       <listitem>
-	<para>Kila munhu, bila ya kubagulwa, alina haki ya kulipwa kuliganija na mlimo ugo alitumama.</para>
+        <para>Kila munhu, bila ya kubagulwa, alina haki ya kulipwa kuliganija na mlimo ugo alitumama.</para>
       </listitem>
       <listitem>
-	<para>Kila mtumami, bila ya kubagulwa, wina haki ya kulipwa mafayo ga kumtosha weyi na kaya yakwe, kump’ikujo mu banhu hakimo na kongeziwa mafayo ga mzengo.</para>
+        <para>Kila mtumami, bila ya kubagulwa, wina haki ya kulipwa mafayo ga kumtosha weyi na kaya yakwe, kump’ikujo mu banhu hakimo na kongeziwa mafayo ga mzengo.</para>
       </listitem>
       <listitem>
-	<para>Kila munhu wina haki ya kwibilinga na biye ku nguno ya kulabada mafayo gakwe.</para>
+        <para>Kila munhu wina haki ya kwibilinga na biye ku nguno ya kulabada mafayo gakwe.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -204,10 +207,10 @@
     <title>IGELE LYA 25</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu wina haki ya kwikala hasoga ku nguno ya buhozu na bupanga wake, kupandika shiliwam kuzwala, kwilaka, kulagulwa na kupiwa mafayo gangi, kusungwa ulu akina milimo, ulu walwala, walwmala, wananhaluka, wafilwa nke nulu ngoshi wake, ninga wagayiwanzila zingi ja kwisunga msaba ijo azimanelile</para>
+        <para>Kila munhu wina haki ya kwikala hasoga ku nguno ya buhozu na bupanga wake, kupandika shiliwam kuzwala, kwilaka, kulagulwa na kupiwa mafayo gangi, kusungwa ulu akina milimo, ulu walwala, walwmala, wananhaluka, wafilwa nke nulu ngoshi wake, ninga wagayiwanzila zingi ja kwisunga msaba ijo azimanelile</para>
       </listitem>
       <listitem>
-	<para>Babyazi na bana basungwe, bana ba bukwelwe nabo abo bakakwelilwe, bose bina haki ya kusungwa.</para>
+        <para>Babyazi na bana basungwe, bana ba bukwelwe nabo abo bakakwelilwe, bose bina haki ya kusungwa.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -215,13 +218,13 @@
     <title>IGELE LYA 26</title>
     <orderedlist>
       <listitem>
-	<para>Banhu bose bina haki ya kulangwa ilimu lya kwandya bule na ilimu yiniyi ibi ya bose. Ilimu ya bufundi, sayansi na butalamu.</para>
+        <para>Banhu bose bina haki ya kulangwa ilimu lya kwandya bule na ilimu yiniyi ibi ya bose. Ilimu ya bufundi, sayansi na butalamu.</para>
       </listitem>
       <listitem>
-	<para>Ilimu ilolekeziwe kukuja bunhu, kuzenga haki na wiyagalule, kwelelwa, kubi na moyo na kwenha bunwani mugati na mahanga na kukuja lubango</para>
+        <para>Ilimu ilolekeziwe kukuja bunhu, kuzenga haki na wiyagalule, kwelelwa, kubi na moyo na kwenha bunwani mugati na mahanga na kukuja lubango</para>
       </listitem>
       <listitem>
-	<para>Babyazi bali na haki ya kwandya kubasagulila bana babo ilimu iyo baliihaya.</para>
+        <para>Babyazi bali na haki ya kwandya kubasagulila bana babo ilimu iyo baliihaya.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -229,10 +232,10 @@
     <title>IGELE LYA 27</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu wina haki kubi ng’wikungu na kulya na biye shisumo sha luganda na maendeleyo ga sayansi.</para>
+        <para>Kila munhu wina haki kubi ng’wikungu na kulya na biye shisumo sha luganda na maendeleyo ga sayansi.</para>
       </listitem>
       <listitem>
-	<para>Kila munhu wina haki ya kulabadilwa i shikolo isho wabenja, kusula, kutwja ku nzila ya kwiganika, sayansi ninga kwandika.</para>
+        <para>Kila munhu wina haki ya kulabadilwa i shikolo isho wabenja, kusula, kutwja ku nzila ya kwiganika, sayansi ninga kwandika.</para>
       </listitem>
     </orderedlist>
   </article>
@@ -244,13 +247,13 @@
     <title>IGELE LYA 29</title>
     <orderedlist>
       <listitem>
-	<para>Kila munhu atutumalile lugana umo maendeleyo gakwe winene gawegije kwigela.</para>
+        <para>Kila munhu atutumalile lugana umo maendeleyo gakwe winene gawegije kwigela.</para>
       </listitem>
       <listitem>
-	<para>Kupandika haki na wayagalule bunubu, kila munhu adedehanye iyo yandikwa ng’w’ Ihano kuwezakwipa na kubapa biye ikujo na wiyagaule.</para>
+        <para>Kupandika haki na wayagalule bunubu, kila munhu adedehanye iyo yandikwa ng’w’ Ihano kuwezakwipa na kubapa biye ikujo na wiyagaule.</para>
       </listitem>
       <listitem>
-	<para>Haki na wiyagaule w’Ilagilo linili, ku nzile yoseyose, bukiz’ufunziwa numa numo yahyilwa na Mahanga.</para>
+        <para>Haki na wiyagaule w’Ilagilo linili, ku nzile yoseyose, bukiz’ufunziwa numa numo yahyilwa na Mahanga.</para>
       </listitem>
     </orderedlist>
   </article>

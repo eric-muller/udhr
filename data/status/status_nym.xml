@@ -15,9 +15,10 @@
 
 <history>
 
+  <history-entry date='July 24, 2021'>Corrected the malformed XML structure and several counts of incorrect mapping of article text to the article numbers. Thanks to Adam Twardoch.</history-entry>
+
   <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
 
 </history>
 
 </article>
-  
