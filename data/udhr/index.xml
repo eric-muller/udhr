@@ -4,7 +4,7 @@
   <udhr f='007'                iso639-3='cri' iso15924='Latn'  bcp47='cri'            dir='ltr' ohchr='1128'        stage='4' notes='n' loc='6.68,0.33'       demo='n' n='Sãotomense'/>
   <udhr f='008'                iso639-3='pov' iso15924='Latn'  bcp47='pov'            dir='ltr' ohchr=''            stage='4' notes='n' loc='13.23,-15.33'    demo='n' n='Crioulo, Upper Guinea (008)'/>
   <udhr f='009'                iso639-3='kmb' iso15924='Latn'  bcp47='kmb'            dir='ltr' ohchr=''            stage='4' notes='n' loc='-8.98,14.89'     demo='n' n='Mbundu (009)'/>
-  <udhr f='010'                iso639-3='tdt' iso15924='Latn'  bcp47='tdt'            dir='ltr' ohchr=''            stage='4' notes='n' loc='125.5,-8.5'      demo='n' n='Tetun Dili'/>
+  <udhr f='010'                iso639-3='tdt' iso15924='Latn'  bcp47='tdt'            dir='ltr' ohchr=''            stage='4' notes='n' loc='-8.5,125.5'      demo='n' n='Tetun Dili'/>
   <udhr f='011'                iso639-3='umb' iso15924='Latn'  bcp47='umb'            dir='ltr' ohchr=''            stage='4' notes='n' loc='-12.48,14.41'    demo='n' n='Umbundu (011)'/>
   <udhr f='012'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='bz1'         stage='4' notes='n' loc='-75,30'          demo='n' n='(Bizisa)'/>
   <udhr f='013'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='bz2'         stage='4' notes='n' loc='-75,30'          demo='n' n='(Mijisa)'/>
