@@ -13,6 +13,8 @@
 <bridgehead id='history'>History</bridgehead>
 
 <history>
+  <history-entry date='December 27, 2021'>Many corrections thanks to Boyd Kelly</history-entry>
+
   <history-entry date='June 20, 2015'>stage 4: conversion to Unicode, thanks to Eric Muller.</history-entry>
 
   <history-entry date='April 5, 2011'>stage 2: entered in the index, OHCHR identified as the source.</history-entry>
@@ -20,4 +22,3 @@
 </history>
 
 </article>
-  
