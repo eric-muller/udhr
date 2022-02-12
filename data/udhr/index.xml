@@ -357,7 +357,7 @@
   <udhr f='nhn'                iso639-3='nhn' iso15924='Latn'  bcp47='nhn'            dir='ltr' ohchr='nhn'         stage='4' notes='n' loc='19.12,-98.30'    demo='n' n='Nahuatl, Central'/>
   <udhr f='nio'                iso639-3='nio' iso15924='Cyrl'  bcp47='nio'            dir='ltr' ohchr='nio'         stage='4' notes='n' loc='73.14,86.21'     demo='n' n='Nganasan'/>
   <udhr f='niu'                iso639-3='niu' iso15924='Latn'  bcp47='niu'            dir='ltr' ohchr='niu'         stage='4' notes='n' loc='-19.05,-169.92'  demo='n' n='Niue'/>
-  <udhr f='niv'                iso639-3='niv' iso15924='Cyrl'  bcp47='niv'            dir='ltr' ohchr='Nivkh'       stage='2' notes='n' loc='52.59,140.68'    demo='n' n='Gilyak'/>
+  <udhr f='niv'                iso639-3='niv' iso15924='Cyrl'  bcp47='niv'            dir='ltr' ohchr='Nivkh'       stage='4' notes='n' loc='52.59,140.68'    demo='n' n='Gilyak'/>
   <udhr f='njo'                iso639-3='njo' iso15924='Latn'  bcp47='njo'            dir='ltr' ohchr='njo'         stage='4' notes='n' loc='26.32,94.38'     demo='n' n='Naga, Ao'/>
   <udhr f='nku'                iso639-3='nku' iso15924='Latn'  bcp47='nku'            dir='ltr' ohchr='kou'         stage='4' notes='n' loc='8.46,-2.75'      demo='n' n='Kulango, Bouna'/>
   <udhr f='nld'                iso639-3='nld' iso15924='Latn'  bcp47='nl'             dir='ltr' ohchr='dut'         stage='4' notes='n' loc='52.00,5.00'      demo='n' n='Dutch'/>
