@@ -15,11 +15,7 @@
   lot of general work, but we&#x2019;ll let you know if that turns out
   not to be the case.</para>
 
-  <para>While the effort is highly cooperative, we have deliberately
-  not deployed fancy cooperative technologies. This is mostly because we
-  believe that the best way to get high quality results is to keep a
-  very small editorial team, e.g. to ensure that the deliverables are
-  homogeneous.</para>
+  <para>You can send us your contributions via <ulink url='contacts.html'>the contacts</ulink>, or submit pull requests to the underlying Github repository <ulink url='https://github.com/unicode-org/udhr'>unicode-org/udhr</ulink>.</para>
 
   <bridgehead>I am confused!</bridgehead>
 

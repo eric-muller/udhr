@@ -18,7 +18,7 @@
   United Nations High Commissioner for Human Rights (OHCHR) at <ulink
   url='http://www.ohchr.org/EN/UDHR/'/>.</para>
 
-  <para>You can access the translations by the map below (HTML version only) or by the <ulink url='translations.html'>table of translations</ulink> (XML, plain text, HTML, etc.) You can also access some <ulink url='aggregates.html'>aggregate documents</ulink> showing all or part of the translations.</para>
+  <para>You can access the translations by the map below (HTML version only) or by the <ulink url='translations.html'>table of translations</ulink> (XML, plain text, HTML, etc.) You can also access some <ulink url='aggregates.html'>aggregate documents</ulink> showing all or part of the translations. Or you can consult the underlying Github repository <ulink url='https://github.com/unicode-org/udhr'>unicode-org/udhr</ulink>.</para>
 
   <para>You are encouraged to contribute to this project by reviewing
   existing translations or by providing new ones. Many thanks to those
