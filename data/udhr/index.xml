@@ -564,7 +564,7 @@
   <udhr f='ydd'                iso639-3='ydd' iso15924='Hebr'  bcp47='yi'             dir='rtl' ohchr='ydd'         stage='4' notes='n' loc='51.75,19.42'     demo='n' n='Yiddish, Eastern'/>
   <udhr f='ykg'                iso639-3='ykg' iso15924='Cyrl'  bcp47='ykg'            dir='ltr' ohchr='ykg'         stage='4' notes='n' loc='65.39,151.32'    demo='n' n='Yukaghir, Northern'/>
   <udhr f='yor'                iso639-3='yor' iso15924='Latn'  bcp47='yo'             dir='ltr' ohchr='yor'         stage='4' notes='n' loc='7.15,3.67'       demo='n' n='Yoruba'/>
-  <udhr f='yrk'                iso639-3='yrk' iso15924='Cyrl'  bcp47='yrk'            dir='ltr' ohchr='yrk'         stage='2' notes='n' loc='66.18,71.02'     demo='n' n='Nenets'/>  <!-- PDF text, but encoding is private -->
+  <udhr f='yrk'                iso639-3='yrk' iso15924='Cyrl'  bcp47='yrk'            dir='ltr' ohchr='yrk'         stage='4' notes='n' loc='66.18,71.02'     demo='n' n='Nenets'/>
   <udhr f='yua'                iso639-3='yua' iso15924='Latn'  bcp47='yua'            dir='ltr' ohchr='yua'         stage='4' notes='n' loc='18.78,-88.96'    demo='n' n='Maya, Yucatán'/>
   <udhr f='yue'                iso639-3='yue' iso15924='Hani'  bcp47='yue'            dir='ltr' ohchr='yue'         stage='4' notes='n' loc='31.13,121.29'    demo='n' n='Chinese, Yue'/>
   <udhr f='yuz'                iso639-3='yuz' iso15924='Latn'  bcp47='yuz'            dir='ltr' ohchr='yuz'         stage='2' notes='n' loc='-17.00,-65.00'   demo='n' n='Yuracare'/>
