@@ -1,3 +1,4 @@
 unicode.org/staging
 unicode.org/java/org/unicode/publication/*.class
 unicode.org/.ignore
+.DS_Store

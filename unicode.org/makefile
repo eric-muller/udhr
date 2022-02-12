@@ -96,7 +96,7 @@ check_index:
 charcount: java/org/unicode/publication/CharCounter.class
 	@echo ---- charcount
 	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do \
-		java -cp "java;$(ICU_JAR);$(SAXON_JAR)" org.unicode.publication.CharCounter $$f \
+		java -cp "java:$(ICU_JAR):$(SAXON_JAR)" org.unicode.publication.CharCounter $$f \
 		> $S/d/`basename $$f .xml`.charcount; \
 	done
 
