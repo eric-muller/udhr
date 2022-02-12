@@ -440,7 +440,7 @@
   <udhr f='roh_vallader'       iso639-3='roh' iso15924='Latn'  bcp47='rm-vallader'    dir='ltr' ohchr=''            stage='4' notes='n' loc='46.55,9.93'      demo='n' n='Romansch (Vallader)'/>
   <udhr f='ron_1953'           iso639-3='ron' iso15924='Latn'  bcp47='ro'             dir='ltr' ohchr='rum'         stage='4' notes='y' loc='46.39,24.23'     demo='n' n='Romanian (1953)'/>
   <udhr f='ron_1993'           iso639-3='ron' iso15924='Latn'  bcp47='ro'             dir='ltr' ohchr=''            stage='4' notes='y' loc='46.39,24.23'     demo='n' n='Romanian (1993)'/>
-  <udhr f='ron_2006'           iso639-3='ron' iso15924='Latn'  bcp47='ro'             dir='ltr' ohchr=''            stage='4' notes='y' loc='46.39,24.23'     demo='n' n='Romanian (2006)'/>
+  <udhr f='ron_2006'           iso639-3='ron' iso15924='Latn'  bcp47='ro'             dir='ltr' ohchr=''            stage='4' notes='n' loc='46.39,24.23'     demo='n' n='Romanian (2006)'/>
   <udhr f='run'                iso639-3='run' iso15924='Latn'  bcp47='rn'             dir='ltr' ohchr='rud1'        stage='4' notes='n' loc='-1.44,31.32'     demo='n' n='Rundi'/>
   <udhr f='rus'                iso639-3='rus' iso15924='Cyrl'  bcp47='ru'             dir='ltr' ohchr='rus'         stage='4' notes='n' loc='59.00,50.00'     demo='y' n='Russian'/>
   <udhr f='sag'                iso639-3='sag' iso15924='Latn'  bcp47='sg'             dir='ltr' ohchr='saj'         stage='4' notes='n' loc='6.79,20.17'      demo='n' n='Sango'/>
