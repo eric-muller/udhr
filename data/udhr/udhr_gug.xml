@@ -4,10 +4,6 @@
 
 <udhr iso639-3='gug' xml:lang='gn' key='gug' n='Guaraní, Paraguayan' dir='ltr' iso15924='Latn' xmlns='http://www.unhchr.ch/udhr'>
    <title>TEKOVE YVYPORA KUERA MAYMAYVA DERECHO KUAAUKAHA</title>
-   <preamble>
-      <title>[Preamble]</title>
-      <para>(preamble missing)</para>
-   </preamble>
    <article number="1">
       <title>Art. 1</title>
       <para>Mayma yvypóra ou ko yvy ári iñapytlʼyre ha eteĩcha dignidad ha derecho jeguerekópe; ha ikatu rupi oikuaa añetéva ha añeteʼyva, iporãva ha ivaíva, tekotevẽ pehenguéicha oiko oñondivekuéra.</para>

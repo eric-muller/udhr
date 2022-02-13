@@ -4,10 +4,11 @@
 
 <udhr iso639-3='mzi' xml:lang='mzi' key='mzi' n='Mazatec, Ixcatlán' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
    <title>En Xi Tikon Ngasandie Xi Fijendajo Xuta</title>
-   <preamble>
-      <title/>
+   <note>
       <para>Xi ijniá ko katsenda kui naxinánda xikamatikoxtin kiania ijniá xki jo ocham tjionjo,ngojo jan.nga tiesa nga kjafet’a no ngomi nijam ocham yichan jin.</para>
-      <para>Nixitjon Tjindo</para>
+   </note>
+   <preamble>
+      <title>Nixitjon Tjindo</title>
       <para>Ngo.-</para>
       <para>Ngaxkotse, tsiee nga ndakuindo ngandindie xuta xitjindo ngasandie,tjinkjua nga ngandindie xuta ngondsejen xikotse xchandikon.</para>
       <para>Jo.-</para>

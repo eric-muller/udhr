@@ -4,9 +4,6 @@
 
 <udhr iso639-3='pap' xml:lang='pap' key='pap' n='Papiamentu' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
    <title>DECLARACION UNIVERSAL DI DERECHO HUMANO</title>
-   <note>
-      <para></para>
-   </note>
    <preamble>
       <title>Preambulo</title>
       <para>Considerando cu reconocemento di e dignidad inherente y di e derechonan igual y inalienabel di tur miembro di famia humano ta base di libertad, husticia y paz na mundo;</para>
