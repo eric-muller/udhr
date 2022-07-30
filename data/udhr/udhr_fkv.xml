@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="fkv" xml:lang="fkv" key="fkv" n="Finnish, Kven"  dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="fkv" xml:lang="fkv" key="fkv" n="Finnish, Kven"  dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>IHMISOIKKEUSDEKLARASJUUNI</title>
    <preamble>
       <title>JOHATUS</title>

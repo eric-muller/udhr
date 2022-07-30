@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="ami" xml:lang="ami" key="ami" n="Amis"  dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="ami" xml:lang="ami" key="ami" n="Amis"  dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>Kalaenu Nu Kakarayan Kngli Nu Tamlaw Swanyam</title>
    <preamble>
       <title>Shual Nu Aayaw</title>

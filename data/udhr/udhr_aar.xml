@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="aar" xml:lang="aa" key="aar" n="Afar"  dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="aar" xml:lang="aa" key="aar" n="Afar"  dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>Seehadayti Garwah Baad Kukta</title>
    <preamble>
       <title>Aakama</title>

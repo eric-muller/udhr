@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="ese" xml:lang="ese" key="ese" n="Ese Ejja"  dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="ese" xml:lang="ese" key="ese" n="Ese Ejja"  dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <article number="1">
       <title>Artículo 1</title>
       <para>Ojjaña esejja ojjaña oyaja yojjaya cuayani quiapame oyajayojjaya quiapame ojjaña eseya quiapame quia tai jjashauabataiquiani ecueya epejji jayo jjaya ojjaña jajji ojjañajaassi eseyajayojja.</para>

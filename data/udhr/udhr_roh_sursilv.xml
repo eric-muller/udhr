@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="roh" xml:lang="rm-sursilv" key="roh_sursilv" n="Romansch (Sursilvan)" dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="roh" xml:lang="rm-sursilv" key="roh_sursilv" n="Romansch (Sursilvan)" dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>Declaraziun universala dils dretgs humans</title>
    <preamble>
       <title>Preambel dalla declaraziun</title>

@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="kaa" xml:lang="kaa" key="kaa" n="Karakalpak"  dir="ltr" iso15924="Cyrl" xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="kaa" xml:lang="kaa" key="kaa" n="Karakalpak"  dir="ltr" iso15924="Cyrl" xmlns="http://www.unicode.org/udhr">
    <title>ИНСАН ҲУҚЫҚЛАРЫ ДҮНЬЯ ЖҮЗЛИК ДЕКЛАРАЦИЯСЫ</title>
    <note>
       <para>1948 жыл 10-декабрь</para>

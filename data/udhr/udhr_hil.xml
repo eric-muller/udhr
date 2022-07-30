@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='hil' xml:lang='hil' key='hil' n='Hiligaynon' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='hil' xml:lang='hil' key='hil' n='Hiligaynon' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>ANG KALIBUTANON NGA PAHAYAG SANG MGA KATARUNGANG PANGKATAOHAN</title>
    <preamble>
       <para>Tungod kay ang pagkilala sang duna nga dungog kag ang alalangay kag di madula nga mga katarungan sang tanan nga lahi sang tao amo ang pundasyon sang kahilwayan, katarungan kag kalinong sang kalibutan.</para>

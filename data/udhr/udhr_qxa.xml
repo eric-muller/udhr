@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='quh' xml:lang='quh' key='qxa' n='Quechua, South Bolivian' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='quh' xml:lang='quh' key='qxa' n='Quechua, South Bolivian' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
   <title>LLAJTANCHEJNINTINPAJ QHELQESQA TUKUY RUNAJPA ATIYNINKUTA SUT'INCHASPA</title>
   <preamble>
     <para>Kaytaqa jatun tantakuypi, tukuynin llajtasmanta ujllachasqa runa qhelqerqanku, imakunachus kay pachapi atiyninghej kasqanta yachananchejpaj. Kay qhelqesqanku qhalichakurqa iskay chunka ujniyoj p'unchayllaña kasajtin waranqa jisq'on pachaj tawa chunka pusajniyoj wata tukukunanpaj.</para>

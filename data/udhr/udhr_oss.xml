@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='oss' xml:lang='os' key='oss' n='Osetin' dir='ltr' iso15924='Cyrl' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='oss' xml:lang='os' key='oss' n='Osetin' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
    <title>Адӕймаджы Барты Ӕхсӕнад: Адӕймаджы Барты Ӕппӕтиумӕйаг Деклараци.</title>
    <note>
       <para>Ист ӕрцыд ИНО‐йы Генералон Ассамблейы 1948 азы 10 декабры.</para>

@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="niv" xml:lang="niv" key="niv" n="Gilyak" dir="ltr" iso15924="Cyrl"  xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="niv" xml:lang="niv" key="niv" n="Gilyak" dir="ltr" iso15924="Cyrl"  xmlns="http://www.unicode.org/udhr">
   <title>Қʼатьгун сик правоғун Декларация</title>
   <note>
     <para>Всеобщая декларация прав человека на нивхском языке</para>

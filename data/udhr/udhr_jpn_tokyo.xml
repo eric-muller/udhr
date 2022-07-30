@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="jpn" xml:lang="ja" key="jpn_tokyo" n="Japanese (Tokyo)"  dir="ltr" iso15924="Jpan" xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="jpn" xml:lang="ja" key="jpn_tokyo" n="Japanese (Tokyo)"  dir="ltr" iso15924="Jpan" xmlns="http://www.unicode.org/udhr">
    <title>世界人権宣言</title>
    <preamble>
       <title>前文</title>

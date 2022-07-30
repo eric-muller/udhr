@@ -1,4 +1,4 @@
-default namespace = "http://www.unhchr.ch/udhr"
+default namespace = "http://www.unicode.org/udhr"
 
 start = udhr
 

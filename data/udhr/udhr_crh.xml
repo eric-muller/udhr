@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="crh" xml:lang="crh" key="crh" n="Crimean Tatar"  dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="crh" xml:lang="crh" key="crh" n="Crimean Tatar"  dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>İNSAN AQLARINIÑ UMUMİY BEYANNAMESİ</title>
    <note>
       <para>Birleşken Milletler Baş Assambleyasınıñ 1948 senesi dekabr 10-da qabul etilgen 217-nci A (111) qararı ile ilân olundı.</para>

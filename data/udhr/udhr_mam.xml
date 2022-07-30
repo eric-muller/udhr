@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='mam' xml:lang='mam' key='mam' n='Mam, Northern' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='mam' xml:lang='mam' key='mam' n='Mam, Northern' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
   <title>AT TU'MALAAL KOPIB'IL TWI'YALAAL KAAWB'IL B'IX NIINB'IL</title>
   <preamble>
     <para>Tuj kyaqiil twitz tx'ot', aj tipamaal tu'n teetzat t-xileen tuj kyaanmi kyaqiil winaq, tu'nj juunx kyokleen b'ix milaay b'aj sla'jat kyxileen kyaqiil xjaal;</para>

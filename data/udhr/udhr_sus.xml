@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='sus' xml:lang='sus' key='sus' n='Susu' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='sus' xml:lang='sus' key='sus' n='Susu' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
   <title>ADAMA XAFE RAFALƐ SARIYƐE DƐNTƐGƐ</title>
   <preamble>
     <para>A kolon fera, ibunadama xa lasiriya nun axa adamaya xafe rafalɛ non findixi yɛtɛralui tigitigira, a bara masen won bɛ, a tinxinyi nun bɔɲɛ sa bara sɛnbɛ sɔtɔ dunuya birin kui.</para>

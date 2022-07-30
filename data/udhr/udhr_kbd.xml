@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='kbd' xml:lang='kbd' key='kbd' n='Kabardian' dir='ltr' iso15924='Cyrl' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='kbd' xml:lang='kbd' key='kbd' n='Kabardian' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
    <title>Цӏыху Хуэфащэхэм Теухуа Дунейпсо Джэпсалъэ</title>
    <note>
       <para>Дунейпсо къэрал зэгухьэныгъэм и зэхуэсу 1948 гъэм дыгъэгъазэм и 10-м щыӏам къыщащтащ 217 А (III) зи бжыгъэ унафэмкӏэ.</para>

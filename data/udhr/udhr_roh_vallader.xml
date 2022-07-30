@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3="roh" xml:lang="rm-vallader" key="roh_vallader" n="Romansch (Vallader)" dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3="roh" xml:lang="rm-vallader" key="roh_vallader" n="Romansch (Vallader)" dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>Decleraziun universala dals drets umans</title>
    <preamble>
       <title>Preambul da la decleraziun</title>

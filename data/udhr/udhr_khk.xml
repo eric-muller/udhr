@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='khk' xml:lang='mn-Cyrl' key='khk' n='Mongolian, Halh (Cyrillic)' dir='ltr' iso15924='Cyrl' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='khk' xml:lang='mn-Cyrl' key='khk' n='Mongolian, Halh (Cyrillic)' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
   <title>ХҮНИЙ ЭРХИЙН ТҮГЭЭМЭЛ ТУНХАГЛАЛ</title>
    <preamble>
       <title>ОРШИЛ</title>

@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='nio' xml:lang='nio' key='nio' n='Nganasan' dir='ltr' iso15924='Cyrl' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='nio' xml:lang='nio' key='nio' n='Nganasan' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
    <preamble>
       <title>Нерәзытыә буозу</title>
       <para>Тясәзыби”, куниа басәбса ӈанасанә” корҫә терә, иттүо бәнди” ӈанасанәй танде” терәтини, ӈонә хелиде” ӈиле мәнүтүӈ” (правайтиӈ) иттү бәзәтуобса тохитәны, хунтәмәны буобса, бәнде” ӈанасанә”дя иттүо хетәгәә нилу; ӈонә</para>

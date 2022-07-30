@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='dzo' xml:lang='dz' key='dzo' n='Dzongkha' dir='ltr' iso15924='Tibt' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='dzo' xml:lang='dz' key='dzo' n='Dzongkha' dir='ltr' iso15924='Tibt' xmlns="http://www.unicode.org/udhr">
    <title>འགྲོ་བ་མིའི་དབང་ཆ་གི་འཛམ་གླིང་གསལ་བསྒྲགས།</title>
    <preamble>
       <title>གླེང་གཞི།</title>

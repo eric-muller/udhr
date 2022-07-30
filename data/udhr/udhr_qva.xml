@@ -2,7 +2,7 @@
 
 <!--© The Office of the High Commisioner for Human Rights-->
 
-<udhr iso639-3='qva' xml:lang='qva' key='qva' n='Quechua, Ambo-Pasco' dir='ltr' iso15924='Latn' xmlns="http://www.unhchr.ch/udhr">
+<udhr iso639-3='qva' xml:lang='qva' key='qva' n='Quechua, Ambo-Pasco' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
   <title>RUNAKUNA RESPETACHIKUNANPAQ LEY RURAPÄKONQAN KAYNUYMI QALAYKUNAN</title>
   <preamble>
     <para>Lapan runa libri kananpaq, mana pipis runa masinta jarupánanpaq, juchayoqta kastigananpaq, juchaynaq mana kastigasha kananpaq, piwansi runa masinwan mana pelyar mana liytur kushisha kawapákunanpaq kay pachach'u, mayna kaykan rurashana runa kayninta mana qech'unanpaq, chaynuy lapan iwal-la kananpaq, lapan runa chay kastanuyla kananpaq;</para>

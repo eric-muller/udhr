@@ -5,7 +5,7 @@
 
 <xsl:stylesheet 
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:udhr="http://www.unhchr.ch/udhr"
+  xmlns:udhr="http://www.unicode.org/udhr"
   version="2.0">
 
 
