@@ -34,7 +34,9 @@
 
   <bridgehead>Recent updates</bridgehead>
 
-  <para><emphasis>Auguest 23, 2022:</emphasis> Corrections to the Wolof [wol] translation, thanks to Corey Garrett.</para>
+  <para><emphasis>August 25, 2022:</emphasis> Corrections to the Japanese (Osaka) [jpn_osaka] translation, thanks to xekri.</para>
+
+  <para><emphasis>August 23, 2022:</emphasis> Corrections to the Wolof [wol] translation, thanks to Corey Garrett.</para>
 
   <para><emphasis>July 29, 2022:</emphasis> The namespace for the XML documents has been changed to http://www.unicode.org/udhr.</para>
 
