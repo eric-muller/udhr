@@ -15,7 +15,6 @@
 
     <navtitle>Technical Details</navtitle>
     <navitem><ulink url='tech_whichtext.html'>Which text?</ulink></navitem>
-    <navitem><ulink url='tech_whichcharacter.html'>Which characters?</ulink></navitem>
     <navitem><ulink url='tech_langid.html'>Language identification</ulink></navitem>
     <navitem><ulink url='tech_files.html'>Files</ulink></navitem>
 

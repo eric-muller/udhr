@@ -32,7 +32,7 @@ webpages::
 	@for f in index \
 	          aggregates downloads news \
 	          contributing contributors contacts \
-	          tech_whichtext tech_whichcharacter tech_langid tech_files; do \
+	          tech_whichtext tech_langid tech_files; do \
 	  $(XSLT) -s:$$f.xml -xsl:xsl/pages.xsl -o:$S/$$f.html; \
 	done
 
