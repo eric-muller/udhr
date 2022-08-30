@@ -10,7 +10,7 @@ XSLT=java -cp $(SAXON_JAR) net.sf.saxon.Transform --suppressXsltNamespaceCheck:o
 
 
 
-all: clean check_index webpages status notes xml txt html archives
+all: clean check_index webpages status xml txt html archives
 
 
 lang: status validate txt html
@@ -18,12 +18,10 @@ lang: status validate txt html
 tidy:
 	rm -f *~
 	(cd ../data/udhr; rm -f *~)
-	(cd ../data/notes; rm -f *~)
 	(cd xsl; rm -f *~)
 
 clean: tidy
 	rm -fr staging
-	rm -fr java/org/unicode/publication/*.class
 	rm -fr .ignore
 
 webpages::
@@ -47,20 +45,6 @@ webpages::
 	@cp ../data/udhr/schema.rnc $S/d
 	@cp ../data/udhr/schema.rng $S/d
 
-
-NOTES= abk afr ame amr bel tem zul hin \
-	ron_1993 ron_1953 deu_1901 deu_1996 \
-	fra uzn_latn
-
-notes:
-	rm -fr $S/n/abk
-	@for l in $(NOTES); do \
-	  echo ---- notes, $$l; \
-	  $(XSLT) -s:../data/notes/notes_$$l.xml -xsl:xsl/pages.xsl \
-	    root-dir='../' -o:$S/n/notes_$$l.html; \
-	done
-	mkdir $S/n/abk
-	cp ../data/notes/abk/* $S/n/abk
 
 status:
 	@echo ---- status

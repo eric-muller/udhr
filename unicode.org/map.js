@@ -26,7 +26,6 @@
        var bpc47 = e[3];
        var ohchr = e[4];
        var stage = e[5];
-       var notes = e[6];
 
        title = title + titleSep + name;
        titleSep = ", ";

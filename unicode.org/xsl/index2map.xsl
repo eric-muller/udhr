@@ -22,7 +22,7 @@ var mapMarkers = [
 </xsl:template>
 
 <xsl:template match='udhr'>
- ["<xsl:value-of select='@f'/>", "<xsl:value-of select='@n'/>", "<xsl:value-of select='@iso639-3'/>", "<xsl:value-of select='@bcp47'/>", "<xsl:value-of select='@ohchr'/>", <xsl:value-of select='@stage'/>, "<xsl:value-of select='@notes'/>"],
+ ["<xsl:value-of select='@f'/>", "<xsl:value-of select='@n'/>", "<xsl:value-of select='@iso639-3'/>", "<xsl:value-of select='@bcp47'/>", "<xsl:value-of select='@ohchr'/>", <xsl:value-of select='@stage'/>],
 </xsl:template>
 
 </xsl:stylesheet>

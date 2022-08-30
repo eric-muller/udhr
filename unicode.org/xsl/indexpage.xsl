@@ -84,7 +84,6 @@ function getUrlParameter(sParam)
     <listitem>X: XML</listitem>
     <listitem>T: plain text</listitem>
     <listitem>H: HTML</listitem>
-    <listitem>N: notes</listitem>
   </itemizedlist>
       
 <p>There are currently <xsl:value-of select='count(udhr[@stage="4" or @stage="5"])'/> translations fully converted to Unicode.</p>
@@ -161,12 +160,6 @@ function getUrlParameter(sParam)
       <xsl:choose>
 	<xsl:when test='@stage!=2'><ulink url='d/udhr_{@f}.html'>H</ulink></xsl:when>
 	<xsl:otherwise>&#x00A0;</xsl:otherwise>
-      </xsl:choose>
-      <xsl:text>&#x00A0;</xsl:text>
-
-      <xsl:choose>
-	<xsl:when test='@notes="n"'>&#x00A0;</xsl:when>
-	<xsl:otherwise><ulink url='n/notes_{@f}.html'>N</ulink></xsl:otherwise>
       </xsl:choose>
     </entry>
 

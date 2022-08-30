@@ -77,12 +77,7 @@
   LETTER APOSTROPHE is the &#x201C;best&#x201D; character; but if the
   orthography does not use an apostrophe-like symbol for another
   purpose, it may very well be that the common practice is to use
-  U+0027 &#x0027; APOSTROPHE. Considerations such as these are worth
-  documenting, and that is why we keep notes on the side of the
-  documents.</para>
-
-  <para>You may find the charcount files helpful for this stage, to
-  spot suspicious characters or character sequences.</para>
+  U+0027 &#x0027; APOSTROPHE.</para>
 
   <bridgehead>Audio and Video recording</bridgehead>
 
