@@ -82,7 +82,6 @@ function getUrlParameter(sParam)
   <itemizedlist>
     <listitem>sh: status and history</listitem>
     <listitem>X: XML</listitem>
-    <listitem>C: character count</listitem>
     <listitem>T: plain text</listitem>
     <listitem>H: HTML</listitem>
     <listitem>N: notes</listitem>
@@ -149,12 +148,6 @@ function getUrlParameter(sParam)
 
       <xsl:choose>
 	<xsl:when test='@stage!=2'><ulink url='d/udhr_{@f}.xml'>X</ulink></xsl:when>
-	<xsl:otherwise>&#x00A0;</xsl:otherwise>
-      </xsl:choose>
-      <xsl:text>&#x00A0;</xsl:text>
-
-      <xsl:choose>
-	<xsl:when test='@stage!=2'><ulink url='d/udhr_{@f}.charcount'>C</ulink></xsl:when>
 	<xsl:otherwise>&#x00A0;</xsl:otherwise>
       </xsl:choose>
       <xsl:text>&#x00A0;</xsl:text>

@@ -10,10 +10,10 @@ XSLT=java -cp $(SAXON_JAR) net.sf.saxon.Transform --suppressXsltNamespaceCheck:o
 
 
 
-all: clean check_index webpages status notes xml charcount txt html archives
+all: clean check_index webpages status notes xml txt html archives
 
 
-lang: status validate charcount txt html
+lang: status validate txt html
 
 tidy:
 	rm -f *~
@@ -25,10 +25,6 @@ clean: tidy
 	rm -fr staging
 	rm -fr java/org/unicode/publication/*.class
 	rm -fr .ignore
-
-java/org/unicode/publication/CharCounter.class: java/org/unicode/publication/CharCounter.java
-	@echo ---- compile CharCounter
-	@javac -cp "${ICU_JAR}" java/org/unicode/publication/CharCounter.java
 
 webpages::
 	@echo ---- webpages
@@ -93,14 +89,6 @@ check_index:
 	@echo ---- index check
 	@$(XSLT) -s:../data/udhr/index.xml -xsl:xsl/check_index.xsl
 
-charcount: java/org/unicode/publication/CharCounter.class
-	@echo ---- charcount
-	@for f in ../data/udhr/udhr_$(ONLY)*.xml; do \
-		java -cp "java:$(ICU_JAR):$(SAXON_JAR)" org.unicode.publication.CharCounter $$f \
-		> $S/d/`basename $$f .xml`.charcount; \
-	done
-
-
 txt:
 	@echo ---- txt, first article, subset
 	@$(XSLT) -s:../data/udhr/index.xml -xsl:xsl/udhrs2txt.xsl \
@@ -158,7 +146,7 @@ archives:
 	@echo ---- archive, xml
 	@(cd $S/d; jar cfM ../assemblies/udhr_xml.zip udhr_*.xml index.xml schema.rnc schema.rng)
 
-	@for t in charcount txt html; do \
+	@for t in txt html; do \
 	  echo ---- archive, $$t; \
 	  (cd $S/d; jar cfM ../assemblies/udhr_$$t.zip udhr_*.$$t index.xml); \
 	done

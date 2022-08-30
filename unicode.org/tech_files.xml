@@ -14,14 +14,6 @@
   <para>The encoding of our files is UTF-8, with or without numeric
   character entities.</para>
 
-  <bridgehead id='charcount'>Charcount files</bridgehead>
-
-  <para>The &#x201C;charcount&#x201D; files help ensure
-  that no strange character makes it in the data, and help spot easily
-  the presence of ambiguous characters. We do not count characters,
-  but rather clusters of characters, which are more or less combining
-  sequences.</para>
-
   <bridgehead id='plaintext'>Plain text files</bridgehead>
 
   <para>The plain text files are encoded in UTF-8, and produced from

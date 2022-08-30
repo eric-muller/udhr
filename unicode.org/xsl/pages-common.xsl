@@ -10,7 +10,6 @@
     <a href='../d/udhr_{@id}.xml'>XML</a>,
     <a href='../d/udhr_{@id}.txt'>TXT</a>,
     <a href='../d/udhr_{@id}.html'>HTML</a>,
-    <a href='../d/udhr_{@id}.charcount'>Character count</a>
   </p>
 </xsl:template>
 
