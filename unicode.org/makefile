@@ -26,7 +26,7 @@ clean: tidy
 
 webpages::
 	@echo ---- webpages
-	@mkdir -p $S $S/n $S/d $S/s $A $S/assemblies
+	@mkdir -p $S $S/d $S/s $A $S/assemblies
 	@cp -R ../external/cdn $S
 
 	@for f in index \
