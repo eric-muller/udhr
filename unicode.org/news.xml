@@ -5,6 +5,8 @@
 
   <bridgehead id='y2022'>2022</bridgehead>
 
+  <para><emphasis>December 12, 2022:</emphasis> Fixes to the Bulgarian [bul] translation, thanks to Ivan Derzhanski.</para>
+
   <para><emphasis>September 12, 2022:</emphasis> Fixes to the Yoruba [yor] translation, thanks to Denis Moyogo Jacquerye.</para>
   
   <para><emphasis>August 30, 2022:</emphasis> Removal of the Notes. There were meant to build a comprehensive guide of Unicode usage, but never took off.</para>

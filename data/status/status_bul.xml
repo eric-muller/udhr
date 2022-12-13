@@ -15,6 +15,8 @@
 
 <history>
 
+  <history-entry date='December 12, 2022'>fixed a few typos, thanks to Ivan Derzhanski.</history-entry>
+  
   <history-entry date='November 7, 2006'>replaced the erroneous
   occurrences LATIN characters with their CYRILLIC look-alike; thanks
   to Arthur Reutenauer for providing this update.</history-entry>
@@ -26,4 +28,3 @@
 </history>
 
 </article>
-  
