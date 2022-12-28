@@ -22,8 +22,22 @@
   <udhr f='024'                iso639-3='und' iso15924='Deva'  bcp47='und'            dir='ltr' ohchr='Ta1'         stage='2' loc='-75,30'          demo='n' n='(Tajpuriya)'/>
   <udhr f='025'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='Bz1'         stage='4' loc='-75,30'          demo='n' n='(Bizisa)'/>
   <udhr f='026'                iso639-3='und' iso15924='Kore'  bcp47='und'            dir='ltr' ohchr='ye1'         stage='4' loc='-75,30'          demo='n' n='(Yeonbyeon)'/>
+  <udhr f='027'                iso639-3='guk' iso15924='Latn'  bcp47='guk'            dir='ltr'                     stage='4' loc='11.05,35.93'     demo='n' n='Gumuz'                                  ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/gumuz'/>
+  <udhr f='028'                iso639-3='kbr' iso15924='Latn'  bcp47='kbr'            dir='ltr'                     stage='4' loc='7.34,36.17'      demo='n' n='Kafa'                                   ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/kafi-noono'/>
+  <udhr f='029'                iso639-3='sid' iso15924='Latn'  bcp47='sid'            dir='ltr'                     stage='4' loc='6.74,38.37'      demo='n' n='Sidamo'                                 ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/sidaamu-afoo'/>
+  <udhr f='030'                iso639-3='ktu' iso15924='Latn'  bcp47='ktu'            dir='ltr'                     stage='4' loc='-2.30,17.15'     demo='n' n='Kituba (2)'                             ohchr='https://www.ohchr.org/en/node/104406'/>
+  <udhr f='031'                iso639-3='sdh' iso15924='Arab'  bcp47='sdh'            dir='rtl'                     stage='2' loc='32.90,46.60'     demo='n' n='Southern Kurdish'                       ohchr='https://www.ohchr.org/en/node/104392'/>
+  <udhr f='032'                iso639-3='azb' iso15924='Latn'  bcp47='azb'            dir='ltr'                     stage='4' loc='36.51,48.43'     demo='n' n='South Azerbaijani'                      ohchr='https://www.ohchr.org/en/node/104397'/>
+  <udhr f='033'                iso639-3='sux' iso15924='Xsux'  bcp47='sux'            dir='ltr'                     stage='2' loc='31.3,45.67'      demo='n' n='Sumerian'                               ohchr='https://www.ohchr.org/en/node/104396'/>
+  <udhr f='034'                iso639-3='hac' iso15924='Arab'  bcp47='hac'            dir='rtl'                     stage='2' loc='36.84,44.50'     demo='n' n='Gurani'                                 ohchr='https://www.ohchr.org/en/node/104393'/>
+  <udhr f='035'                iso639-3='ave' iso15924='Avst'  bcp47='ave'            dir='rtl'                     stage='2' loc='34.22,62.11'     demo='n' n='Avestan'                                ohchr='https://www.ohchr.org/en/node/104391'/>
+  <udhr f='036'                iso639-3='mid' iso15924='Mand'  bcp47='mid'            dir='rtl'                     stage='2' loc='31.34,48.81'     demo='n' n='Mandaic'                                ohchr='https://www.ohchr.org/en/node/104394'/>
+  <udhr f='037'                iso639-3='sdb' iso15924='Arab'  bcp47='sdb'            dir='rtl'                     stage='2' loc='36.37,43.14'     demo='n' n='Shabak'                                 ohchr='https://www.ohchr.org/en/node/104395'/>
+  <udhr f='038'                iso639-3='und' iso15924='Arab'  bcp47='und'            dir='rtl'                     stage='2' loc='-75,30'          demo='n' n='(Bahdidan)'                             ohchr='https://www.ohchr.org/en/node/104398'/>
+  <udhr f='039'                iso639-3='krr' iso15924='Khmr'  bcp47='krr'            dir='ltr'                     stage='2' loc='13.57,106.76'    demo='n' n='Krung'                                  ohchr='https://www.ohchr.org/en/node/103826'/>
+  <udhr f='040'                iso639-3='tpu' iso15924='Khmr'  bcp47='tpu'            dir='ltr'                     stage='2' loc='13.56,107.25'    demo='n' n='Tampuan'                                ohchr='https://www.ohchr.org/en/node/101110'/>
   <udhr f='aar'                iso639-3='aar' iso15924='Latn'  bcp47='aa'             dir='ltr' ohchr='aar'         stage='4' loc='12.23,41.81'     demo='n' n='Afar'/>
-  <udhr f='abk'                iso639-3='abk' iso15924='Cyrl'  bcp47='ab'             dir='ltr' ohchr='abk'         stage='4' loc='42.23,41.30'     demo='n' n='Abkhaz'/>
+  <udhr f='abk'                iso639-3='abk' iso15924='Cyrl'  bcp47='ab'             dir='ltr'                     stage='4' loc='42.23,41.30'     demo='n' n='Abkhaz'                                 ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/abkhaz'/>
   <udhr f='ace'                iso639-3='ace' iso15924='Latn'  bcp47='ace'            dir='ltr' ohchr='atj'         stage='4' loc='3.91,96.60'      demo='n' n='Aceh'/>
   <udhr f='acu'                iso639-3='acu' iso15924='Latn'  bcp47='acu'            dir='ltr' ohchr='acu'         stage='4' loc='-2.83,-77.26'    demo='n' n='Achuar-Shiwiar'/>
   <udhr f='acu_1'              iso639-3='acu' iso15924='Latn'  bcp47='acu'            dir='ltr' ohchr='jiv'         stage='4' loc='-2.83,-77.26'    demo='n' n='Achuar-Shiwiar (1)'/>
@@ -35,7 +49,7 @@
   <udhr f='ajg'                iso639-3='ajg' iso15924='Latn'  bcp47='ajg'            dir='ltr' ohchr='ajg'         stage='4' loc='7.07,1.65'       demo='n' n='Aja'/>
   <udhr f='aka_akuapem'        iso639-3='twi' iso15924='Latn'  bcp47='ak-akuapem'     dir='ltr' ohchr='tws1'        stage='4' loc='6.35,-1.33'      demo='n' n='Twi (Akuapem)'/>
   <udhr f='aka_asante'         iso639-3='twi' iso15924='Latn'  bcp47='ak-asante'      dir='ltr' ohchr='ass'         stage='4' loc='6.35,-1.33'      demo='n' n='Twi (Asante)'/>
-  <udhr f='aka_fante'          iso639-3='fat' iso15924='Latn'  bcp47='ak'             dir='ltr' ohchr='tws3'        stage='4' loc='6.35,-1.33'      demo='n' n='Fante'/>
+  <udhr f='aka_fante'          iso639-3='fat' iso15924='Latn'  bcp47='ak'             dir='ltr'                     stage='4' loc='6.35,-1.33'      demo='n' n='Fante'                                  ohchr='https://www.ohchr.org/en/node/102556'/>
   <udhr f='als'                iso639-3='als' iso15924='Latn'  bcp47='als'            dir='ltr' ohchr='aln'         stage='4' loc='41.00,20.00'     demo='n' n='Albanian, Tosk'/>
   <udhr f='alt'                iso639-3='alt' iso15924='Cyrl'  bcp47='alt'            dir='ltr' ohchr='alt'         stage='4' loc='50.13,86.87'     demo='n' n='Altai, Southern'/>
   <udhr f='amc'                iso639-3='amc' iso15924='Latn'  bcp47='amc'            dir='ltr' ohchr='amc'         stage='4' loc='-10.20,-72.32'   demo='n' n='Amahuaca'/>
@@ -156,7 +170,7 @@
   <udhr f='emk'                iso639-3='emk' iso15924='Latn'  bcp47='man'            dir='ltr' ohchr='mni'         stage='4' loc='9.33,-10.54'     demo='n' n='Maninkakan, Eastern'/>
   <udhr f='eml'                iso639-3='rgn' iso15924='Latn'  bcp47='rgn'            dir='ltr' ohchr='eml'         stage='4' loc='44.23,11.72'     demo='n' n='Romagnolo'/>
   <udhr f='eng'                iso639-3='eng' iso15924='Latn'  bcp47='en'             dir='ltr' ohchr='eng'         stage='5' loc='53.00,-1.00'     demo='y' n='English'/>
-  <udhr f='epo'                iso639-3='epo' iso15924='Latn'  bcp47='eo'             dir='ltr' ohchr='1115'        stage='4' loc='49.33,2.81'      demo='n' n='Esperanto'/>
+  <udhr f='epo'                iso639-3='epo' iso15924='Latn'  bcp47='eo'             dir='ltr'                     stage='4' loc='49.33,2.81'      demo='n' n='Esperanto'                              ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/esperanto'/>
   <udhr f='ese'                iso639-3='ese' iso15924='Latn'  bcp47='ese'            dir='ltr' ohchr='ese'         stage='4' loc='-11.00,-66.00'   demo='n' n='Ese Ejja'/>
   <udhr f='est'                iso639-3='ekk' iso15924='Latn'  bcp47='et'             dir='ltr' ohchr='est'         stage='4' loc='58.55,25.82'     demo='n' n='Estonian'/>
   <udhr f='eus'                iso639-3='eus' iso15924='Latn'  bcp47='eu'             dir='ltr' ohchr='bsq'         stage='4' loc='43.28,-1.32'     demo='n' n='Basque'/>
@@ -221,19 +235,19 @@
   <udhr f='hsf'                iso639-3='hus' iso15924='Latn'  bcp47='hus'            dir='ltr' ohchr='hus'         stage='4' loc='21.62,-98.50'    demo='n' n='Huastec (Sierra de Otontepec)'/>
   <udhr f='hsn'                iso639-3='hsn' iso15924='Hans'  bcp47='hsn'            dir='ltr' ohchr='hsn'         stage='4' loc='28.11,112.98'    demo='n' n='Chinese, Xiang'/>
   <udhr f='hun'                iso639-3='hun' iso15924='Latn'  bcp47='hu'             dir='ltr' ohchr='hng'         stage='4' loc='46.91,19.66'     demo='n' n='Hungarian'/>
-  <udhr f='hus'                iso639-3='hus' iso15924='Latn'  bcp47='hus'            dir='ltr' ohchr='1118'        stage='4' loc='21.62,-98.50'    demo='n' n='Huastec (Veracruz)'/>
+  <udhr f='hus'                iso639-3='hus' iso15924='Latn'  bcp47='hus'            dir='ltr'                     stage='4' loc='21.62,-98.50'    demo='n' n='Huastec (Veracruz)' ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/tenek-huasteco'/>
   <udhr f='huu'                iso639-3='huu' iso15924='Latn'  bcp47='huu'            dir='ltr' ohchr='huu'         stage='4' loc='-1.14,-73.83'    demo='n' n='Huitoto, Murui'/>
   <udhr f='hva'                iso639-3='hus' iso15924='Latn'  bcp47='hus'            dir='ltr' ohchr='hva'         stage='4' loc='21.62,-98.50'    demo='n' n='Huastec (San Luís Potosí)'/>
   <udhr f='hye'                iso639-3='hye' iso15924='Armn'  bcp47='hy'             dir='ltr' ohchr='arm'         stage='4' loc='40.00,45.00'     demo='y' n='Armenian'/>
   <udhr f='ibb'                iso639-3='ibb' iso15924='Latn'  bcp47='ibb'            dir='ltr' ohchr='ibb'         stage='4' loc='5.15,7.87'       demo='n' n='Ibibio'/>
   <udhr f='ibo'                iso639-3='ibo' iso15924='Latn'  bcp47='ig'             dir='ltr' ohchr='igr'         stage='4' loc='4.63,7.23'       demo='n' n='Igbo'/>
-  <udhr f='ido'                iso639-3='ido' iso15924='Latn'  bcp47='io'             dir='ltr' ohchr='1120'        stage='4' loc='-75,20'          demo='n' n='Ido'/>
+  <udhr f='ido'                iso639-3='ido' iso15924='Latn'  bcp47='io'             dir='ltr'                     stage='4' loc='-75,20'          demo='n' n='Ido'                                    ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/ido'/>
   <udhr f='idu'                iso639-3='idu' iso15924='Latn'  bcp47='idu'            dir='ltr' ohchr='idu'         stage='4' loc='7.19,8.15'       demo='n' n='Idoma'/>
   <udhr f='iii'                iso639-3='iii' iso15924='Yiii'  bcp47='ii'             dir='ltr' ohchr='iii'         stage='4' loc='28.19,102.12'    demo='y' n='Nuosu'/>
   <udhr f='ijs'                iso639-3='ijs' iso15924='Latn'  bcp47='ijs'            dir='ltr' ohchr='ijs'         stage='4' loc='5.03,6.33'       demo='n' n='Ijo, Southeast'/>
   <udhr f='ike'                iso639-3='ike' iso15924='Cans'  bcp47='iu'             dir='ltr' ohchr='esb'         stage='4' loc='62.17,-75.61'    demo='n' n='Inuktitut, Eastern Canadian'/>
   <udhr f='ilo'                iso639-3='ilo' iso15924='Latn'  bcp47='ilo'            dir='ltr' ohchr='ilo'         stage='4' loc='15.94,120.99'    demo='n' n='Ilocano'/>
-  <udhr f='ina'                iso639-3='ina' iso15924='Latn'  bcp47='ia'             dir='ltr' ohchr='1119'        stage='4' loc='48.20,2.62'      demo='n' n='Interlingua'/>
+  <udhr f='ina'                iso639-3='ina' iso15924='Latn'  bcp47='ia'             dir='ltr'                     stage='4' loc='48.20,2.62'      demo='n' n='Interlingua'                            ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/interlingua'/>
   <udhr f='ind'                iso639-3='ind' iso15924='Latn'  bcp47='id'             dir='ltr' ohchr='inz'         stage='4' loc='-7.33,109.72'    demo='n' n='Indonesian'/>
   <udhr f='isl'                iso639-3='isl' iso15924='Latn'  bcp47='is'             dir='ltr' ohchr='ice'         stage='4' loc='63.48,-19.02'    demo='n' n='Icelandic'/>
   <udhr f='ita'                iso639-3='ita' iso15924='Latn'  bcp47='it'             dir='ltr' ohchr='itn'         stage='4' loc='43.05,12.65'     demo='n' n='Italian'/>
@@ -255,7 +269,7 @@
   <udhr f='kde'                iso639-3='kde' iso15924='Latn'  bcp47='kde'            dir='ltr' ohchr='kde'         stage='4' loc='-10.99,39.51'    demo='n' n='Makonde'/>
   <udhr f='kdh'                iso639-3='kdh' iso15924='Latn'  bcp47='kdh'            dir='ltr' ohchr='kdh'         stage='4' loc='8.00,1.00'       demo='n' n='Tem'/>
   <udhr f='kea'                iso639-3='kea' iso15924='Latn'  bcp47='kea'            dir='ltr' ohchr='kea'         stage='4' loc='15.06,-23.61'    demo='n' n='Kabuverdianu'/>
-  <udhr f='kek'                iso639-3='kek' iso15924='Latn'  bcp47='kek'            dir='ltr' ohchr='1116'        stage='4' loc='15.38,-89.25'    demo='n' n='Q&apos;eqchi&apos;'/>
+  <udhr f='kek'                iso639-3='kek' iso15924='Latn'  bcp47='kek'            dir='ltr'                     stage='4' loc='15.38,-89.25'    demo='n' n='Q&apos;eqchi&apos;'                     ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/qechikekchi'/>
   <udhr f='kfa'                iso639-3='kfa' iso15924='Deva'  bcp47='kfa'            dir='ltr' ohchr='kfa'         stage='2' loc='12.24,75.92'     demo='n' n='Kodava'/>
   <udhr f='kfx_deva'           iso639-3='kfx' iso15924='Deva'  bcp47='kfx'            dir='ltr' ohchr='kfx'         stage='2' loc='27.3,87.1'       demo='n' n='Pahari, Kullu'/>
   <udhr f='kgg_deva'           iso639-3='kgg' iso15924='Deva'  bcp47='kgg'            dir='ltr' ohchr='kgg'         stage='2' loc='27.5,85'         demo='n' n='Kusunda'/>
@@ -350,7 +364,7 @@
   <udhr f='nav'                iso639-3='nav' iso15924='Latn'  bcp47='nv'             dir='ltr' ohchr='nav'         stage='4' loc='36.21,-110.08'   demo='n' n='Navajo'/>
   <udhr f='nba'                iso639-3='nba' iso15924='Latn'  bcp47='nba'            dir='ltr' ohchr='nba'         stage='4' loc='-15.71,18.25'    demo='n' n='Nyemba'/>
   <udhr f='nbl'                iso639-3='nbl' iso15924='Latn'  bcp47='nr'             dir='ltr' ohchr='nel'         stage='4' loc='-25.63,29.05'    demo='n' n='Ndebele'/>
-  <udhr f='ndo'                iso639-3='ndo' iso15924='Latn'  bcp47='ng'             dir='ltr' ohchr='1114'        stage='4' loc='-17.64,19.16'    demo='n' n='Ndonga'/>
+  <udhr f='ndo'                iso639-3='ndo' iso15924='Latn'  bcp47='ng'             dir='ltr'                     stage='4' loc='-17.64,19.16'    demo='n' n='Ndonga'                                 ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/oshiwambo-ndonga'/>
   <udhr f='nds'                iso639-3='nds' iso15924='Latn'  bcp47='nds'            dir='ltr' ohchr='ige'         stage='4' loc='50.77,6.09'      demo='n' n='Saxon, Low'/>
   <udhr f='nep'                iso639-3='npi' iso15924='Deva'  bcp47='ne'             dir='ltr' ohchr='nep'         stage='4' loc='27.5,85'         demo='n' n='Nepali'/>
   <udhr f='new'                iso639-3='new' iso15924='Deva'  bcp47='new'            dir='ltr' ohchr='new'         stage='2' loc='27.26,84.96'     demo='n' n='Newar'/>
@@ -381,7 +395,7 @@
   <udhr f='orh'                iso639-3='orh' iso15924='Latn'  bcp47='orh'            dir='ltr' ohchr='orh'         stage='4' loc='50,125'          demo='n' n='Oroqen'/>
   <udhr f='ori'                iso639-3='ory' iso15924='Orya'  bcp47='or'             dir='ltr' ohchr='ory'         stage='2' loc='21.66,86.86'     demo='y' n='Odia'/>
   <udhr f='oss'                iso639-3='oss' iso15924='Cyrl'  bcp47='os'             dir='ltr' ohchr='ose'         stage='4' loc='41.79,43.27'     demo='n' n='Osetin'/>
-  <udhr f='ote'                iso639-3='ote' iso15924='Latn'  bcp47='ote'            dir='ltr' ohchr='1111'        stage='4' loc='20.23,-99.56'    demo='n' n='Otomi, Mezquital'/>
+  <udhr f='ote'                iso639-3='ote' iso15924='Latn'  bcp47='ote'            dir='ltr'                     stage='4' loc='20.23,-99.56'    demo='n' n='Otomi, Mezquital'                       ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/nahnu-otomi'/>
   <udhr f='pam'                iso639-3='pam' iso15924='Latn'  bcp47='pam'            dir='ltr' ohchr='pmp'         stage='4' loc='14.96,120.50'    demo='n' n='Pampangan'/>
   <udhr f='pan'                iso639-3='pan' iso15924='Guru'  bcp47='pa'             dir='ltr' ohchr='pnj1'        stage='4' loc='30.04,75.67'     demo='y' n='Panjabi, Eastern'/>
   <udhr f='pap'                iso639-3='pap' iso15924='Latn'  bcp47='pap'            dir='ltr' ohchr='pap'         stage='4' loc='12.48,-69.94'    demo='n' n='Papiamentu'/>
@@ -407,7 +421,7 @@
 
   <udhr f='prv'                iso639-3='oci' iso15924='Latn'  bcp47='oc'             dir='ltr' ohchr='pro'         stage='4' loc='44.14,6.83'      demo='n' n='Occitan'/>
   <udhr f='pwo'                iso639-3='pwo' iso15924='Mymr'  bcp47='pwo'            dir='ltr' ohchr='pwo'         stage='2' loc='17.36,97.70'     demo='n' n='Karen, Pwo Western'/>
-  <udhr f='quc'                iso639-3='quc' iso15924='Latn'  bcp47='quc'            dir='ltr' ohchr='1117'        stage='4' loc='14.53,-91.17'    demo='n' n='K&apos;iche&apos;, Central'/>
+  <udhr f='quc'                iso639-3='quc' iso15924='Latn'  bcp47='quc'            dir='ltr'                     stage='4' loc='14.53,-91.17'    demo='n' n='K&apos;iche&apos;, Central'             ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/kiche-quiche'/>
   <udhr f='qud'                iso639-3='que' iso15924='Latn'  bcp47='qu'             dir='ltr' ohchr='qud1'        stage='4' loc='-0.5,-78.5'      demo='n' n='Quechua (Unified Quichua, old Hispanic orthography)'/>
   <udhr f='qug'                iso639-3='qug' iso15924='Latn'  bcp47='qug'            dir='ltr' ohchr='qug'         stage='4' loc='-1.37,-78.85'    demo='n' n='Quichua, Chimborazo Highland'/>
   <udhr f='qul'                iso639-3='qul' iso15924='Latn'  bcp47='qul'            dir='ltr' ohchr='qul'         stage='2' loc='-14.00,-68.00'   demo='n' n='Quechua, North Bolivian'/>
@@ -520,7 +534,7 @@
   <udhr f='tsn'                iso639-3='tsn' iso15924='Latn'  bcp47='tn'             dir='ltr' ohchr='tsw'         stage='4' loc='-24.37,24.76'    demo='n' n='Tswana'/>
   <udhr f='tso_MZ'             iso639-3='tso' iso15924='Latn'  bcp47='ts'             dir='ltr' ohchr='tso'         stage='4' loc='-23.58,31.81'    demo='n' n='Tsonga (Mozambique)'/>
   <udhr f='tso_ZW'             iso639-3='tso' iso15924='Latn'  bcp47='ts'             dir='ltr' ohchr='tso1'        stage='4' loc='-23.58,31.81'    demo='n' n='Tsonga (Zimbabwe)'/>
-  <udhr f='tsz'                iso639-3='tsz' iso15924='Latn'  bcp47='tsz'            dir='ltr' ohchr='1112'        stage='4' loc='19.25,-101.63'   demo='n' n='Purepecha'/>
+  <udhr f='tsz'                iso639-3='tsz' iso15924='Latn'  bcp47='tsz'            dir='ltr'                     stage='4' loc='19.25,-101.63'   demo='n' n='Purepecha'                              ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/purhepecha'/>
   <udhr f='tuk_cyrl'           iso639-3='tuk' iso15924='Cyrl'  bcp47='tk-Cyrl'        dir='ltr' ohchr='tck'         stage='4' loc='37.09,59.18'     demo='n' n='Turkmen (Cyrillic)'/>
   <udhr f='tuk_latn'           iso639-3='tuk' iso15924='Latn'  bcp47='tk-Latn'        dir='ltr' ohchr=''            stage='4' loc='37.09,59.18'     demo='n' n='Turkmen (Latin)'/>
   <udhr f='tur'                iso639-3='tur' iso15924='Latn'  bcp47='tr'             dir='ltr' ohchr='trk'         stage='4' loc='39.87,32.87'     demo='n' n='Turkish'/>
@@ -574,4 +588,4 @@
   <udhr f='zro'                iso639-3='zro' iso15924='Latn'  bcp47='zro'            dir='ltr' ohchr='1124'        stage='4' loc='-2.00,-76.36'    demo='n' n='Z&#x00E1;paro'/>
   <udhr f='ztu'                iso639-3='ztu' iso15924='Latn'  bcp47='ztu'            dir='ltr' ohchr='ztu1'        stage='4' loc='16.88,-96.46'    demo='n' n='Zapotec, Güilá'/>
   <udhr f='zul'                iso639-3='zul' iso15924='Latn'  bcp47='zu'             dir='ltr' ohchr='zuu'         stage='4' loc='-25.33,31.35'    demo='n' n='Zulu'/>
-</udhrs>     
+</udhrs>

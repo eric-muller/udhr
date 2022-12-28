@@ -130,6 +130,9 @@ function getUrlParameter(sParam)
     <entry><xsl:value-of select='@bcp47'/></entry>
 
     <xsl:choose>
+      <xsl:when test='starts-with(@ohchr,"http")'>
+        <entry><ulink url='{@ohchr}'>ohchr</ulink></entry>
+      </xsl:when>
       <xsl:when test='@ohchr != ""'>
 	<entry><ulink url='http://www.ohchr.org/EN/UDHR/Pages/Language.aspx?LangID={@ohchr}'><xsl:value-of select='@ohchr'/></ulink></entry>
       </xsl:when>
