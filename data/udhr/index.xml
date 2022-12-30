@@ -6,7 +6,6 @@
   <udhr f='009'                iso639-3='kmb' iso15924='Latn'  bcp47='kmb'            dir='ltr' ohchr=''            stage='4' loc='-8.98,14.89'     demo='n' n='Mbundu (009)'/>
   <udhr f='010'                iso639-3='tdt' iso15924='Latn'  bcp47='tdt'            dir='ltr' ohchr=''            stage='4' loc='-8.5,125.5'      demo='n' n='Tetun Dili'/>
   <udhr f='011'                iso639-3='umb' iso15924='Latn'  bcp47='umb'            dir='ltr' ohchr=''            stage='4' loc='-12.48,14.41'    demo='n' n='Umbundu (011)'/>
-  <udhr f='012'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='bz1'         stage='4' loc='-75,30'          demo='n' n='(Bizisa)'/>
   <udhr f='013'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='bz2'         stage='4' loc='-75,30'          demo='n' n='(Mijisa)'/>
   <udhr f='014'                iso639-3='und' iso15924='Latn'  bcp47='und'            dir='ltr' ohchr='ma1'         stage='4' loc='-75,30'          demo='n' n='(Maiunan)'/>
   <udhr f='015'                iso639-3='und' iso15924='Deva'  bcp47='und'            dir='ltr' ohchr='ma2'         stage='2' loc='-75,30'          demo='n' n='(Magar / Dhut)'/>
