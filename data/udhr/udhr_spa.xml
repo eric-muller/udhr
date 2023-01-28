@@ -4,20 +4,18 @@
 
 <udhr iso639-3='spa' xml:lang='es' key='spa' n='Spanish' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
    <title>Declaración Universal de Derechos Humanos</title>
-   <note>
-      <para>Adoptada y proclamada por la Asamblea General en su resolución 217 A (III), de 10 de diciembre de 1948</para>
-   </note>
    <preamble>
       <title>Preámbulo</title>
-      <para>Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana,</para>
-      <para>Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad; y que se ha proclamado, como la aspiración más elevada del hombre, el advenimiento de un mundo en que los seres humanos, liberados del temor y de la miseria, disfruten de la libertad de palabra y de la libertad de creencias,</para>
-      <para>Considerando esencial que los derechos humanos sean protegidos por un régimen de Derecho, a fin de que el hombre no se vea compelido al supremo recurso de la rebelión contra la tiranía y la opresión,</para>
-      <para>Considerando también esencial promover el desarrollo de relaciones amistosas entre las naciones,</para>
-      <para>Considerando que los pueblos de las Naciones Unidas han reafirmado en la Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres; y se han declarado resueltos a promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad,</para>
+      <para>Considerando que la libertad, la justicia y la paz en el mundo tienen por base el reconocimiento de la dignidad intrínseca y de los derechos iguales e inalienables de todos los miembros de la familia humana;</para>
+      <para>Considerando que el desconocimiento y el menosprecio de los derechos humanos han originado actos de barbarie ultrajantes para la conciencia de la humanidad, y que se ha proclamado, como la aspiración más elevada del hombre, el advenimiento de un mundo en que los seres humanos, liberados del temor y de la miseria, disfruten de la libertad de palabra y de la libertad de creencias;</para>
+      <para>Considerando esencial que los derechos humanos sean protegidos por un régimen de Derecho, a fin de que el hombre no se vea compelido al supremo recurso de la rebelión contra la tiranía y la opresión;</para>
+      <para>Considerando también esencial promover el desarrollo de relaciones amistosas entre las naciones;</para>
+      <para>Considerando que los pueblos de las Naciones Unidas han reafirmado en la Carta su fe en los derechos fundamentales del hombre, en la dignidad y el valor de la persona humana y en la igualdad de derechos de hombres y mujeres, y se han declarado resueltos a promover el progreso social y a elevar el nivel de vida dentro de un concepto más amplio de la libertad;</para>
       <para>Considerando que los Estados Miembros se han comprometido a asegurar, en cooperación con la Organización de las Naciones Unidas, el respeto universal y efectivo a los derechos y libertades fundamentales del hombre, y</para>
-      <para>Considerando que una concepción común de estos derechos y libertades es de la mayor importancia para el pleno cumplimiento de dicho compromiso,</para>
-      <para>La Asamblea General</para>
-      <para>Proclama la presente Declaración Universal de Derechos Humanos como ideal común por el que todos los pueblos y naciones deben esforzarse, a fin de que tanto los individuos como las instituciones, inspirándose constantemente en ella, promuevan, mediante la enseñanza y la educación, el respeto a estos derechos y libertades, y aseguren, por medidas progresivas de carácter nacional e internacional, su reconocimiento y aplicación universales y efectivos, tanto entre los pueblos de los Estados Miembros como entre los de los territorios colocados bajo su jurisdicción.</para>
+      <para>Considerando que una concepción común de estos derechos y libertades es de la mayor importancia para el pleno cumplimiento de dicho compromiso;</para>
+      <para>Ahora, por tanto,</para>
+      <para>La Asamblea General,</para>
+      <para>Proclama la presente Declaración Universal de los Derechos Humanos como ideal común por el que todos los pueblos y naciones deben esforzarse, a fin de que tanto los individuos como las instituciones, inspirándose constantemente en ella, promuevan, mediante la enseñanza y la educación, el respeto a estos derechos y libertades, y aseguren, por medidas progresivas de carácter nacional e internacional, su reconocimiento y aplicación universales y efectivos, tanto entre los pueblos de los Estados Miembros como entre los de los territorios colocados bajo su jurisdicción.</para>
    </preamble>
    <article number="1">
       <title>Artículo 1</title>
@@ -25,7 +23,7 @@
    </article>
    <article number="2">
       <title>Artículo 2</title>
-      <para>Toda persona tiene los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.</para>
+      <para>Toda persona tiene todos los derechos y libertades proclamados en esta Declaración, sin distinción alguna de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole, origen nacional o social, posición económica, nacimiento o cualquier otra condición.</para>
       <para>Además, no se hará distinción alguna fundada en la condición política, jurídica o internacional del país o territorio de cuya jurisdicción dependa una persona, tanto si se trata de un país independiente, como de un territorio bajo administración fiduciaria, no autónomo o sometido a cualquier otra limitación de soberanía.</para>
    </article>
    <article number="3">
@@ -34,7 +32,7 @@
    </article>
    <article number="4">
       <title>Artículo 4</title>
-      <para>Nadie estará sometido a esclavitud ni a servidumbre; la esclavitud y la trata de esclavos están prohibidas en todas sus formas.</para>
+      <para>Nadie estará sometido a esclavitud ni a servidumbre, la esclavitud y la trata de esclavos están prohibidas en todas sus formas.</para>
    </article>
    <article number="5">
       <title>Artículo 5</title>
@@ -50,7 +48,7 @@
    </article>
    <article number="8">
       <title>Artículo 8</title>
-      <para>Toda persona tiene derecho a un recurso efectivo, ante los tribunales nacionales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por la constitución o por la ley.</para>
+      <para>Toda persona tiene derecho a un recurso efectivo ante los tribunales nacionales competentes, que la ampare contra actos que violen sus derechos fundamentales reconocidos por la constitución o por la ley.</para>
    </article>
    <article number="9">
       <title>Artículo 9</title>
@@ -82,7 +80,7 @@
             <para>Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado.</para>
          </listitem>
          <listitem>
-            <para>Toda persona tiene derecho a salir de cualquier país, incluso el propio, y a regresar a su país.</para>
+            <para>Toda persona tiene derecho a salir de cualquier país, incluso del propio, y a regresar a su país.</para>
          </listitem>
       </orderedlist>
    </article>
@@ -112,7 +110,7 @@
       <title>Artículo 16</title>
       <orderedlist>
          <listitem>
-            <para>Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por motivos de raza, nacionalidad o religión, a casarse y fundar una familia; y disfrutarán de iguales derechos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del matrimonio.</para>
+            <para>Los hombres y las mujeres, a partir de la edad núbil, tienen derecho, sin restricción alguna por motivos de raza, nacionalidad o religión, a casarse y fundar una familia, y disfrutarán de iguales derechos en cuanto al matrimonio, durante el matrimonio y en caso de disolución del matrimonio.</para>
          </listitem>
          <listitem>
             <para>Sólo mediante libre y pleno consentimiento de los futuros esposos podrá contraerse el matrimonio.</para>
@@ -139,7 +137,7 @@
    </article>
    <article number="19">
       <title>Artículo 19</title>
-      <para>Todo individuo tiene derecho a la libertad de opinión y de expresión; este derecho incluye el no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.</para>
+      <para>Todo individuo tiene derecho a la libertad de opinión y de expresión; este derecho incluye el de no ser molestado a causa de sus opiniones, el de investigar y recibir informaciones y opiniones, y el de difundirlas, sin limitación de fronteras, por cualquier medio de expresión.</para>
    </article>
    <article number="20">
       <title>Artículo 20</title>
@@ -177,7 +175,7 @@
             <para>Toda persona tiene derecho al trabajo, a la libre elección de su trabajo, a condiciones equitativas y satisfactorias de trabajo y a la protección contra el desempleo.</para>
          </listitem>
          <listitem>
-            <para>Toda personal tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.</para>
+            <para>Toda persona tiene derecho, sin discriminación alguna, a igual salario por trabajo igual.</para>
          </listitem>
          <listitem>
             <para>Toda persona que trabaja tiene derecho a una remuneración equitativa y satisfactoria, que le asegure, así como a su familia, una existencia conforme a la dignidad humana y que será completada, en caso necesario, por cualesquiera otros medios de protección social.</para>
@@ -195,7 +193,7 @@
       <title>Artículo 25</title>
       <orderedlist>
          <listitem>
-            <para>Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, enfermedad, invalidez, viudez, vejez y otros casos de pérdida de sus medios de subsistencia por circunstancias independientes de su voluntad.</para>
+            <para>Toda persona tiene derecho a un nivel de vida adecuado que le asegure, así como a su familia, la salud y el bienestar, y en especial la alimentación, el vestido, la vivienda, la asistencia médica y los servicios sociales necesarios; tiene asimismo derecho a los seguros en caso de desempleo, enfermedad, invalidez, viudez, vejez u otros casos de pérdida de sus medios de subsistencia por circunstancias independientes de su voluntad.</para>
          </listitem>
          <listitem>
             <para>La maternidad y la infancia tienen derecho a cuidados y asistencia especiales. Todos los niños, nacidos de matrimonio o fuera de matrimonio, tienen derecho a igual protección social.</para>
@@ -209,7 +207,7 @@
             <para>Toda persona tiene derecho a la educación. La educación debe ser gratuita, al menos en lo concerniente a la instrucción elemental y fundamental. La instrucción elemental será obligatoria. La instrucción técnica y profesional habrá de ser generalizada; el acceso a los estudios superiores será igual para todos, en función de los méritos respectivos.</para>
          </listitem>
          <listitem>
-            <para>La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos; y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.</para>
+            <para>La educación tendrá por objeto el pleno desarrollo de la personalidad humana y el fortalecimiento del respeto a los derechos humanos y a las libertades fundamentales; favorecerá la comprensión, la tolerancia y la amistad entre todas las naciones y todos los grupos étnicos o religiosos, y promoverá el desarrollo de las actividades de las Naciones Unidas para el mantenimiento de la paz.</para>
          </listitem>
          <listitem>
             <para>Los padres tendrán derecho preferente a escoger el tipo de educación que habrá de darse a sus hijos.</para>
@@ -241,12 +239,12 @@
             <para>En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a las limitaciones establecidas por la ley con el único fin de asegurar el reconocimiento y el respeto de los derechos y libertades de los demás, y de satisfacer las justas exigencias de la moral, del orden público y del bienestar general en una sociedad democrática.</para>
          </listitem>
          <listitem>
-            <para>Estos derechos y libertades no podrán en ningún caso ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas.</para>
+            <para>Estos derechos y libertades no podrán, en ningún caso, ser ejercidos en oposición a los propósitos y principios de las Naciones Unidas.</para>
          </listitem>
       </orderedlist>
    </article>
    <article number="30">
       <title>Artículo 30</title>
-      <para>Nada en la presente Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta Declaración.</para>
+      <para>Nada en esta Declaración podrá interpretarse en el sentido de que confiere derecho alguno al Estado, a un grupo o a una persona, para emprender y desarrollar actividades o realizar actos tendientes a la supresión de cualquiera de los derechos y libertades proclamados en esta Declaración.</para>
    </article>
 </udhr>

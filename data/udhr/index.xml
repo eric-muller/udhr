@@ -36,6 +36,7 @@
   <udhr f='039'                iso639-3='krr' iso15924='Khmr'  bcp47='krr'            dir='ltr'                     stage='2' loc='13.57,106.76'    demo='n' n='Krung'                                  ohchr='https://www.ohchr.org/en/node/103826'/>
   <udhr f='040'                iso639-3='tpu' iso15924='Khmr'  bcp47='tpu'            dir='ltr'                     stage='2' loc='13.56,107.25'    demo='n' n='Tampuan'                                ohchr='https://www.ohchr.org/en/node/101110'/>
   <udhr f='041'                iso639-3='lvs' iso15924='Latn'  bcp47='lv'             dir='ltr' ohchr='lat'         stage='4' loc='56.83,24.31'     demo='n' n='Latvian (2)'/>
+  <udhr f='042'                iso639-3='spa' iso15924='Latn'  bcp47='es'             dir='ltr' ohchr=''            stage='4' loc='40.44,-1.12'     demo='n' n='Spanish (resolution)'/>
   <udhr f='aar'                iso639-3='aar' iso15924='Latn'  bcp47='aa'             dir='ltr' ohchr='aar'         stage='4' loc='12.23,41.81'     demo='n' n='Afar'/>
   <udhr f='abk'                iso639-3='abk' iso15924='Cyrl'  bcp47='ab'             dir='ltr'                     stage='4' loc='42.23,41.30'     demo='n' n='Abkhaz'                                 ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/abkhaz'/>
   <udhr f='ace'                iso639-3='ace' iso15924='Latn'  bcp47='ace'            dir='ltr' ohchr='atj'         stage='4' loc='3.91,96.60'      demo='n' n='Aceh'/>

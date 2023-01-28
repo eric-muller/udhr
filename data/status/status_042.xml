@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for Spanish [spa]</title>
+  <title>Status and history for Spanish (resolution) [042]</title>
 
 <!--_______________________________________________________________________-->
 
@@ -15,9 +15,7 @@
 
 <history>
 
-  <history-entry date='January 28, 2023'>updated to match the text at <ulink url="https://www.un.org/es/about-us/universal-declaration-of-human-rights"/></history-entry>
-
-  <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
+  <history-entry date='January 28, 2023'>This version matches the <ulink url="https://undocs.org/es/A/RES/217(III)">text of the resolution</ulink> adopting the declaration.</history-entry>
 
 </history>
 
