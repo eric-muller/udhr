@@ -7,7 +7,7 @@
 
 <bridgehead id='status'>Status</bridgehead>
 
-<para>It is likely that uppercase letters in the middle of words are actually African letters.</para>
+<para>No known problem at this time.</para>
 
 <!--_______________________________________________________________________-->
 
@@ -15,6 +15,8 @@
 
 <history>
 
+  <para>See the <a href='https://github.com/unicode-org/udhr'>Github repository</a>  for changes in 2023 and after.</para>
+  
   <history-entry date='September 1, 2019'>stage 4: OHCHR identified as the source, complete XML contributed by Eric Muller.</history-entry>
 
 </history>
