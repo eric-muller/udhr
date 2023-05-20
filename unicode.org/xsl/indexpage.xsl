@@ -123,7 +123,7 @@ function getUrlParameter(sParam)
 
     <entry><xsl:value-of select='@region'/></entry>
 
-    <entry><ulink url='http://www.sil.org/ISO639-3/documentation.asp?id={@iso639-3}'><xsl:value-of select='@iso639-3'/></ulink></entry>
+    <entry><ulink url='http://https://iso639-3.sil.org/code/{@iso639-3}'><xsl:value-of select='@iso639-3'/></ulink></entry>
 
     <entry><xsl:value-of select='@iso15924'/></entry>
 
