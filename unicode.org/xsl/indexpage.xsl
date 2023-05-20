@@ -118,7 +118,7 @@ function getUrlParameter(sParam)
   <row>
     <entry><xsl:value-of select='@f'/></entry>
     <entry>
-       <ulink url='http://www.ethnologue.com/show_language.asp?code={@iso639-3}'><xsl:value-of select='@n'/></ulink>
+       <ulink url='http://www.ethnologue.com/language/{@iso639-3}/'><xsl:value-of select='@n'/></ulink>
      </entry>
 
     <entry><xsl:value-of select='@region'/></entry>
