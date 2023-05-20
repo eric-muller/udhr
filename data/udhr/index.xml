@@ -226,7 +226,7 @@
   <udhr f='hin'                iso639-3='hin' iso15924='Deva'  bcp47='hi'             dir='ltr' ohchr='hnd'         stage='4' loc='25.00,77.00'     demo='y' n='Hindi'/>
   <udhr f='hlt'                iso639-3='hlt' iso15924='Latn'  bcp47='hlt'            dir='ltr' ohchr='hlt'         stage='4' loc='23.31,92.83'     demo='n' n='Chin, Matu'/>
   <udhr f='hms'                iso639-3='hms' iso15924='Latn'  bcp47='hms'            dir='ltr' ohchr='hms'         stage='4' loc='25.66,108.53'    demo='n' n='Hmong, Southern Qiandong'/>
-  <udhr f='hna'                iso639-3='hna' iso15924='Latn'  bcp47='hna'            dir='ltr' ohchr='hna'         stage='4' loc='10.38,13.84'     demo='n' n='Mina'/>
+  <udhr f='hna'                iso639-3='gej' iso15924='Latn'  bcp47='gej'            dir='ltr' ohchr='hna'         stage='4' loc='6.26,1.68'       demo='n' n='Gen'/>
   <udhr f='hne'                iso639-3='hne' iso15924='Deva'  bcp47='hne'            dir='ltr' ohchr='hne'         stage='2' loc='20.36,82.05'     demo='n' n='Chhattisgarhi'/>
   <udhr f='hni'                iso639-3='hni' iso15924='Latn'  bcp47='hni'            dir='ltr' ohchr='hni'         stage='4' loc='22.68,102.85'    demo='n' n='Hani'/>
   <udhr f='hns'                iso639-3='hns' iso15924='Latn'  bcp47='hns'            dir='ltr' ohchr='hns'         stage='4' loc='7.67,-58.57'     demo='n' n='Hindustani, Sarnami'/>
