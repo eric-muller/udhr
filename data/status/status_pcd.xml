@@ -7,14 +7,15 @@
 
 <bridgehead id='status'>Status</bridgehead>
 
-<para>There are 36 occurrences of U+00B0 &#x00B0; DEGREE SIGN, which
-should most likely combining rings above.</para>
+<para>No known problem at this time.</para>
 
 <!--_______________________________________________________________________-->
 
 <bridgehead id='history'>History</bridgehead>
 
 <history>
+  <para>See the <a href='https://github.com/unicode-org/udhr'>Github repository</a>  for changes in 2023 and after.</para>
+  
   <history-entry date='June 2, 2008'>missing space after a period</history-entry>
 
   <history-entry date='September 4, 2006'>stage 4: OHCHR identified as the source, complete XML contributed by Adobe Systems.</history-entry>
