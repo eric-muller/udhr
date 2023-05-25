@@ -1,22 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for Makhuwa</title>
+  <title>Status and history for [vmw]</title>
 
-<!--_______________________________________________________________________-->
-
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>No known problem at this time.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 
 <bridgehead id='history'>History</bridgehead>
 
 <history>
-  <history-entry date='January 25, 2009'>stage 4: http://gddc.pt/direitos-humanos/50anos-decl-univ-dh/MAKUA.html identified as
-  the source. XML contributed by Eric Muller.</history-entry>
+  <history-entry date='January 25, 2009'>stage 4: http://gddc.pt/direitos-humanos/50anos-decl-univ-dh/MAKUA.html identified as the source. XML contributed by Eric Muller.</history-entry>
 </history>
 
 </article>

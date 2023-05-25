@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for wwa</title>
+  <title>Status and history for [wwa]</title>
 
-<!--_______________________________________________________________________-->
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>Not a literal translation. There are no subarticles.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 

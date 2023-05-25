@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for Adyghe [ady]</title>
+  <title>Status and history for [ady]</title>
 
-<!--_______________________________________________________________________-->
-
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>No know problem at this time.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 
 <bridgehead id='history'>History</bridgehead>
 
 <history>
-  <para>See the <a href='https://github.com/unicode-org/udhr'>Github repository</a>  for changes in 2023 and after.</para>
-  
   <history-entry date='June 20, 2015'>stage 4: conversion to Unicode, thanks to Eric Muller.</history-entry>
   <history-entry date='June 20, 2015'>stage 2: OHCHR identified as
   the source.</history-entry>

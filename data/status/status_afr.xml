@@ -1,16 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for afr</title>
+  <title>Status and history for [afr]</title>
 
-<!--_______________________________________________________________________-->
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>The document contains <emphasis>ho&#x2019;r</emphasis> and
-<emphasis>materi&#x2019;le</emphasis>. Should these be
-<emphasis>ho&#x00EB;r</emphasis> and
-<emphasis>materi&#x00EB;le</emphasis>?</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 

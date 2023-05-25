@@ -3,11 +3,7 @@
 <article>
   <title>Status and history for [kqs]</title>
 
-<!--_______________________________________________________________________-->
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>No known problem at this time.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 
@@ -15,8 +11,6 @@
 
 <history>
 
-  <para>See the <a href='https://github.com/unicode-org/udhr'>Github repository</a>  for changes in 2023 and after.</para>
-  
   <history-entry date='September 1, 2019'>stage 4: OHCHR identified as the source, complete XML contributed by Eric Muller.</history-entry>
 
 </history>

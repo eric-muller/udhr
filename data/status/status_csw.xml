@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for csw</title>
+  <title>Status and history for [csw]</title>
 
-<!--_______________________________________________________________________-->
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>The original text provided by the OHCHR is missing articles 24-30.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 

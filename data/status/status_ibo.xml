@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for ibo</title>
+  <title>Status and history for [ibo]</title>
 
-
-<!--_______________________________________________________________________-->
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>The document contains many occurrences of U+0027 &#x0027;
-APOSTROPHE, apparently all after &#x201C;n&#x201D;. According to
-<ulink url='http://www.motherlandnigeria.com/languages.html'/>,
-apostrophe is not used, but &lt;n, U+0304 &#x25CC;&#x0304; COMBINING
-MACRON> is; &lt;n, U+0303 &#x25CC;&#x0303; COMBINING TILDE> according
-to <ulink url='http://ilc.igbonet.com/'/>; and &lt;n, U+0307
-&#x25CC;&#x0307; COMBINING DOT ABOVE> according to <ulink
-url='http://uwandiigbo.com/'/>. In any case, there is no combining
-sequence with n in the document, so it seems that those apostrophes
-should really be some combining mark on the preceding
-&#x201C;n&#x201D;. </para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 

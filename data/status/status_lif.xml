@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for lif</title>
+  <title>Status and history for [lif]</title>
 
-<!--_______________________________________________________________________-->
-
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>No known problem at this time.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 

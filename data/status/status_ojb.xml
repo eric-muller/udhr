@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <article>
-  <title>Status and history for ojb</title>
+  <title>Status and history for [ojb]</title>
 
-<!--_______________________________________________________________________-->
-
-<bridgehead id='status'>Status</bridgehead>
-
-<para>The original text provided by the OHCHR is missing articles 24-30.</para>
+  <para>See the <ulink url='https://github.com/unicode-org/udhr'>Github repository</ulink> for issues and changes in 2023 and after.</para>
 
 <!--_______________________________________________________________________-->
 
 <bridgehead id='history'>History</bridgehead>
 
 <history>
-
 
   <history-entry date='July 22, 2006'>stage 4: Unicode version
   provided by Arthur Reutenauer.</history-entry>
