@@ -162,6 +162,7 @@
   <udhr f='dhw'                iso639-3='dhw' iso15924='Deva'  bcp47='dhw'            dir='ltr' ohchr='dhw'         stage='2' loc='27.55,85.01'     demo='n' n='Danuwar'/>
   <udhr f='dip'                iso639-3='dip' iso15924='Latn'  bcp47='dip'            dir='ltr' ohchr='dinka'       stage='4' loc='9.28,31.84'      demo='n' n='Dinka, Northeastern'/>
   <udhr f='div'                iso639-3='div' iso15924='Thaa'  bcp47='dv'             dir='rtl' ohchr='div'         stage='4' loc='3.83,73.07'      demo='y' n='Maldivian'/>
+  <udhr f='dje'                iso639-3='dje' iso15924='Latn'  bcp47='dje'            dir='rtl' ohchr='zarma'       stage='4' loc='12.86,2.41'      demo='n' n='Zarma'/>
   <udhr f='dry'                iso639-3='dry' iso15924='Deva'  bcp47='dry'            dir='ltr' ohchr='dry'         stage='2' loc='27.8,84.1'       demo='n' n='Darai'/>
   <udhr f='dyo'                iso639-3='dyo' iso15924='Latn'  bcp47='dyo'            dir='ltr' ohchr='dyo'         stage='4' loc='12.76,-15.74'    demo='n' n='Jola-Fonyi'/>
   <udhr f='dyu'                iso639-3='dyu' iso15924='Latn'  bcp47='dyu'            dir='ltr' ohchr='dyu'         stage='4' loc='10.45,-4.72'     demo='n' n='Jula'/>
