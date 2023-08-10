@@ -271,4 +271,8 @@
   <p><xsl:apply-templates/></p>
 </xsl:template>
 
+<xsl:template match='udhr:sup'>
+  <sup><xsl:apply-templates/></sup>
+</xsl:template>
+
 </xsl:stylesheet>

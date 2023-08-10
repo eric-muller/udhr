@@ -245,4 +245,8 @@ https://www.unicode.org/udhr.
 </xsl:text>
 </xsl:template>
 
+<xsl:template match='udhr:sup'>
+<xsl:apply-templates/>
+</xsl:template>
+
 </xsl:stylesheet>
