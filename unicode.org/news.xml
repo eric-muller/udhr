@@ -5,9 +5,19 @@
 
   <bridgehead id='y2023'>2023</bridgehead>
 
+  <para><emphasis>May 21, 2023:</emphasis> the language of the [hna] translation was previously Mina, iso639-3=hna. It is in fact Gen, iso639-3=gej. Thanks to Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>May 21, 2023:</emphasis> fixes to the Picard [pcd] tranlation, thanks to Denis Moyogo Jacquerye.</para>
+  
+  <para><emphasis>May 17, 2023:</emphasis> fixes to the Kazakh [kaz] and Kissi, Northern [kqs] translations, thanks to Denis Moyogo Jacquerye.</para>
+
+  <para><emphasis>May 16, 2023:</emphasis> fixes to the Bosnian (Cyrillic) [bos_cyrl], Adyghe [ady], Even [eve], Khakas [kjh], Orok [oaa] and Yukaghir [ykg] translations, thanks to Ivan Derzhanski.</para>
+
+  <para><emphasis>May 16, 2023:</emphasis> fixes to the Ticuna [tca], Mazahua Central [maz] and Chinantec, Chiltepec [csa] translations, thanks to Denis Moyogo Jacquerye.</para>
+  
   <para><emphasis>January 28, 2023:</emphasis> The Spanish [spa] translation now matches the text at <ulink url="https://www.un.org/es/about-us/universal-declaration-of-human-rights"/>. The new Spanish (resolution) [042] translation matches the <ulink url="https://undocs.org/es/A/RES/217(III)">text of the resolution</ulink> adopting the declaration. Thanks to Vincent Chen for pointing out the differences.</para>
 
-  <para><emphasis>January 11, 2023:</emphasis> An newer Latvian translation, Lativan (2) [041], found by Vincent Chen on the Latvia government site.</para>
+  <para><emphasis>January 11, 2023:</emphasis> A newer Latvian translation, Lativan (2) [041], found by Vincent Chen on the Latvia government site.</para>
   
   <para><emphasis>January 11, 2023:</emphasis> Fixes to the Hebrew [heb] translation thanks to Boaz Brickner.</para>
   
