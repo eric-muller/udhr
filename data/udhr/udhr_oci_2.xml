@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='oci' xml:lang='oc' key='oci_2' n='Occitan (Francoprovençal, Savoie)' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='oci' xml:lang='oc' key='oci_2' n='Occitan (Francoprovençal, Savoie)' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Dèklaachon du drèye dè l’òmò</title>
    <note>
       <para>Tradukchon : Anne-Marie Bimet</para>

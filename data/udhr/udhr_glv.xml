@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr" iso639-3="glv" xml:lang="gv" key="glv" n="Manx">
+<udhr dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr" iso639-3="glv" xml:lang="gv" key="glv" n="Manx">
   <title>Fockley-Magh Cairyssyn Deiney cour y Theihll Slane</title>
   <preamble>
     <title>Roie-raa</title>

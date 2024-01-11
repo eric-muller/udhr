@@ -1,4 +1,4 @@
-default namespace = "http://www.unicode.org/udhr"
+default namespace = "http://efele.net/udhr"
 
 start = udhr
 

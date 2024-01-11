@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='hau' xml:lang='ha-NG' key='hau_NG' n='Hausa (Nigeria)' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='hau' xml:lang='ha-NG' key='hau_NG' n='Hausa (Nigeria)' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>Muhimmin Jawabin da Majalisar Ɗinkin Duniya ta bayyana game da Hakkokin Ƴan-adam a shekarar 1948</title>
 
   <preamble>

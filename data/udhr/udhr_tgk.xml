@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='tgk' xml:lang='tg' key='tgk' n='Tajiki' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='tgk' xml:lang='tg' key='tgk' n='Tajiki' dir='ltr' iso15924='Cyrl' xmlns="http://efele.net/udhr">
   <title>Эъломияи Умимии Ҳуқуқи Башар</title>
   <preamble>
     <title>Пешгуфтор</title>

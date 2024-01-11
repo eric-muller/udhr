@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="sid" xml:lang="sid" key="029" n="Sidamo"  dir="ltr" iso15924="Latn" xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="sid" xml:lang="sid" key="029" n="Sidamo"  dir="ltr" iso15924="Latn" xmlns="http://efele.net/udhr">
    <title>Kalqoomu Mannihimmate Qoossubba Wodho</title>
    <preamble>
       <para>Baalanku mannu sirchiha kalaqamu ayirrinye hattono hoollannikkinna taalo ikkitino qoossubba ayirrisanna afamooshshe aa kalqete keerira, farcotenna wolaphote damatte ikkasenni;</para>

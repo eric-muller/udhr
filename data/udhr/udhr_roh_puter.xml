@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="roh" xml:lang="rm-puter" key="roh_puter" n="Romansch (Puter)" dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="roh" xml:lang="rm-puter" key="roh_puter" n="Romansch (Puter)" dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Declaraziun universela dals drets umauns</title>
    <preamble>
       <title>Preambul da la declaraziun</title>
@@ -251,6 +249,4 @@
       <para>Üngüna disposiziun da la preschainta Declaraziun nu suos-cha gnir interpreteda uschè cha ün stedi, üna gruppa u üna persuna hegia il dret da svilupper ün’activited u d’accumplir ün act chi ho in mira la destrucziun dals drets e da las liberteds manzunos in quista Decleraziun.</para>
    </article>
 </udhr>
-
-
-
+ 

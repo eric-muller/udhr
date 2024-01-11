@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='bba' xml:lang='bba' key='bba' n='Baatonum' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='bba' xml:lang='bba' key='bba' n='Baatonum' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Mɛ tɔnun asaria yen adunia nɔɔsiabu</title>
    <preamble>
       <title>Garin tore</title>

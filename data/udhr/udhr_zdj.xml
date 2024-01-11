@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="zdj" xml:lang="zdj" key="zdj" n="Comorian, Ngazidja" dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="zdj" xml:lang="zdj" key="zdj" n="Comorian, Ngazidja" dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>ANZIMIYO LA KILEMWENGU UHSU ZE HAKI ZAKI BINADAMU</title>
    <preamble>
       <title>Mukadima</title>
@@ -246,5 +244,3 @@
       <para>Kapvatsi faslu yahe le Katiba linu lidjo udjuwa li fasiriwa ni Daula, Yikundi sha wandru, hau mdru yitsokao ha udhumaniya ndrongowo hau yitrendwa yili utriya shaka ha umenya yeze haki ne ze nafasi zatekeleziwa harimwilo.</para>
    </article>
 </udhr>
-
-

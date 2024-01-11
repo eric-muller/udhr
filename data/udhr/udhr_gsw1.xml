@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="gsw" xml:lang="gsw" key="gsw1" n="Alemannisch (Elsassisch)"  dir="ltr" iso15924="Latn" xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="gsw" xml:lang="gsw" key="gsw1" n="Alemannisch (Elsassisch)"  dir="ltr" iso15924="Latn" xmlns="http://efele.net/udhr">
    <title>Àllgemeini Erklärùng vùn de Menscherachte</title>
    <preamble>
       <title>Präàmbel</title>

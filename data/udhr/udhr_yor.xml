@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<!-- 
-replaced U+031F ◌̟ COMBINING PLUS SIGN BELOW by U+0323 ◌̣ COMBINING DOT BELOW
-replaced U+0305 ◌̅ COMBINING OVERLINE by U+0304 ◌̄ COMBINING MACRON
-replaced U+007C | VERTICAL LINE by U+0304 ◌̄ COMBINING MACRON
-replaced U+002D - HYPHEN-MINUS by U+2010 ‐ HYPHEN
-
-there is one occurrence of <U+0074 t LATIN SMALL LETTER T, U+0323 ◌̣ COMBINING DOT BELOW>
-which should probably be a simple <t>.
--->
-   
-<udhr iso639-3='yor' xml:lang='yo' key='yor' n='Yoruba' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='yor' xml:lang='yo' key='yor' n='Yoruba' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>ÌKÉDE KÁRÍAYÉ FÚN Ẹ̀TỌ́ ỌMỌNÌYÀN</title>
   <preamble>
     <title>Ọ̀RỌ̀ ÀKỌ́SỌ</title>

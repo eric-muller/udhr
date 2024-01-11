@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='kjh' xml:lang='kjh' key='kjh' n='Khakas' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='kjh' xml:lang='kjh' key='kjh' n='Khakas' dir='ltr' iso15924='Cyrl' xmlns="http://efele.net/udhr">
    <title>Прай тиксі кізілерде тӧрелер (праволар) декларациязы</title>
    <note>
       <para>Алылган паза искірілген Ӧӧн Ассамблеяның 217 A (III) резолюциязының 10 алай айда (декабрь айда) 1948 чылда</para>

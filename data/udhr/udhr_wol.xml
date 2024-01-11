@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='wol' xml:lang='wo' key='wol' n='Wolof' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='wol' xml:lang='wo' key='wol' n='Wolof' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>BATAAXAL GU MAG GI ËMB SAÑ-SAÑI DOOMI AADAMA</title>
   <preamble>
     <para>Ñu jàpp te nangu ne sagu doomi aadama ak sañ-sañam yépp-dañu yam te kenn mënukóo jalgati, te lu lépp nekk na cës laay ci taxufeex ci mbirum àtte ak jàmm ci biir àdduna.</para>

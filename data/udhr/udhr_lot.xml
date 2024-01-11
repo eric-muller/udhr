@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='lot' xml:lang='lot' key='lot' n='Otuho' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='lot' xml:lang='lot' key='lot' n='Otuho' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <note>
       <para>Jo olong ono 10/ 12/ 1948 elulung ono amisihi huto fau dang (UNGA)
 ifwotuni bwo etekiana neram ano ahode hode tulo ono aleyo to itwa

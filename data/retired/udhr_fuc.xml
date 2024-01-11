@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='fuc' xml:lang='fuc' key='fuc' n='Pulaar' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='fuc' xml:lang='fuc' key='fuc' n='Pulaar' xmlns="http://efele.net/udhr">
   <title>NANONDIRAL WINNDEREYANKEEWAL HAKKEEJE AADE</title>
   <preamble>
     <title>NAATIRKA</title>

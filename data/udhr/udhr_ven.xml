@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='ven' xml:lang='ve' key='ven' n='Venda' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='ven' xml:lang='ve' key='ven' n='Venda' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>Mulevhogu&#x1E71;e wa Pfanelo dza Vhuthu</title>
 
   <note>
@@ -252,5 +250,3 @@
     <para>A hu na na tshithihi tshi re kha Mulevho uyu tshine tsha nga dzhiwa tshi tshi amba pfanelo i&#x1E45;we na i&#x1E45;we ine i nga shumiswa kha zwi&#x1E45;we na zwi&#x1E45;we kana u ita i&#x1E45;we nyito yo livhiswaho kha u thutha i&#x1E45;we na i&#x1E45;we ya pfanelo na mbofholowo zwo bulwaho afha malugana na Muvhuso, tshigwada kana muthu.</para>
   </article>
 </udhr>
-
-

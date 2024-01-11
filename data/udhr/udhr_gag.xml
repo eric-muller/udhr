@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='gag' xml:lang='gag' key='gag' n='Gagauz' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='gag' xml:lang='gag' key='gag' n='Gagauz' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Insan Hakların Cümlä Deklaratiyası</title>
    <note>
       <para>Kabledildi hem bildirildi 217 A (III) Birleşmiş Milletlär Kurulun Genel Asambleyasının kararınnan 1948 yılda dekabrinin onunda</para>

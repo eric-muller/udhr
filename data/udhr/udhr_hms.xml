@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='hms' xml:lang='hms' key='hms' n='Hmong, Southern Qiandong' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='hms' xml:lang='hms' key='hms' n='Hmong, Southern Qiandong' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>&lt;&lt;ghad bob did doub nangd renl njanl xand yanl&gt;&gt;</title>
    <preamble>
       <title>kit doux nangd daot</title>

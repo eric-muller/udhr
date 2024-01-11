@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="azb" xml:lang="azb" key="032" n="South Azerbaijani"  dir="ltr" iso15924="Latn" xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="azb" xml:lang="azb" key="032" n="South Azerbaijani"  dir="ltr" iso15924="Latn" xmlns="http://efele.net/udhr">
    <title>İNSAN HAKLARI EVRENSEL BEYANNAMESİ</title>
    <note>
       <para>Tüm insanlar eşit vazgeçilemez haklar ve temel özgürlüklerle doğarlar.</para>

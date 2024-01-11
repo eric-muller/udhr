@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='khm' xml:lang='km' key='khm' n='Khmer, Central' dir='ltr' iso15924='Khmr' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='khm' xml:lang='km' key='khm' n='Khmer, Central' dir='ltr' iso15924='Khmr' xmlns="http://efele.net/udhr">
   <title>សេចក្ដីប្រកាសជាសកលស្ដីពីសិទ្ធិមនុស្ស</title>
   <note>
     <para>អនុម័តនិងប្រកាសដោយសេចក្ដីសម្រេចចិត្ដនៃមហាសន្និបាតលេខ ២១៧ A (III) នៅថ្ងៃទី ១០ ខែធ្នូ ឆ្នាំ១៩៤៨</para>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='sme' xml:lang='se' key='sme' n='Saami, North' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='sme' xml:lang='se' key='sme' n='Saami, North' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>OLMMOŠVUOIGATVUOĐAID OPPAMÁILMMÁLAS JULGAŠTUS</title>
    <preamble>
       <para>Danne go friddjavuođa, vanhurskkisvuođa ja ráfi vuođđu máilmmis lea buot olmmošgoddái gullevaččaid lunddolaš olmmošárvvu dovddiidus ja sin dássásaš ja massemeahttun vuoigatvuođaid dovddiidus,</para>

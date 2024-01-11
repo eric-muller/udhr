@@ -171,7 +171,7 @@
   <udhr f='ell_polytonic'      iso639-3='ell' iso15924='Grek'  bcp47='el-polyton'     dir='ltr' ohchr=''            stage='4' loc='42.32,24.87'     demo='y' n='Greek (polytonic)'/>
   <udhr f='emk'                iso639-3='emk' iso15924='Latn'  bcp47='man'            dir='ltr' ohchr='mni'         stage='4' loc='9.33,-10.54'     demo='n' n='Maninkakan, Eastern'/>
   <udhr f='eml'                iso639-3='rgn' iso15924='Latn'  bcp47='rgn'            dir='ltr' ohchr='eml'         stage='4' loc='44.23,11.72'     demo='n' n='Romagnolo'/>
-  <udhr f='eng'                iso639-3='eng' iso15924='Latn'  bcp47='en'             dir='ltr' ohchr='eng'         stage='5' loc='53.00,-1.00'     demo='y' n='English'/>
+  <udhr f='eng'                iso639-3='eng' iso15924='Latn'  bcp47='en'             dir='ltr' ohchr='eng'         stage='4' loc='53.00,-1.00'     demo='y' n='English'/>
   <udhr f='epo'                iso639-3='epo' iso15924='Latn'  bcp47='eo'             dir='ltr'                     stage='4' loc='49.33,2.81'      demo='n' n='Esperanto'                              ohchr='https://www.ohchr.org/en/human-rights/universal-declaration/translations/esperanto'/>
   <udhr f='ese'                iso639-3='ese' iso15924='Latn'  bcp47='ese'            dir='ltr' ohchr='ese'         stage='4' loc='-11.00,-66.00'   demo='n' n='Ese Ejja'/>
   <udhr f='est'                iso639-3='ekk' iso15924='Latn'  bcp47='et'             dir='ltr' ohchr='est'         stage='4' loc='58.55,25.82'     demo='n' n='Estonian'/>
@@ -185,7 +185,7 @@
   <udhr f='fkv'                iso639-3='fkv' iso15924='Latn'  bcp47='fkv'            dir='ltr' ohchr='fkv'         stage='4' loc='69.70,21.21'     demo='n' n='Finnish, Kven'/>
   <udhr f='flm'                iso639-3='cfm' iso15924='Latn'  bcp47='cfm'            dir='ltr' ohchr='fal'         stage='4' loc='23.79,92.33'     demo='n' n='Chin, Falam'/>
   <udhr f='fon'                iso639-3='fon' iso15924='Latn'  bcp47='fon'            dir='ltr' ohchr='foa'         stage='4' loc='7.15,1.66'       demo='n' n='Fon'/>
-  <udhr f='fra'                iso639-3='fra' iso15924='Latn'  bcp47='fr'             dir='ltr' ohchr='frn'         stage='5' loc='48.00,2.00'      demo='n' n='French'/>
+  <udhr f='fra'                iso639-3='fra' iso15924='Latn'  bcp47='fr'             dir='ltr' ohchr='frn'         stage='4' loc='48.00,2.00'      demo='n' n='French'/>
   <udhr f='fri'                iso639-3='fry' iso15924='Latn'  bcp47='fy'             dir='ltr' ohchr='fri'         stage='4' loc='53.14,5.86'      demo='n' n='Frisian, Western'/>
   <udhr f='fuf'                iso639-3='fuf' iso15924='Latn'  bcp47='fuf'            dir='ltr' ohchr='fuf'         stage='4' loc='12.18,-12.73'    demo='n' n='Pular'/>
   <udhr f='fuf_adlm'           iso639-3='fuf' iso15924='Adlm'  bcp47='fuf-Adlm'       dir='rtl' ohchr=''            stage='4' loc='12.18,-12.73'    demo='y' n='Pular (Adlam)'/>
@@ -264,7 +264,7 @@
   <udhr f='kal'                iso639-3='kal' iso15924='Latn'  bcp47='kl'             dir='ltr' ohchr='esg'         stage='4' loc='69.38,-52.86'    demo='n' n='Inuktitut, Greenlandic'/>
   <udhr f='kan'                iso639-3='kan' iso15924='Knda'  bcp47='kn'             dir='ltr' ohchr='kjv'         stage='4' loc='13.59,76.12'     demo='y' n='Kannada'/>
   <udhr f='kas'                iso639-3='kas' iso15924='Arab'  bcp47='ks'             dir='rtl' ohchr='ksh'         stage='2' loc='34.17,74.33'     demo='n' n='Kashmiri'/>
-  <udhr f='kat'                iso639-3='kat' iso15924='Geor'  bcp47='ka'             dir='ltr' ohchr='geo'         stage='5' loc='39.37,45.81'     demo='y' n='Georgian'/>
+  <udhr f='kat'                iso639-3='kat' iso15924='Geor'  bcp47='ka'             dir='ltr' ohchr='geo'         stage='4' loc='39.37,45.81'     demo='y' n='Georgian'/>
   <udhr f='kaz'                iso639-3='kaz' iso15924='Cyrl'  bcp47='kk'             dir='ltr' ohchr='kaz'         stage='4' loc='41.87,65.77'     demo='n' n='Kazakh'/>
   <udhr f='kbd'                iso639-3='kbd' iso15924='Cyrl'  bcp47='kbd'            dir='ltr' ohchr='kbd'         stage='4' loc='43.51,43.39'     demo='n' n='Kabardian'/>
   <udhr f='kbp'                iso639-3='kbp' iso15924='Latn'  bcp47='kbp'            dir='ltr' ohchr='kbp'         stage='4' loc='8.97,0.50'       demo='n' n='Kabiyé'/>
@@ -414,8 +414,8 @@
   <udhr f='pnb'                iso639-3='pnb' iso15924='Arab'  bcp47='lah'            dir='rtl' ohchr=''            stage='4' loc='30.09,75.35'     demo='n' n='Panjabi, Western'/>
   <udhr f='pol'                iso639-3='pol' iso15924='Latn'  bcp47='pl'             dir='ltr' ohchr='pql'         stage='4' loc='51.84,18.63'     demo='n' n='Polish'/>
   <udhr f='pon'                iso639-3='pon' iso15924='Latn'  bcp47='pon'            dir='ltr' ohchr='pnf'         stage='4' loc='6.87,158.22'     demo='n' n='Pohnpeian'/>
-  <udhr f='por_BR'             iso639-3='por' iso15924='Latn'  bcp47='pt-BR'          dir='ltr' ohchr=''            stage='5' loc='-15,-47'         demo='n' n='Portuguese (Brazil)'/>
-  <udhr f='por_PT'             iso639-3='por' iso15924='Latn'  bcp47='pt-PT'          dir='ltr' ohchr='por'         stage='5' loc='39.91,-8.10'     demo='n' n='Portuguese (Portugal)'/>
+  <udhr f='por_BR'             iso639-3='por' iso15924='Latn'  bcp47='pt-BR'          dir='ltr' ohchr=''            stage='4' loc='-15,-47'         demo='n' n='Portuguese (Brazil)'/>
+  <udhr f='por_PT'             iso639-3='por' iso15924='Latn'  bcp47='pt-PT'          dir='ltr' ohchr='por'         stage='4' loc='39.91,-8.10'     demo='n' n='Portuguese (Portugal)'/>
   <udhr f='pov'                iso639-3='pov' iso15924='Latn'  bcp47='pov'            dir='ltr' ohchr='gbc'         stage='4' loc='13.23,-15.33'    demo='n' n='Crioulo, Upper Guinea'/>
   <udhr f='ppl'                iso639-3='ppl' iso15924='Latn'  bcp47='ppl'            dir='ltr' ohchr='ppl'         stage='4' loc='13.89,-89.44'    demo='n' n='Pipil'/>
 
@@ -471,7 +471,7 @@
   <udhr f='shk'                iso639-3='shk' iso15924='Latn'  bcp47='shk'            dir='ltr' ohchr='shk'         stage='4' loc='9.85,31.79'      demo='n' n='Shilluk'/>
   <udhr f='shn'                iso639-3='shn' iso15924='Mymr'  bcp47='shn'            dir='ltr' ohchr='sjn'         stage='4' loc='21.60,98.03'     demo='n' n='Shan'/>
   <udhr f='shp'                iso639-3='shp' iso15924='Latn'  bcp47='shp'            dir='ltr' ohchr='shp'         stage='4' loc='-7.17,-74.82'    demo='n' n='Shipibo-Conibo'/>
-  <udhr f='sin'                iso639-3='sin' iso15924='Sinh'  bcp47='si'             dir='ltr' ohchr='snh'         stage='5' loc='7.00,81.00'      demo='y' n='Sinhala'/>
+  <udhr f='sin'                iso639-3='sin' iso15924='Sinh'  bcp47='si'             dir='ltr' ohchr='snh'         stage='4' loc='7.00,81.00'      demo='y' n='Sinhala'/>
   <udhr f='sja'                iso639-3='sja' iso15924='Latn'  bcp47='sja'            dir='ltr' ohchr='1126'        stage='2' loc='4.26,-77.36'     demo='n' n='Epena'/>
   <udhr f='sjk_deva'           iso639-3='skj' iso15924='Deva'  bcp47='skj'            dir='ltr' ohchr='skj'         stage='2' loc='28.9,83.8'       demo='n' n='Seke'/>
   <udhr f='skr'                iso639-3='skr' iso15924='Arab'  bcp47='skr'            dir='rtl' ohchr='skr'         stage='4' loc='29.55,71.91'     demo='n' n='Seraiki'/>

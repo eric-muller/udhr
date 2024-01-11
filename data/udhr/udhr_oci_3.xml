@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='oci' xml:lang='oc' key='oci_3' n='Occitan (Francoprovençal, Vaud)' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='oci' xml:lang='oc' key='oci_3' n='Occitan (Francoprovençal, Vaud)' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>DECLARACHON UNIVERSALLA DAI DRAI DÂI DZEIN.</title>
    <note>
       <para>Traduit en patois vaudois par Marie-Louise Goumaz, le 28.10.2014</para>

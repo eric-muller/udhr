@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='gyr' xml:lang='gyr' key='gyr' n='Guarayu' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='gyr' xml:lang='gyr' key='gyr' n='Guarayu' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <article number="1">
       <title>1.</title>
       <para>Opakatu ava yoro’a nda’ei tembigwaigwa oyoyatupri, sekotupri, vaëra, imboeteisara, oikatu ipi’a yemoñeta, imbaekua, ndiyai yurekorairai ñepëi pëi ambua rese.</para>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='tzm' xml:lang='tzm' key='tzm' n='Tamazight, Central Atlas' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='tzm' xml:lang='tzm' key='tzm' n='Tamazight, Central Atlas' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>TIṢERRIḤT TAGRAGHLANT IZERFAN N WEMDAN</title>
   <note>
     <para>Yesbudan d yesse ran deg wegraw amatu seg use ti-s 217 A. (III) di 10 dujember 1948</para>

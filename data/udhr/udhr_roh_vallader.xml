@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="roh" xml:lang="rm-vallader" key="roh_vallader" n="Romansch (Vallader)" dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="roh" xml:lang="rm-vallader" key="roh_vallader" n="Romansch (Vallader)" dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Decleraziun universala dals drets umans</title>
    <preamble>
       <title>Preambul da la decleraziun</title>
@@ -252,7 +250,5 @@
       <para>Ingüna disposiziun da la preschainta Decleraziun nu das-cha gnir interpretada uschè ch’ün stadi, üna gruppa o üna persuna haja il dret da sviluppar ün’actività o d’accumplir ün act chi ha in mira la violaziun dals drets e da las libertads manzunats in quista Decleraziun.</para>
    </article>
 </udhr>
-
-
 
 

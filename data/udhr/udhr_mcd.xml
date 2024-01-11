@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='mcd' xml:lang='mcd' key='mcd' n='Sharanahua' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='mcd' xml:lang='mcd' key='mcd' n='Sharanahua' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>Non ahuuacaimain huatiroquin ishon. Niaifofoan ichanancashon mato cunushonifo.</title>
   <preamble>
     <para>Manifoti ato niaifofoan ichanancashon iscahuanifo: -Nantifin yoran isharanonfo isharatiroquin. Tsoancai mato chaca huatatiroma. Non yoia cuscan nan manifoti ato tapimahuu. Cunuti pushu muranshorifin ato tapimahuu.</para>

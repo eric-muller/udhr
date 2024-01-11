@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="mor" xml:lang="mor" key="mor" n="Moro"  dir="ltr" iso15924="Latn" xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="mor" xml:lang="mor" key="mor" n="Moro"  dir="ltr" iso15924="Latn" xmlns="http://efele.net/udhr">
    <title>Đǝlwaɽa Pǝlelo Đalo Eŋen ŋǝ Leđa (Iguk)</title>
    <preamble>
       <title>Ŋen ŋǝɽǝnda</title>

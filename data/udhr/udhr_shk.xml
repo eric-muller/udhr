@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='shk' xml:lang='shk' key='shk' n='Shilluk' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='shk' xml:lang='shk' key='shk' n='Shilluk' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>MØG-A ÁCÏMMI YI KÖMI LÄBØ KI RI GÏG-A DWADDI KIPER DHANHØ BËNE</title>
    <note>
      <para>G.A. res. 217A (III), U.N. Doc A/810 at 71 (1948)</para>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='not' xml:lang='not' key='not' n='Nomatsiguenga' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='not' xml:lang='not' key='not' n='Nomatsiguenga' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>IRAEGUl BOTATAIGACHA ICOMANTAIGUIRO OCA NIBARINTSICA</title>
   <preamble>
     <para>Aiti ora caninaro ora icogaigui angantaiguë antagaisati matsiguenga. Tení ongomeite queroca inintacagaigái pairo-raca anganquero ora caninaro.</para>

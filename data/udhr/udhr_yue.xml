@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="yue" xml:lang="yue" key="yue" n="Chinese, Yue" dir='ltr' iso15924='Hani' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="yue" xml:lang="yue" key="yue" n="Chinese, Yue" dir='ltr' iso15924='Hani' xmlns="http://efele.net/udhr">
    <title>世界人权宣言</title>
    <preamble>
       <title>序言</title>
@@ -249,5 +247,3 @@
       <para>呢宣言嘅任何条文，唔好解释为默许任何国家、集团或个人有权进行任何旨在破坏呢宣言所载嘅任何权利同自由嘅活动或行为。</para>
    </article>
 </udhr>
-
-

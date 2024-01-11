@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="gld" xml:lang="gld" key="gld" n="Nanai" dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="gld" xml:lang="gld" key="gld" n="Nanai" dir='ltr' iso15924='Cyrl' xmlns="http://efele.net/udhr">
   <title>Най правосални Всеобщай Декларацияни</title>
   <note>
     <para>Генеральнай Ассамблея резолюциядиани 217 A (III) гуси биани дёаячиа инидуэни 1948 айӈаниду токтовохан, гэрэн гурумбэ долдивамбохан</para>

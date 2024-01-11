@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<!-- 
-replaced U+002D - HYPHEN-MINUS by U+2010 ‐ HYPHEN
-replaced U+0027 ʼ APOSTROPHE by U+02BC ʼ MODIFIER LETTER APOSTROPHE
--->
-
-<udhr iso639-3='yua' xml:lang='yua' key='yua' n='Maya, Yucatán' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='yua' xml:lang='yua' key='yua' n='Maya, Yucatán' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>U DZAʼABAL KʼAJÓOLTBIL U NOJ AʼALMAJ TʼAANIL U NAJMAL WÍINIKOʼOB</title>
   <preamble>
     <para>Tumeen u kuxtal wíinik x‐maʼa palitzilil, u chíimpoltaʼal yetel u chaʼabal u kuxtal yóokʼol kaab ich jedz óolal, tiʼ ku taal tu chíimpoltaʼal u noʼojaʼanil kuxtal sijnal yetel wíinik bey jeʼex xan sijnal u najmalmajil keet kuxtal, mixmáak unaj u luʼsik tiʼ tuláakal u wíinikil yóokʼol kaabeʼ,</para>

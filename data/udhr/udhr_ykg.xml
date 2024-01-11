@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='ykg' xml:lang='ykg' key='ykg' n='Yukaghir, Northern' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='ykg' xml:lang='ykg' key='ykg' n='Yukaghir, Northern' dir='ltr' iso15924='Cyrl' xmlns="http://efele.net/udhr">
   <article number="1">
     <title>Эльилльэ истачийаа</title>
     <para>Көдэҥ тэн - ньидитэ бандьэ параԝааньэрэҥ тудэ чуҥдэн ньилдьилэк эннулҥинь-мэдьуолнуни. Көдэҥ энмун чундэ мэ льэй, таатльэр лукундьии ньинэмдьийилпэ дитэ эннуйуол-мораԝньэҥи.</para>

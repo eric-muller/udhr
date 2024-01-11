@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="nan" xml:lang="nan" key="nan" n="Chinese, Min Nan"  dir='ltr' iso15924='Hans' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="nan" xml:lang="nan" key="nan" n="Chinese, Min Nan"  dir='ltr' iso15924='Hans' xmlns="http://efele.net/udhr">
    <title>界人权宣言</title>
    <preamble>
       <title>序言</title>

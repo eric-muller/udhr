@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='uig' xml:lang='ug-Arab' key='uig_arab' n='Uyghur (Arabic)' dir='rtl' iso15924='Arab' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='uig' xml:lang='ug-Arab' key='uig_arab' n='Uyghur (Arabic)' dir='rtl' iso15924='Arab' xmlns="http://efele.net/udhr">
    <title>دۇنيا كىشىلىك ھوقۇقى خىتابنامىسى</title>
    <preamble>
       <title>سۆز بېشى</title>

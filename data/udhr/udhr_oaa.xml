@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="oaa" xml:lang="oaa" key="oaa" n="Orok" dir='ltr' iso15924="Cyrl" xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="oaa" xml:lang="oaa" key="oaa" n="Orok" dir='ltr' iso15924="Cyrl" xmlns="http://efele.net/udhr">
   <title>Чипа̄линне̄сал деклара̄сијачи нари доролбони</title>
   <note>
     <para>Дапарра̄ долдаппула ресолјусијаӡи 217 А (III) Гениралинэиӈи Ассаммбилејаӈи Сагӡи бе̄ 10 (ӡон) инэӈидуни 1948 (ге̄да миӈга хују таӈгу ӡјӣндо̄ ӡапку) ананиду</para>

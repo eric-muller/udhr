@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3="ktu" xml:lang="ktu" key="030" n="Kituba (2)"  dir="ltr" iso15924="Latn" xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3="ktu" xml:lang="ktu" key="030" n="Kituba (2)"  dir="ltr" iso15924="Latn" xmlns="http://efele.net/udhr">
    <title>LUZABUSU YA BALUVE YA BANTU NYONSO YA YINZA YA MUVIMBA</title>
    <preamble>
       <title>MAMBU YA NTETE</title>

@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='quz' xml:lang='qu' key='quz' n='Quechua, Cusco' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='quz' xml:lang='qu' key='quz' n='Quechua, Cusco' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>PACHATIN LLAQTAKUNAPI RUNAQ ALLIN KANANPAQ JATUN KAMACHIKUY</title>
   <preamble>
     <para>Pachantin ayllu wawaq allin kausaypi kananta yuyaykuspan, kay kamachikuy paqarin. Runaq kausay qasi kusi kausaypi kananpaq, tukuy llakipi kaspapas "justicia" taripananpaq. Kikin runakayninta runa masinkunawan reqsichispa kausananpaq.</para>

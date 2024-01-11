@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='mri' xml:lang='mi' key='mri' n='Maori' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='mri' xml:lang='mi' key='mri' n='Maori' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>WHAKAPUAKITANGA WHANUI O NGA MANA O TE TANGATA - 1948</title>
   <preamble>
     <para>No te mea na te whakanoa a na te whakahawea ki nga mana o te tangata i tupu ai nga mahi whakarihariha i pouri ai te ngakau tangata, a ko te kohaetanga o tetahi ao hou e mahorahora ai te tangata ki te korero ki te whakapono, ki te noho noa i runga i te rangimarie a i te ora, kua panuitia hei taumata mo te koingotanga o te ngakau o te mano tini o te tangata.</para>

@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<!--
-replaced U+002D - HYPHEN-MINUS by U+2010 ‐ HYPHEN
--->
-
-<udhr iso639-3='zul' xml:lang='zu' key='zul' n='Zulu' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='zul' xml:lang='zu' key='zul' n='Zulu' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>UMBHALO OGCWELE WOGUNYAZO LWAMALUNGELO OLUNTU JIKELELE</title>
   <preamble>
     <title>Isandulelo</title>

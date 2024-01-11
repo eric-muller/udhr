@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='qvn' xml:lang='qvn' key='qvn' n='Quechua, North Junín' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='qvn' xml:lang='qvn' key='qvn' n='Quechua, North Junín' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>KAY PACHACHRU LAPAN RUNAKUNA WASHAKURKAANAPAQ ISKIRBISHAKUNA KAYKUNATA ISKIRBIPAAKURAA</title>
   <preamble>
     <para>Lapan runakuna chaynuyla washa kananpaqmi mana pisi rantisha runatanuy sirbichikunanpaqmi mana ima lutantas ruranakurkaananpaqmi, alipa rikanakurkaananpaqmi.</para>

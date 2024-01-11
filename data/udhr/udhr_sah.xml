@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='sah' xml:lang='sah' key='sah' n='Yakut' dir='ltr' iso15924='Cyrl' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='sah' xml:lang='sah' key='sah' n='Yakut' dir='ltr' iso15924='Cyrl' xmlns="http://efele.net/udhr">
    <title>Киһи быраабын уопсай Декларацията</title>
    <note>
      <para>Генеральнай Ассамблея 217 А (III) нүөмэрдээх резолюциятынан 1948 сыл олунньу 10 күнүгэр ылылынна.</para>

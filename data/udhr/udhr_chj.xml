@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='chj' xml:lang='chj' key='chj' n='Chinantec, Ojitlán' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='chj' xml:lang='chj' key='chj' n='Chinantec, Ojitlán' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Delaraciö' Ki' DERECHO H Ki' la' la köö jmu guue kíä guía' su'</title>
    <note>
       <para>Diciembre 1948</para>
