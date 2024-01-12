@@ -51,7 +51,8 @@ status:
 	@$(XSLT) -s:../data/udhr/index.xml -xsl:xsl/udhrs2status-multiple.xsl \
 		targetdir=$S/s/ root-dir=../ \
 		-o:.ignore
-	cp ../data/status/status_kdh_* $S/s
+	@rm .ignore
+	@cp ../data/status/status_kdh_* $S/s
 
 xml:
 	@echo ---- xml
