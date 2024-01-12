@@ -5,6 +5,8 @@
 
   <bridgehead id='y2024'>2024</bridgehead>
 
+  <para><emphasis>January 13, 2024:</emphasis> the Mirandese [044], Maasai [045], Malay, Papuan [046], Malay, Ambonese [047], Minangkabau (2) [048], Banjar [049], (Bataknese) [050], Morisyen [052], Hausa (2) [053] and Catalan (2) [054] translations are available for review.</para>
+
   <para><emphasis>January 13, 2024:</emphasis> new translations from the OHCHR site, at stage 2: Mirandese [044], Maasai [045], Malay, Papuan [046], Malay, Ambonese [047], Minangkabau (2) [048], Banjar [049], (Bataknese) [050], Jarai [051], Morisyen [052], Hausa (2) [053], Catalan (2) [054].</para>
 
   <para><emphasis>January 12, 2024:</emphasis> the Unicode Consortium no longer sponsors or supports this project. The Github repository is now <ulink url='https://github.com/eric-muller/udhr'>eric-muller/udhr</ulink>. The namespace of the XML documents is now <userinput>http://efele.net/udhr</userinput>. The website is now <ulink url='http://efele.net/udhr'>http://efele.net/udhr</ulink>.</para>
@@ -43,8 +45,7 @@
 
   <para><emphasis>December 28, 2022:</emphasis> New translations on the OHCHR site, converted to Unicode: Gumuz [027], Kafa [028], Sidamo [029], Kituba (2) [030], South Azerbaijani[032].</para>
 
-  <para><emphasis>December 28, 2022:</emphasis> New translations on the OHCHR si
-te, not yet converted to Unicode: Southern Kurdish [031], Sumerian [033], Gurani [034], Avestan [035], Mandaic [036], Shabak [037], (Bahdidan) [038], Krung [039], Tampuan [040].</para>
+  <para><emphasis>December 28, 2022:</emphasis> New translations on the OHCHR site, not yet converted to Unicode: Southern Kurdish [031], Sumerian [033], Gurani [034], Avestan [035], Mandaic [036], Shabak [037], (Bahdidan) [038], Krung [039], Tampuan [040].</para>
 
   <para><emphasis>December 27, 2022:</emphasis> Fixes to the Chuvash [chv] translation, thanks to Konstantin &#x201c;Thabit&#x201d; Filimonov.</para>
 
