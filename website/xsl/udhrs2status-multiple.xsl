@@ -32,13 +32,13 @@
 <xsl:template match='udhr'>
   <xsl:variable name='f'>../status/status_<xsl:value-of select='@f'/>.xml</xsl:variable>
 
-  <!--xsl:message select='@f'/-->
-  
-  <xsl:result-document href='{$targetdir}/status_{@f}.html'>
-    <xsl:apply-templates select='document($f,/)'>
-      <xsl:with-param name='name' select='@n'/>
-    </xsl:apply-templates>
-  </xsl:result-document>
+  <xsl:if test='@status = "y"'>
+    <xsl:result-document href='{$targetdir}/status_{@f}.html'>
+      <xsl:apply-templates select='document($f,/)'>
+        <xsl:with-param name='name' select='@n'/>
+      </xsl:apply-templates>
+    </xsl:result-document>
+  </xsl:if>
 </xsl:template>
 
 

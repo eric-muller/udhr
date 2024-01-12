@@ -138,8 +138,10 @@ function getUrlParameter(sParam)
 
 
     <entry>
-      <ulink url='s/status_{@f}.html'>sh</ulink>
-      <xsl:text>&#x00A0;</xsl:text>
+      <xsl:if test='@status="y"'>
+        <ulink url='s/status_{@f}.html'>sh</ulink>
+        <xsl:text>&#x00A0;</xsl:text>
+      </xsl:if>
 
       <xsl:choose>
 	<xsl:when test='@stage!=2'><ulink url='d/udhr_{@f}.xml'>X</ulink></xsl:when>
