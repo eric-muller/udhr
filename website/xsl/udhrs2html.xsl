@@ -4,7 +4,7 @@
 
 <xsl:stylesheet 
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:udhr="http://www.unicode.org/udhr"
+  xmlns:udhr="http://efele.net/udhr"
   xmlns="http://www.w3.org/1999/xhtml"
   exclude-result-prefixes='udhr'
   version="2.0">
@@ -91,11 +91,9 @@
         <xsl:value-of select='$name'/>
       </h3>
 
-      <p>&#x00A9; 1996 &#x2013; 2009 The Office of the High Commissioner for Human Rights</p>
-
-      <p>This HTML version prepared by the <i>UDHR in Unicode</i>
+      <p>This HTML version prepared by the <i>UDHR in XML</i>
 	project, <a
-	href='https://www.unicode.org/udhr'>http://www.unicode.org/udhr</a>.</p>
+	href='http://efele.net/udhr'>http://efele.net/udhr</a>.</p>
 
       <hr/>
 
@@ -148,12 +146,9 @@
       <xsl:value-of select='$title1'/>, <xsl:value-of
       select='$title2'/></h3>
 
-      <p>&#x00A9; 1996 &#x2013; 2009 The Office of the High Commissioner for
-      Human Rights</p>
-
-      <p>This HTML version prepared by the <i>UDHR in Unicode</i>
+      <p>This HTML version prepared by the <i>UDHR in XML</i>
       project, <a
-      href='https://www.unicode.org/udhr'>http://www.unicode.org/udhr</a>.</p>
+      href='http://efele.net/udhr'>http://efele.net/udhr</a>.</p>
 
       <hr/>
 

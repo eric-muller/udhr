@@ -1,4 +1,2 @@
-unicode.org/staging
-unicode.org/java/org/unicode/publication/*.class
-unicode.org/.ignore
+website/staging
 .DS_Store

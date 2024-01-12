@@ -648,18 +648,6 @@
     </listitem>
   </itemizedlist>
 
-<!--
-  <bridgehead id='fonts'>Fonts</bridgehead>
-
-  <para>Many thanks to the font designers and foundries who made fonts
-  available on generous terms. We believe that all the fonts we use
-  are available without a fee for everyone working on this project; if
-  we misinterpreted a license, please let us know and accept our
-  apologies. See <ulink url='tech_files.html#pdf'>here</ulink> for
-  a list of the fonts we use.</para>
-
--->
-
   <bridgehead id='corrections'>Corrections</bridgehead>
 
   <para>If we did not record your contribution (sorry!), or

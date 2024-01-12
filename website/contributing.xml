@@ -15,12 +15,11 @@
   lot of general work, but we&#x2019;ll let you know if that turns out
   not to be the case.</para>
 
-  <para>You can send us your contributions via <ulink url='contacts.html'>the contacts</ulink>, or submit pull requests to the underlying Github repository <ulink url='https://github.com/unicode-org/udhr'>unicode-org/udhr</ulink>.</para>
+  <para>You can send comments, questions, contributions by email to
+udhr at efele.net. </para>
 
-  <bridgehead>I am confused!</bridgehead>
+  <para>You can also submit pull requests to the Github repository <ulink url='http://efele.net/eric-muller/udhr'>eric-muller/udhr</ulink>.</para>
 
-  <para>Don&#x2019;t hesitate to <ulink url='contacts.html'>contact
-  us</ulink> for help.</para>
 
   <bridgehead>My language is not listed, or it is in stage 1.</bridgehead>
   
@@ -33,14 +32,12 @@
   but again make sure that you identify the translator as clearly as
   possible. In both cases, you also want to identify the language
   using the <ulink url='http://www.ethnologue.com'>Ethnologue
-  codes</ulink>, as well as the dialect if that is relevant. As soon
-  as we get a submission, we will forward it to the OHCHR right away,
-  unless you tell us that you will do that directly.</para>
+  codes</ulink>, as well as the dialect if that is relevant.</para>
 
   <bridgehead>My language is in stage 2 or 3.</bridgehead>
 
   <para>This means that we have a source document, but it has not been
-  turned into Unicode, or only partially. Your task is to type it in a
+  turned into XML, or only partially. Your task is to type it in a
   computer. Ideally, you would provide the XML form, using one of the
   Unicode UTFs (numeric character entities are fine). However, if you
   do not feel comfortable with XML, a simple plain text version will
@@ -57,13 +54,14 @@
 
   <bridgehead>My language is in stage 4.</bridgehead>
 
-  <para>We have an XML version, but it needs to be reviewed for
-  accurate content, i.e. that it correctly reflects the source. You
-  can perfom this review on whatever form (XML, text, PDF) you
-  prefer. If you make such a review, please tell us the result (even
-  if everything is fine) and whether in your opinion it&#x2019;s time
-  to move to the next stage. When enough reviews are in, we will
-  advance the language to stage 5.</para>
+  <para>We have an XML version, and it is reasonably complete.</para>
+
+  <para>You can check the Github issues, to see if there is known
+  problem you can fix.</para>
+
+  <para>If you spot an issue in the text, you can alert us, or better
+  you can create a Github issue. And if you know how to fix it, you
+  can tell us, or better you create a Github pull request.</para>
 
   <para>One aspect is to replace the ambiguous characters such as
   U+0027 &#x0027; APOSTROPHE or U+002D &#x002D; HYPHEN-MINUS by less

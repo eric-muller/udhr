@@ -39,7 +39,7 @@ function getUrlParameter(sParam)
             "order": [[ 1, "asc"]],
             "paging": false,
             "dom": '<"top"f>t<"bottom">i',
-            "aoColumnDefs" : [{ 'bSortable': false, 'aTargets': [8] }]
+            "aoColumnDefs" : [{ 'bSortable': false, 'aTargets': [7] }]
      });
 
   $('#translations').DataTable().search (decodeURIComponent (getUrlParameter ('search'))).draw ();
@@ -71,10 +71,9 @@ function getUrlParameter(sParam)
       
   <itemizedlist>
     <listitem>1: no known complete translation (<xsl:value-of select='count(udhr[@stage="1"])'/>)</listitem>
-    <listitem>2: no conversion to Unicode started (<xsl:value-of select='count(udhr[@stage="2"])'/>)</listitem>
-    <listitem>3: partially converted to Unicode (often the first article only (<xsl:value-of select='count(udhr[@stage="3"])'/>)</listitem>
-    <listitem>4: fully converted to Unicode, to be reviewed (<xsl:value-of select='count(udhr[@stage="4"])'/>)</listitem>
-    <listitem>5: complete and reviewed (<xsl:value-of select='count(udhr[@stage="5"])'/>)</listitem>
+    <listitem>2: no conversion to XML started (<xsl:value-of select='count(udhr[@stage="2"])'/>)</listitem>
+    <listitem>3: partially converted to XML (often the first article only (<xsl:value-of select='count(udhr[@stage="3"])'/>)</listitem>
+    <listitem>4: fully converted to XML (<xsl:value-of select='count(udhr[@stage="4"])'/>)</listitem>
   </itemizedlist>
 
   <para>The column &#x201C;Deliverables&#x201D; links to the deliverables of the project:</para>
@@ -86,21 +85,17 @@ function getUrlParameter(sParam)
     <listitem>H: HTML</listitem>
   </itemizedlist>
       
-<p>There are currently <xsl:value-of select='count(udhr[@stage="4" or @stage="5"])'/> translations fully converted to Unicode.</p>
-
-
 <informaltable id='translations'>
   <thead>
     <row>
       <entry rowspan="2">Key</entry>
-      <entry colspan="5">Language</entry>
+      <entry colspan="4">Language</entry>
       <entry rowspan="2">OHCHR</entry>
       <entry rowspan="2">Stage</entry>
       <entry rowspan="2">Deliverables</entry>
     </row>
     <row>
       <entry>Name</entry>
-      <entry>Region</entry>
       <entry>639-3</entry>
       <entry>15924</entry>
       <entry>BCP47</entry>
@@ -120,8 +115,6 @@ function getUrlParameter(sParam)
     <entry>
        <ulink url='http://www.ethnologue.com/language/{@iso639-3}/'><xsl:value-of select='@n'/></ulink>
      </entry>
-
-    <entry><xsl:value-of select='@region'/></entry>
 
     <entry><ulink url='http://https://iso639-3.sil.org/code/{@iso639-3}'><xsl:value-of select='@iso639-3'/></ulink></entry>
 

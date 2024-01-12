@@ -33,7 +33,7 @@
        x = x + xsep;
 
        if (stage > 2) {
-         x = x + "<a href='https://www.unicode.org/udhr/d/udhr_" + file + ".html'>" + name + "</a>" }
+         x = x + "<a href='http://efele.net/udhr/d/udhr_" + file + ".html'>" + name + "</a>" }
        else {
          x = x + name; }
 

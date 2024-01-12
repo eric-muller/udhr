@@ -64,10 +64,8 @@
   <xsl:text>Universal Declaration of Human Rights - </xsl:text> 
   <xsl:value-of select='$name'/>
 
-  <xsl:text>
-&#x00A9; 1996 &#x2013; 2009 The Office of the High Commissioner for Human Rights
-This plain text version prepared by the &#x201C;UDHR in Unicode&#x201D;
-project, https://www.unicode.org/udhr.
+  <xsl:text>This plain text version prepared by the &#x201C;UDHR in XML&#x201D;
+project, http://efele.net/udhr.
 ---
 
 </xsl:text>
@@ -106,10 +104,8 @@ project, https://www.unicode.org/udhr.
 <xsl:value-of select='$title2'/>
 <xsl:text>
 
-&#x00A9; 1996 &#x2013; 2009 The Office of the High Commissioner for Human Rights
-
-This plain text version prepared by the "UDHR in Unicode" project,
-https://www.unicode.org/udhr.
+This plain text version prepared by the "UDHR in XML" project,
+http://efele.net/udhr.
 
 ------
 </xsl:text>

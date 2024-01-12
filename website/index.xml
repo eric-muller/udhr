@@ -8,17 +8,23 @@
 <stylesheet href="cdn/leaflet.github.io/Leaflet.markercluster/dist/MarkerCluster.Default.css"/>
 <javascript src="cdn/leaflet.github.io/Leaflet.markercluster/dist/leaflet.markercluster-src.js"/>
 
-  <title>UDHR in Unicode</title>
+  <title>UDHR in XML</title>
 
-  <para>The goal of the <emphasis>UDHR in Unicode</emphasis> project
-  is to demonstrate the use of Unicode for a wide variety of
-  languages, using the Universal Declaration of Human Rights (UDHR) as
-  a representative text. The UDHR was selected because it is available
-  in a large number of languages, in particular from the Office of the
-  United Nations High Commissioner for Human Rights (OHCHR) at <ulink
-  url='http://www.ohchr.org/EN/UDHR/'/>.</para>
+  <para>The goal of the <emphasis>UDHR in XML</emphasis> project is to
+  disseminate the Universal Declaration of Human Rights (UDHR) across
+  the world. This project complements the <ulink
+  url='https://www.ohchr.org/en/human-rights/universal-declaration/universal-declaration-human-rights/about-universal-declaration-human-rights-translation-project'>UDHR
+  Translation Project</ulink> of the Office of the United Nations High
+  Commissioner for Human Rights (OHCHR) by making the text available
+  in a uniform, repurposable form.</para>
 
-  <para>You can access the translations by the map below (HTML version only) or by the <ulink url='translations.html'>table of translations</ulink> (XML, plain text, HTML, etc.) You can also access some <ulink url='aggregates.html'>aggregate documents</ulink> showing all or part of the translations. Or you can consult the underlying Github repository <ulink url='https://github.com/unicode-org/udhr'>unicode-org/udhr</ulink>.</para>
+  <para>You can access the translations by the map below (HTML version
+  only) or by the <ulink url='translations.html'>table of
+  translations</ulink> (XML, plain text, HTML) You can also access
+  some <ulink url='aggregates.html'>aggregate documents</ulink>
+  showing all or part of the translations. Or you can consult the
+  underlying Github repository <ulink
+  url='https://github.com/eric-muller/udhr'>eric-muller/udhr</ulink>.</para>
 
   <para>You are encouraged to contribute to this project by reviewing
   existing translations or by providing new ones. Many thanks to those
@@ -26,6 +32,8 @@
 
   <para>You may also enjoy the video and audio recordings at <ulink url='http://udhr.video'>http://udhr.video</ulink>.</para>
 
+  <para>The UDHR and all its translations are obviously part of our commons.</para>
+  
 <div id="map" style="height:30em"></div>
 
 <javascript src='markers.js'/>
@@ -34,15 +42,7 @@
 
   <bridgehead>Recent updates</bridgehead>
 
-  <para><emphasis>November 27, 2023:</emphasis> fixes to the Bari [bfa] translation, thanks to Denis Moyogo Jacquerye.</para>
-
-  <para><emphasis>November 15, 2023:</emphasis> fixes to the Serer-Sine [srr] translation, thanks to Denis Moyogo Jacquerye.</para>
-
-  <para><emphasis>October 19, 2023:</emphasis> fixes to the Hausa (Nigeria) [hau_NG] translation, thanks to Denis Moyogo Jacquerye.</para>
-
-  <para><emphasis>September 8, 2023:</emphasis> fixes to the Idoma [idu] translation, thanks to Denis Moyogo Jacquerye.</para>
-  
-  <para><emphasis>August 10, 2023:</emphasis> new translation from the OHCHR site, Zarma [043], thanks to Denis Moyogo Jacquerye.</para>
+  <para><emphasis>January 12, 2024:</emphasis> the Unicode Consortium no longer sponsors or supports this project. The Github repository is now <ulink url='https://github.com/eric-muller/udhr'>eric-muller/udhr</ulink>. The namespace of the XML documents is now <userinput>http://efele.net/udhr</userinput>. The website is now <ulink url='http://efele.net/udhr'>http://efele.net/udhr</ulink>.</para>
 
   <para>[<ulink url='news.html'>Older news</ulink>]</para>
 

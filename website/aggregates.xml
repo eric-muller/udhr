@@ -12,55 +12,37 @@
 	<row>
 	  <entry>the first article in all the scripts</entry>
 	  <entry><ulink
-      url='assemblies/first_article_subset.txt'>txt</ulink> 9K</entry>
+      url='assemblies/first_article_subset.txt'>txt</ulink></entry>
 	  <entry><ulink
-      url='assemblies/first_article_subset.html'>html</ulink> 11K</entry>
+      url='assemblies/first_article_subset.html'>html</ulink></entry>
 	</row>
 
 	<row>
 	  <entry>the first article in all the languages</entry>
 	  <entry><ulink
-      url='assemblies/first_article_all.txt'>txt</ulink> 74K</entry>
+      url='assemblies/first_article_all.txt'>txt</ulink></entry>
 	  <entry><ulink
-      url='assemblies/first_article_all.html'>html</ulink> 95K</entry>
+      url='assemblies/first_article_all.html'>html</ulink></entry>
 	</row>
 
 	<row>
 	  <entry>the full text in all the scripts</entry>
 	  <entry><ulink
-      url='assemblies/full_subset.txt'>txt</ulink> 477K</entry>
+      url='assemblies/full_subset.txt'>txt</ulink></entry>
 	  <entry><ulink
-      url='assemblies/full_subset.html'>html</ulink> 524K</entry>
+      url='assemblies/full_subset.html'>html</ulink></entry>
 	</row>
 
 	<row>
 	  <entry>the full text in all the languages</entry>
 	  <entry><ulink
-      url='assemblies/full_all.txt'>txt</ulink> 4,244K</entry>
+      url='assemblies/full_all.txt'>txt</ulink></entry>
 	  <entry><ulink
-      url='assemblies/full_all.html'>html</ulink> 4,974K</entry>
+      url='assemblies/full_all.html'>html</ulink></entry>
 	</row>
       </tbody>
     </tgroup>
   </informaltable>
-
-<!--
-  <navigation>
-    <navtitle>Translations</navtitle>
-    <navitem><ulink href='index_by_name.html'>by name</ulink></navitem>
-    <navitem><ulink href='index_by_code.html'>by code</ulink></navitem>
-    <navitem><ulink href='index_by_state.html'>by stage</ulink></navitem>
-    <navitem><ulink href='aggregates.html'>aggregates</ulink></navitem>
-    <navitem><ulink href='downloads.html'>bulk downloads</ulink></navitem>
-    <navtitle>Contributing</navtitle>
-    <navitem><ulink href='contributing.html'>how to help</ulink></navitem>
-    <navitem><ulink href='credits.html'>credits</ulink></navitem>
-    <navitem><ulink href='contacts.html'>contacts</ulink></navitem>
-    <navtitle>Technical Details</navtitle>
-    <navitem>foo</navitem>
-  </navigation>
--->
-
 
 </article>
 

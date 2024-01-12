@@ -3,12 +3,9 @@
 <article>
   <title>Contacts</title>
 
-  <para>You can send comments, questions, contributions by email
-  directly to eric.muller at efele.net; you can also use the
-  <ulink url='/reporting.html'>online reporting</ulink> form.</para>
+  <para>You can send comments, questions, contributions by email to
+udhr at efele.net. </para>
 
-  <para>If you want to send us a version on paper, please use <ulink
-  url='/contacts.html#mail'>this postal address</ulink>.</para>
-
+  <para>You can also submit pull requests to the Github repository <ulink url='http://efele.net/eric-muller/udhr'>eric-muller/udhr</ulink>.</para>
 </article>
 

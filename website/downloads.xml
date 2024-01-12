@@ -3,7 +3,6 @@
 <article>
   <title>Bulk downloads</title>
 
-
   <para>If you want to access only a couple of languages, please use
   the index pages to access the relevant files.</para>
 
@@ -12,15 +11,15 @@
       <tbody>
 	<row>
 	  <entry>all the XML files</entry>
-	  <entry><ulink url='assemblies/udhr_xml.zip'>zip</ulink> 1,493K </entry>
+	  <entry><ulink url='assemblies/udhr_xml.zip'>zip</ulink></entry>
 	</row>
 	<row>
 	  <entry>all the plain text files</entry>
-	  <entry><ulink url='assemblies/udhr_txt.zip'>zip</ulink> 1,392K </entry>
+	  <entry><ulink url='assemblies/udhr_txt.zip'>zip</ulink></entry>
 	</row>
 	<row>
 	  <entry>all the HTML files</entry>
-	  <entry><ulink url='assemblies/udhr_html.zip'>zip</ulink> 1,494K</entry>
+	  <entry><ulink url='assemblies/udhr_html.zip'>zip</ulink></entry>
 	</row>
       </tbody>
     </tgroup>

@@ -73,14 +73,15 @@
   <html lang="en" xml:lang="en">
 
     <head>
-      <title>UDHR In Unicode - <xsl:value-of select="title"/></title>
+      <title>UDHR in XML - <xsl:value-of select="title"/></title>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 
       <xsl:apply-templates select='stylesheet' mode='head'/>
       <xsl:apply-templates select='javascript' mode='head'/>
 
-      <link rel="stylesheet" type="text/css" href="http://www.unicode.org/webscripts/standard_styles.css" />
-
+      <style>
+.navColTitle { font-weight: bold; }
+      </style>
     </head>
 
     <body text='#330000'>
@@ -89,12 +90,7 @@
 	  <td colspan='2'>
 	    <table width="100%" border="0" cellpadding="0" cellspacing="0">
 	      <tr>
-		<td class="icon"><a href="http://www.unicode.org/"><img border="0" src="http://www.unicode.org/webscripts/logo60s2.gif" align="middle" alt="[Unicode]" width="34" height="33"/></a>&#x00A0;&#x00A0;<a class="bar" href="{$root-dir}index.html"><font size="3">UDHR in Unicode</font></a>
-		</td>
-		<td class="bar">
-		  <a href="http://www.unicode.org" class="bar">Home</a> | 
-		  <a href="http://www.unicode.org/sitemap/" class="bar">Site Map</a> | 
-		  <a href="http://www.unicode.org/search/" class="bar">Search</a>
+		<td class="icon"><a class="bar" href="{$root-dir}index.html"><font size="3">UDHR in XML</font></a>
 		</td>
 	      </tr>
 	    </table>

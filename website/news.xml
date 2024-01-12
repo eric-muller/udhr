@@ -3,6 +3,10 @@
 <article>
   <title>News</title>
 
+  <bridgehead id='y2024'>2024</bridgehead>
+
+  <para><emphasis>January 12, 2024:</emphasis> the Unicode Consortium no longer sponsors or supports this project. The Github repository is now <ulink url='https://github.com/eric-muller/udhr'>eric-muller/udhr</ulink>. The namespace of the XML documents is now <userinput>http://efele.net/udhr</userinput>. The website is now <ulink url='http://efele.net/udhr'>http://efele.net/udhr</ulink>.</para>
+
   <bridgehead id='y2023'>2023</bridgehead>
 
   <para><emphasis>November 27, 2023:</emphasis> fixes to the Bari [bfa] translation, thanks to Denis Moyogo Jacquerye.</para>
