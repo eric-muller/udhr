@@ -5,7 +5,7 @@
 
 <xsl:stylesheet 
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-  xmlns:udhr="http://www.unicode.org/udhr"
+  xmlns:udhr="http://efele.net/udhr"
   version="2.0">
 
 
@@ -61,12 +61,15 @@
 <xsl:template match='udhr:udhr' mode='multiple'>
   <xsl:param name='name'/>
 
-  <xsl:text>Universal Declaration of Human Rights - </xsl:text> 
+  <xsl:text>Universal Declaration of Human Rights - </xsl:text>
   <xsl:value-of select='$name'/>
 
-  <xsl:text>This plain text version prepared by the &#x201C;UDHR in XML&#x201D;
-project, http://efele.net/udhr.
----
+  <xsl:text>
+
+This plain text version prepared by the "UDHR in XML" project,
+http://efele.net/udhr.
+
+-----
 
 </xsl:text>
 
