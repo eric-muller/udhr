@@ -116,7 +116,7 @@ function getUrlParameter(sParam)
        <ulink url='http://www.ethnologue.com/language/{@iso639-3}/'><xsl:value-of select='@n'/></ulink>
      </entry>
 
-    <entry><ulink url='http://https://iso639-3.sil.org/code/{@iso639-3}'><xsl:value-of select='@iso639-3'/></ulink></entry>
+    <entry><ulink url='http://iso639-3.sil.org/code/{@iso639-3}'><xsl:value-of select='@iso639-3'/></ulink></entry>
 
     <entry><xsl:value-of select='@iso15924'/></entry>
 
