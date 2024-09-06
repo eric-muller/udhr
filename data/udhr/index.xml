@@ -488,7 +488,7 @@
   <udhr f='slk'                iso639-3='slk' iso15924='Latn'  bcp47='sk'             dir='ltr' stage='4' loc='48.55,18.78'     status='y' demo='n' n='Slovak'                                                ohchr='slo'/>
   <udhr f='slr'                iso639-3='slr' iso15924='Latn'  bcp47='slr'            dir='ltr' stage='4' loc='35.00,95.00'     status='y' demo='n' n='Salar'                                                 ohchr='slr'/>
   <udhr f='slv'                iso639-3='slv' iso15924='Latn'  bcp47='sl'             dir='ltr' stage='4' loc='46.25,14.78'     status='y' demo='n' n='Slovenian'                                             ohchr='slv'/>
-  <udhr f='sme'                iso639-3='sme' iso15924='Latn'  bcp47='se'             dir='ltr' stage='4' loc='68.72,22.11'     status='y' demo='n' n='Saami, North'                                          ohchr='lpi'/>
+  <udhr f='sme'                iso639-3='sme' iso15924='Latn'  bcp47='se'             dir='ltr' stage='4' loc='68.72,22.11'     status='y' demo='n' n='North Saami'                                           ohchr='lpi'/>
   <udhr f='smo'                iso639-3='smo' iso15924='Latn'  bcp47='sm'             dir='ltr' stage='4' loc='-13.92,-171.83'  status='y' demo='n' n='Samoan'                                                ohchr='smy'/>
   <udhr f='sna'                iso639-3='sna' iso15924='Latn'  bcp47='sn'             dir='ltr' stage='4' loc='-17.21,29.76'    status='y' demo='n' n='Shona'                                                 ohchr='shd'/>
   <udhr f='snd'                iso639-3='snd' iso15924='Arab'  bcp47='sd'             dir='rtl' stage='2' loc='26.00,69.00'     status='y' demo='n' n='Sindhi'                                                ohchr='snd'/>
