@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--© The Office of the High Commisioner for Human Rights-->
-
-<udhr iso639-3='bvi' xml:lang='bvi' key='044' n='Belanda Viri' dir='ltr' iso15924='Latn' xmlns="http://www.unicode.org/udhr">
+<udhr iso639-3='bvi' xml:lang='bvi' key='044' n='Belanda Viri' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
+    <title>TUNVÍYA WÁ KÁYI WÚDU NÏTA GBÍ NDOO</title>
     <note>
-        <title>NÏNDÃ TAA YUYI NDI SÓ WÁNDÃ KPÍ VAMURU KÁBÁ LÍNGO TUNVÍYA WÁ KÁYI WU'DU mURUTÜ</title>
+        <para>NÏNDÃ TAA YUYI NDI SÓ WÁNDÃ KPÍ VAMURU KÁBÁ LÍNGO</para>
+        <para>TUNVÍYA WÁ KÁYI WU'DU MURUTÜ</para>
         <para>Ndã wá bowo murutǘ kpí nóo, ãjõ ká nako nó ta ká yii ndí ta tí ndí káujee ta báväŋ ndiudí 'do, ká tagündí.</para>
         <para>Vamuru ka'bá jẽrẽ tí ndindi ta kau nótí kpoo, ndí só wáa sígí wá ká yiwu'du, vẽe, ká yinana da ngï ta gbá yawe, 'dii je a tïndndí, a'dii ta ndí yëe, 'dií je a kükürü murundí boo. Sígi nó 'do ká mgbí tí türü wá ká gele ndí vamuru bá língo noo nve te ká ndí gele wá só ndi kánako ta muru tǘ nó, á letí ká kpokor-kpokro ká yi wu'du, ta nindï wu'du wéi, 'dii ji yi ŋono nve reta ní ta vota muruó nó.</para>
         <para>Á murutǘ kpí, á gbí tunvíya wá káyi wu'du nó vee, 'do bi ká vamurubá Língo gbí ndosó kpaakpaa, ká yiwu'du ká ta tíi ya we.</para>
         <para>Álaŋana yëë na, ká yiwu'du nó a ká nga ndoó. Ndí nó ká ngaŋo, sindí njújüku muruno kpa'da. Koni ta tabï a 'dindoŋo yëë ta ndí, táa tï-tïkï téi ta ndi sówáŋo tí mïlïŋo, 'dií je ndi sówá kákaŋo ŋono ta muru ta tíndí ngandí ti laŋana nó.</para>
+        <para>Ga Rofi tí Türü wásó Letí ká yi wu'du A Va (111)</para>
+        <para>Gbí Li 10 gbí Fi Laŋi gbí Ndoo nga 1948.</para>
+        <para>Ã melendé wéi, 'dii ji Tunvíya wéi tii.</para>
     </note>
-    <title>Ga Rofi tí Türü wásó Letí ká yi wu'du A Va (111)<br/>Gbí Li 10 gbí Fi Laŋi gbí Ndoo nga 1948.<br/>Ã melendé wéi, 'dii ji Tunvíya wéi tii.</title>
     <preamble>
         <title>Losó</title>
         <para>Tatere só wáa walando wu'du tí ŋó 'dii nó ta gïrï bi ká nve ma garofi, tí ká faväng. A ŋii sere só, ndi nako, murutü kpí wiri ká ŋa ndí, gbí fandí, áyí nó a yi tagü faväŋ táa yele só, ta murutǘ nünüki ta.</para>
@@ -19,8 +21,8 @@
         <para>Wu'du wá jerebï vakureú tí kpoo kíi, bḯï nve njalaí 'de wilá, wá láŋana nó ka Türü nga va Murukábá lingo wunjo ta tí ká tatere ká yi wáa walando wu'du tí faväŋ, ta ŋa ká gïrï wei kpí, yii ká nako murutǘ, ká 'dako ta ká nïï ná njee, ndí wala ta yivi tïnvï gïrï ndi ká faväŋ tí yáláká yaláká kee yoö.</para>
         <para>Ká bïï ká bá gbí a walando nako ta sere gïri wéi sesege ndindí ta ta, toko ta só njee ta ká vamurubá língo ndí sówáa akoni gïrï yi wu'du tí kpoo, 'doteí ká faväŋ, vee, a yïrïsä nako ta ŋa vanga gele wáa walando kpí ya we.</para>
         <para>Ká Türü vamurubá língo ma nó kere ká só gbí mgbanga yü téí ji nako kpí, vee, bïï yi lá gbele sere gïrï wáa 'dï gbí káyi wu'du wílá mom 'de, ta faväŋ wéi ka 'do ká tagü, áyí nó a kpokro só wáa vandí bi wu'du faväŋ kpa'da.</para>
-        <para>Wámina, kée nóo,<br/>Ga rofi noo tí yüjinda vee, ká Tunviya noo, tí nga ká yi wu'du nïnïkïta lá, sere gïrï wáa walando ta gbí kábá kpí, gbele tïnvï, 'do ká láár njee bi ká nako kpí murutǘ, si Tunviya wéi njüjükú muru, si gó wi wéi 'da'daka nako táa rugutéi ta bïdö, ta letí ká yiwu'du ta faväŋ 'do tagü, ndi bámïrï, si ká nako kpí táa nji ká, yi wu'du, teteke ta ká gele wándí nïnïkïta, gbí ká vuru ndi vamurukába lingo, ta tí mïlï ndí, 'dii je ta bïï ká vuru ká gbiya ŋono ká gbiya ndindí ká yǘkǘ favva gïrï wáa 'dindo ndí yëë ya we kii ndáa.</para>
-        <para>TUNVÍYA WÁ KÁYI WÚDU NÏTA GBÍ NDOO (1948)</para>
+        <para>Wámina, kée nóo,</para>
+        <para>Ga rofi noo tí yüjinda vee, ká Tunviya noo, tí nga ká yi wu'du nïnïkïta lá, sere gïrï wáa walando ta gbí kábá kpí, gbele tïnvï, 'do ká láár njee bi ká nako kpí murutǘ, si Tunviya wéi njüjükú muru, si gó wi wéi 'da'daka nako táa rugutéi ta bïdö, ta letí ká yiwu'du ta faväŋ 'do tagü, ndi bámïrï, si ká nako kpí táa nji ká, yi wu'du, teteke ta ká gele wándí nïnïkïta, gbí ká vuru ndi vamurukába lingo, ta tí mïlï ndí, 'dii je ta bïï ká vuru ká gbiya ŋono ká gbiya ndindí ká yǘkǘ favva gïrï wáa 'dindo ndí yëë ya we kii ndáa.</para>
     </preamble>
     <article number="1">
         <title>Va 1.</title>
@@ -33,7 +35,7 @@
     </article>
     <article number="3">
         <title>Va 3.</title>
-        <parar>Bií yi láa awalando wu'du vä́ŋ wílá, kungu taní bo ta wo ndöö́ kpa'da.</para>
+        <para>Bií yi láa awalando wu'du vä́ŋ wílá, kungu taní bo ta wo ndöö́ kpa'da.</para>
     </article>
     <article number="4">
         <title>Va 4.</title>
@@ -139,6 +141,7 @@
     <article number="18">
         <title>Va 18.</title>
         <para>Bḯï yi wu'du nó aba nde ta muró, ta njonvó ta gele Joki ndöö́, tí faväŋ. 'Deeti bḯï yi ní nó a kara gele Joki, wágbá, a wunjo ndïï tí milöö́ we, á gbí julúlú wéí ta ká kaú, wágbá ta kafi ol nako, á tí lo nako, 'dii teteke ta gele Joki wei, ta funji weí, ta ye weí ya we láá.</para>
+    </article>
     <article number="19">
         <title>Va 19.</title>
         <para>Bḯï iy wu'du nó avavala gbí só kpakpa, ta wḯlï muru, lá avavala gbí yï kpere, tí ká só ndöö́ ŋono gbí muró nóti faväŋ, ta sososo tí wílá, dii lalau ta só wéi ta ká bḯï ká nako ta ndibá ndindí, ta ndi kábá mïrï kpí murutǘ.</para>
@@ -185,7 +188,7 @@
                 <para>Víli noo wu'du tí jerei gbí nde noo, a ngandöö́ tí mïlïó, 'deti ndi sówá ká nvebá ndöö́. Si ndí táa 'dii yëë lá ká sere kanako faväŋ.</para>
             </listitem>
             <listitem>
-    4. Bíï nve jïwu'du ta yorotó gbá va mamuru nako njee, ndi só wáa ya külö wílá.
+              <para>Bíï nve jïwu'du ta yorotó gbá va mamuru nako njee, ndi só wáa ya külö wílá.</para>
             </listitem>
         </orderedlist>
     </article>
@@ -250,7 +253,5 @@
     <article number="30">
         <title>Va 30.</title>
         <para>Vavala gbi Tünbiya nó ji ká nve 'dï gbi gbá nó ta sere só, lá küre, bḯï vmurunako mgbu murutǘ noo, 'bïï ká vamunako wá kukuru vandï ká yi wu'du 'de gbí noo, kée ŋo 'dïí ta süng kí, tunviya wéi ká sindí gbá mgbí mom.</para>
-
-    <para>Balanda Viri Language</para>
     </article>
 </udhr>
