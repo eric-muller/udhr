@@ -5,6 +5,8 @@
 
   <bridgehead id='y2024'>2024</bridgehead>
 
+  <para><emphasis>October 2, 2024:</emphasis> change the language of the [oci_1], [oci_2], [oci_3] and [oci_4] translations to 'Francoprovençal', ISO 639-3 frp; adjust coordinates for those, and for the Occitan translations ([prv], [auv], [lnc]).</para>
+  
   <para><emphasis>September 25, 2024:</emphasis> fixes to the Bora [boa], Huastec (San Luis Potosi) [hva], Aguaruna [agr], Orok [oaa], Nenets [yrk], Zarma [043], Matsés [mcf], Chachi [cbi], Shipibo-Conibo [shp], Gaelic, Irish [gle], and Awa-Cuaiquer [kwi], thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>September 25, 2024:</emphasis> fixes to the Baatonum [bba] translation.</para>

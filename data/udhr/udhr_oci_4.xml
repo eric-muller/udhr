@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<udhr iso639-3='oci' xml:lang='oc' key='oci_4' n='Occitan (Francoprovençal, Valais)' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
+<udhr iso639-3='frp' xml:lang='frp' key='oci_4' n='Francoprovençal (Valais)' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
    <title>Dèclarachion di drouê dè l’ómó por tui lè pa-i dou moundo.</title>
    <note>
       <para>Document traduit en patois d’Hérémence par Alphonse Dayer avec la collaboration de Narcisse Seppey.</para>
