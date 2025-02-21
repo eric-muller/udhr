@@ -33,7 +33,7 @@
   <para>You may also enjoy the video and audio recordings at <ulink url='http://udhr.video'>http://udhr.video</ulink>.</para>
 
   <para>The UDHR and all its translations are obviously part of our commons.</para>
-  
+
 <div id="map" style="height:30em"></div>
 
 <javascript src='markers.js'/>
@@ -42,17 +42,7 @@
 
   <bridgehead>Recent updates</bridgehead>
 
-  <para><emphasis>October 2, 2024:</emphasis> change the language of the [oci_1], [oci_2], [oci_3] and [oci_4] translations to 'Francoprovençal', ISO 639-3 frp; adjust coordinates for those, and for the Occitan translations ([prv], [auv], [lnc]).</para>
-  
-  <para><emphasis>September 25, 2024:</emphasis> fixes to the Bora [boa], Huastec (San Luis Potosi) [hva], Aguaruna [agr], Orok [oaa], Nenets [yrk], Zarma [043], Matsés [mcf], Chachi [cbi], Shipibo-Conibo [shp], Gaelic, Irish [gle], and Awa-Cuaiquer [kwi], thanks to Denis Moyogo Jacquerye.</para>
-
-  <para><emphasis>September 25, 2024:</emphasis> fixes to the Baatonum [bba] translation.</para>
-
-  <para><emphasis>September 12, 2024:</emphasis> the Maori (2) [069] translation is available for review, thanks to Simon Cozens. The existing Maori [mri] translation is the HTML version at the OHCHR, while this new one is the PDF version.</para>
-
-  <para><emphasis>September 12, 2024:</emphasis> the Balanda Viri [bvi] translation is available for review, thanks to Denis Moyogo Jacquerye.</para>
-
-  <para><emphasis>September 6, 2024:</emphasis> new translations from the OHCHR site: Maay [057], Somali (Af Marka) [058], North Saami (2) [059], Inari Saami [060], Skolt Saami [061], Swahili (Chimwiini) [062], Swahili (Kibajuni) [063], Dabarra [064], Garre [065], Jiiddu [066], Finnish (2) [067], French(Welche) [068], Tamil (2) [069]. Thanks to Christopher Green and Evan Jones, for their help identifying the language of the Somali (Af Marka) [058] translation.</para>
+  <para><emphasis>February 21, 2025:</emphasis> The key “068” has been mistakenly used for both the “French (Welche)” and the “Tamil (2)” translations. The latter is now given the key “070”. Thanks to Katherine Hoffmann Pham for spotting this error.</para>
 
   <para>[<ulink url='news.html'>Older news</ulink>]</para>
 

@@ -3,7 +3,7 @@
 <article>
   <title>Contributors</title>
 
-  <para>This project would not be possible without the help of many 
+  <para>This project would not be possible without the help of many
   individuals and institutions.</para>
 
   <bridgehead id='ohchr'>OHCHR</bridgehead>
@@ -18,6 +18,9 @@
   <para>Many thanks to all the folks who helped with the translations; in no particular order:</para>
 
   <itemizedlist>
+    <listitem>
+      <para>Katherine Hoffmann Pham, for spotting the conflicting use of the key “068”.</para>
+    </listitem>
     <listitem>
       <para>Simon Cozens, for the conversion to XML of the Maori (2) [069] translation.</para>
     </listitem>
@@ -39,15 +42,15 @@
     <listitem>
       <para>Boaz Brickner for corrections to the Hebrew [heb] translation.</para>
     </listitem>
-    
+
     <listitem>
       <para>Konstantin &#x201c;Thabit&#x201d; Filimonov, for corrections to the Chuvash [chv] translation.</para>
     </listitem>
-    
+
     <listitem>
       <para>xekri, for corrections to the Japanese (Osaka) [jpn_osaka] translation.</para>
     </listitem>
-    
+
     <listitem>
       <para>Corey Garrett, for corrections to the Wolof [wol] translation.</para>
     </listitem>
@@ -276,7 +279,7 @@
     <listitem>
       <para>Philip Jacobs for reporting the incorrect identification of the language of the [qud] and [qxa] translations.</para>
     </listitem>
-      
+
     <listitem>
       <para>Shree Devi Kumar, for corrections to the Bhojpuri [bho] and Magahi [mag] translations.</para>
     </listitem>
@@ -465,7 +468,7 @@
     </listitem>
 
     <listitem>
-      <para>Henning Brunzel for noticing the mislabeling of the 
+      <para>Henning Brunzel for noticing the mislabeling of the
       Cashinahua translation.</para>
     </listitem>
 
@@ -629,18 +632,18 @@
       &#x0E21;&#x0E38;&#x0E19;&#x0E35;&#x0E1E;&#x0E35;&#x0E23;&#x0E30;&#x0E01;&#x0E38;&#x0E25;)
       for typing the Thai translation from the OHCHR source.</para>
     </listitem>
-    
+
     <listitem>
       <para>Rani Mahapatra for (partially) deciphering the Bengali image provided
       by the OHCHR site.</para>
     </listitem>
-    
+
     <listitem>
       <para>Simon Ager at <ulink
       url='http://www.omniglot.com'>omniglot.com</ulink> for gathering
       a few translations of the first article of the UDHR.</para>
     </listitem>
-    
+
     <listitem>
       <para>Adobe Systems, for providing the XML files for 280
       languages (pre-review); for corrections to the
@@ -659,6 +662,5 @@
   <para>If we did not record your contribution (sorry!), or
   you would like a different wording, please <ulink
   url='contacts.html'>let us know</ulink>.</para>
-  
-</article>
 
+</article>

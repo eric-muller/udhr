@@ -3,10 +3,14 @@
 <article>
   <title>News</title>
 
+  <bridgehead id='y2025'>2025</bridgehead>
+
+  <para><emphasis>February 21, 2025:</emphasis> The key “068” has been mistakenly used for both the “French (Welche)” and the “Tamil (2)” translations. The latter is now given the key “070”. Thanks to Katherine Hoffmann Pham for spotting this error.</para>
+
   <bridgehead id='y2024'>2024</bridgehead>
 
   <para><emphasis>October 2, 2024:</emphasis> change the language of the [oci_1], [oci_2], [oci_3] and [oci_4] translations to 'Francoprovençal', ISO 639-3 frp; adjust coordinates for those, and for the Occitan translations ([prv], [auv], [lnc]).</para>
-  
+
   <para><emphasis>September 25, 2024:</emphasis> fixes to the Bora [boa], Huastec (San Luis Potosi) [hva], Aguaruna [agr], Orok [oaa], Nenets [yrk], Zarma [043], Matsés [mcf], Chachi [cbi], Shipibo-Conibo [shp], Gaelic, Irish [gle], and Awa-Cuaiquer [kwi], thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>September 25, 2024:</emphasis> fixes to the Baatonum [bba] translation.</para>
@@ -38,25 +42,25 @@
   <para><emphasis>October 19, 2023:</emphasis> fixes to the Hausa (Nigeria) [hau_NG] translation, thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>September 8, 2023:</emphasis> fixes to the Idoma [idu] translation, thanks to Denis Moyogo Jacquerye.</para>
-  
+
   <para><emphasis>August 10, 2023:</emphasis> new translation from the OHCHR site, Zarma [043], thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>May 21, 2023:</emphasis> the language of the [hna] translation was previously Mina, iso639-3=hna. It is in fact Gen, iso639-3=gej. Thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>May 21, 2023:</emphasis> fixes to the Picard [pcd] tranlation, thanks to Denis Moyogo Jacquerye.</para>
-  
+
   <para><emphasis>May 17, 2023:</emphasis> fixes to the Kazakh [kaz] and Kissi, Northern [kqs] translations, thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>May 16, 2023:</emphasis> fixes to the Bosnian (Cyrillic) [bos_cyrl], Adyghe [ady], Even [eve], Khakas [kjh], Orok [oaa] and Yukaghir [ykg] translations, thanks to Ivan Derzhanski.</para>
 
   <para><emphasis>May 16, 2023:</emphasis> fixes to the Ticuna [tca], Mazahua Central [maz] and Chinantec, Chiltepec [csa] translations, thanks to Denis Moyogo Jacquerye.</para>
-  
+
   <para><emphasis>January 28, 2023:</emphasis> The Spanish [spa] translation now matches the text at <ulink url="https://www.un.org/es/about-us/universal-declaration-of-human-rights"/>. The new Spanish (resolution) [042] translation matches the <ulink url="https://undocs.org/es/A/RES/217(III)">text of the resolution</ulink> adopting the declaration. Thanks to Vincent Chen for pointing out the differences.</para>
 
   <para><emphasis>January 11, 2023:</emphasis> A newer Latvian translation, Lativan (2) [041], found by Vincent Chen on the Latvia government site.</para>
-  
+
   <para><emphasis>January 11, 2023:</emphasis> Fixes to the Hebrew [heb] translation thanks to Boaz Brickner.</para>
-  
+
   <bridgehead id='y2022'>2022</bridgehead>
 
   <para><emphasis>December 29, 2022:</emphasis> The (Bizisa) [012] translation is a duplicate of the (Bizisa) [025] translation; retiring it. Thanks for Doug Ewell for noticing this.</para>
@@ -70,7 +74,7 @@
   <para><emphasis>December 12, 2022:</emphasis> Fixes to the Bulgarian [bul] translation, thanks to Ivan Derzhanski.</para>
 
   <para><emphasis>September 12, 2022:</emphasis> Fixes to the Yoruba [yor] translation, thanks to Denis Moyogo Jacquerye.</para>
-  
+
   <para><emphasis>August 30, 2022:</emphasis> Removal of the Notes. There were meant to build a comprehensive guide of Unicode usage, but never took off.</para>
 
   <para><emphasis>August 30, 2022:</emphasis> Removal of the “character count”. This was an attempt at collecting the character usage across languages. However, the UDHR is much too small and narrow to provide useful data.</para>
@@ -378,10 +382,10 @@
   the Siona translation is available for
   review, thanks to Arthur Reutenauer.</para>
 
-  <para><emphasis>February 22, 2010:</emphasis> 
+  <para><emphasis>February 22, 2010:</emphasis>
   (Bai Coca) [001] identified as Siona [snn];
-  (Chaa&#x0027;pala) [002] identified as Chachi [cbi]; 
-  (Pai Koka) [003] identified as Secoya [sey]; 
+  (Chaa&#x0027;pala) [002] identified as Chachi [cbi];
+  (Pai Koka) [003] identified as Secoya [sey];
   (Sapara Atupama) [004] identified as Z&#x00E1;paro [zro];
   (Shuar Chicham) [005] identified as Shuar [jiv];
   (Sia Pedee) [006] identified as Epena [sja];
@@ -480,7 +484,7 @@
   <para><emphasis>August 11, 2008:</emphasis> the Panjabi, Eastern
   translation is ready for review.</para>
 
-  <para><emphasis>August 8, 2008:</emphasis> the Crioulo, Upper Guinea 
+  <para><emphasis>August 8, 2008:</emphasis> the Crioulo, Upper Guinea
   translation is ready for review.</para>
 
   <para><emphasis>August 5, 2008:</emphasis> OHCHR has switched their
@@ -496,7 +500,7 @@
   Mozarabic. In addition, the OHCHR site provides a translation for
   Crioulo, Upper Guinea (not yet converted to XML).</para>
 
-  <para><emphasis>June 2, 2008:</emphasis> repaired a major misalignment of the 
+  <para><emphasis>June 2, 2008:</emphasis> repaired a major misalignment of the
   element contents in the Ash&#x00E1;ninca translation.</para>
 
   <para><emphasis>June 2, 2008:</emphasis> fixed some minor problems,
@@ -529,7 +533,7 @@
   the Maldivian translation is available for review, thanks
   to www.geonames.de.</para>
 
-  <para><emphasis>January 21, 2008:</emphasis> the first article of 
+  <para><emphasis>January 21, 2008:</emphasis> the first article of
   the Assyrian Neo-Aramaic translation is available for review,
   thanks to Arthur Reutenauer.</para>
 
@@ -575,16 +579,16 @@
   Mongolian translation in the Mongolian script is available thanks to
   Arthur Reutenauer.</para>
 
-  <para><emphasis>July 21, 2007:</emphasis> the Swampy Cree translation 
+  <para><emphasis>July 21, 2007:</emphasis> the Swampy Cree translation
   is available for review, thanks to Arthur Reutenauer.</para>
 
-  <para><emphasis>July 21, 2007:</emphasis> the Ticuna translation 
+  <para><emphasis>July 21, 2007:</emphasis> the Ticuna translation
   is available for review, thanks to Arthur Reutenauer.</para>
 
-  <para><emphasis>July 18, 2007:</emphasis> the Uyghur (Arabic) translation 
+  <para><emphasis>July 18, 2007:</emphasis> the Uyghur (Arabic) translation
   is available for review, thanks to Arthur Reutenauer.</para>
 
-  <para><emphasis>July 18, 2007:</emphasis> the Tatar translation 
+  <para><emphasis>July 18, 2007:</emphasis> the Tatar translation
   is available for review, thanks to Arthur Reutenauer.</para>
 
   <para><emphasis>July 16, 2007:</emphasis> corrections in the Polish
@@ -613,7 +617,7 @@
   <para><emphasis>July 3, 2007:</emphasis> fix casing problem in
   Limba translation, thanks to  Denis Moyogo Jacquerye.</para>
 
-  <para><emphasis>July 3, 2007:</emphasis> a small typo fix in the 
+  <para><emphasis>July 3, 2007:</emphasis> a small typo fix in the
   Lingala translation, thanks to  Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>July 2, 2007:</emphasis> the UDHR In Unicode project
@@ -627,7 +631,7 @@
   &#x041C;&#x0435;&#x0449;&#x0435;&#x0440;&#x044F;&#x043A;&#x043E;&#x0432;
   (Eugeniy Meshcheryakov).</para>
 
-  <para><emphasis>June 30, 2007:</emphasis> a Lingala translation with tones 
+  <para><emphasis>June 30, 2007:</emphasis> a Lingala translation with tones
   is available for review thanks to Denis Moyogo Jacquerye.</para>
 
   <para><emphasis>April 24, 2007:</emphasis> the Malay (Arabic)
@@ -671,16 +675,16 @@
 
   <para><emphasis>March 25, 2007:</emphasis> updated the Themne
   version to use the orthography described in <emphasis>Alphabets de
-  languages africaines</emphasis>; thanks to Denis Moyogo Jacquerye for 
+  languages africaines</emphasis>; thanks to Denis Moyogo Jacquerye for
   pointing this out.</para>
 
-  <para><emphasis>January 21, 2007:</emphasis> many corrections to the 
+  <para><emphasis>January 21, 2007:</emphasis> many corrections to the
   Romanian translation (1953 orthography) and a translation following the
   1993 orthography, thanks to Mihai Ni&#x021B;&#x0103;.</para>
 
   <bridgehead id='y2006'>2006</bridgehead>
 
-  <para><emphasis>December 26, 2006:</emphasis> many corrections to the 
+  <para><emphasis>December 26, 2006:</emphasis> many corrections to the
   Hindi translation thanks to Zden&#x011B;k Wagner.</para>
 
   <para><emphasis>December 26, 2006:</emphasis> the full Amharic
@@ -737,10 +741,10 @@
   review thanks to Arthur Reutenauer.</para>
 
   <para><emphasis>September 14, 2006:</emphasis> added the region in the
-  indices; Walloon is now properly it's own language (rather than 
+  indices; Walloon is now properly it's own language (rather than
   a dialect of French).</para>
 
-  <para><emphasis>September 9, 2006:</emphasis> English and French 
+  <para><emphasis>September 9, 2006:</emphasis> English and French
   reviewed, promoted to stage 7.</para>
 
   <para><emphasis>September 8, 2006:</emphasis> the full Lao
@@ -751,7 +755,7 @@
   Bengali and Seraiki versions are available for review, thanks to
   Kumari Co Ltd.  via the Language Observatory.</para>
 
-  <para><emphasis>September 7, 2006:</emphasis> a good chunk of the Nepali 
+  <para><emphasis>September 7, 2006:</emphasis> a good chunk of the Nepali
   version is available for review, thanks to Allen
   Bailochan Tuladhar  via the
   Language Observatory.</para>
@@ -770,7 +774,7 @@
   the Language Observatory.</para>
 
   <para><emphasis>September 6, 2006:</emphasis> addition of a status and
-  history page for each language, to track all the changes, and record 
+  history page for each language, to track all the changes, and record
   the potential problems.</para>
 
   <para><emphasis>September 6, 2006:</emphasis> confusion between
