@@ -42,6 +42,8 @@
 
   <bridgehead>Recent updates</bridgehead>
 
+  <para><emphasis>February 22, 2025:</emphasis> fix to the Shilluk [shk] translation, thanks to Katherine Hoffmann Pham.</para>
+
   <para><emphasis>February 21, 2025:</emphasis> The key “068” has been mistakenly used for both the “French (Welche)” and the “Tamil (2)” translations. The latter is now given the key “070”. Thanks to Katherine Hoffmann Pham for spotting this error.</para>
 
   <para>[<ulink url='news.html'>Older news</ulink>]</para>
