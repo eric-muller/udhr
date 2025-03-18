@@ -19,6 +19,9 @@
 
   <itemizedlist>
     <listitem>
+      <para>ButterflyOfFire, for locating the Kabyle [071] translation, and providing the XML representation.</para>
+    </listitem>
+    <listitem>
       <para>Katherine Hoffmann Pham, for spotting the conflicting use of the key “068”, and fixes to teh Shilluk [shk] translation.</para>
     </listitem>
     <listitem>
