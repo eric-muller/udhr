@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<udhr iso639-3='oci' xml:lang='oc' key='prv' n='Occitan' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
+<udhr iso639-3='oci' xml:lang='oc-provenc' key='prv' n='Occitan' dir='ltr' iso15924='Latn' xmlns="http://efele.net/udhr">
   <title>Declaracioun universalo di dre de l'ome</title>
 
   <article number="1">
@@ -234,4 +234,3 @@
     <para>Res, ni Estat ni groupamen nimai unopersouno, poudra assaja de tira d'aquesto declaracioun lou dre de fairequaucarèn pèr escracha li dre e li liberta que ié soun esplica.</para>
   </article>
 </udhr>
-
