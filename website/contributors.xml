@@ -19,10 +19,10 @@
 
   <itemizedlist>
     <listitem>
-      <para>Mejans, for the Occitan (Languedocien, 2) [072] translation, and pointing out the BCP47 subtags for Occitan.</para>
+      <para>Quentin Pagès, for the Occitan (Languedocien, 2) [072] translation, and pointing out the BCP47 subtags for Occitan.</para>
     </listitem>
     <listitem>
-      <para>SnowOnion for a typo in the [cmn_hans_harbin] translation.</para>
+      <para>SnowOnion for fixes in the [cmn_hans_harbin] and [cmn_hans] translations.</para>
     </listitem>
     <listitem>
       <para>Jeff Quast, for encoding corrections to the Kabuverdianu [kea], Koongo (Angola) [kng_AO] and Scots [sco] translations.</para>
